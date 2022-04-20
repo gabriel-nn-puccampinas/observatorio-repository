@@ -1,0 +1,3169 @@
+codigo_distrito;distrito;ano;grupo_idades;populacao
+80001;Água Rasa;2000;00 a 14 anos;15682
+80002;Alto de Pinheiros;2000;00 a 14 anos;6489
+80003;Anhanguera;2000;00 a 14 anos;12412
+80004;Aricanduva;2000;00 a 14 anos;21970
+80005;Artur Alvim;2000;00 a 14 anos;25200
+80006;Barra Funda;2000;00 a 14 anos;2186
+80007;Bela Vista;2000;00 a 14 anos;8829
+80008;Belém;2000;00 a 14 anos;7390
+80009;Bom Retiro;2000;00 a 14 anos;5435
+80010;Brás;2000;00 a 14 anos;5500
+80011;Brasilândia;2000;00 a 14 anos;75120
+80012;Butantã;2000;00 a 14 anos;8656
+80013;Cachoeirinha;2000;00 a 14 anos;42291
+80014;Cambuci;2000;00 a 14 anos;5045
+80015;Campo Belo;2000;00 a 14 anos;11082
+80016;Campo Grande;2000;00 a 14 anos;19450
+80017;Campo Limpo;2000;00 a 14 anos;53686
+80018;Cangaíba;2000;00 a 14 anos;35138
+80019;Capão Redondo;2000;00 a 14 anos;69797
+80020;Carrão;2000;00 a 14 anos;15590
+80021;Casa Verde;2000;00 a 14 anos;17422
+80022;Cidade Ademar;2000;00 a 14 anos;66446
+80023;Cidade Dutra;2000;00 a 14 anos;52238
+80024;Cidade Líder;2000;00 a 14 anos;31212
+80025;Cidade Tiradentes;2000;00 a 14 anos;62717
+80026;Consolação;2000;00 a 14 anos;6288
+80027;Cursino;2000;00 a 14 anos;20732
+80028;Ermelino Matarazzo;2000;00 a 14 anos;28917
+80029;Freguesia do Ó;2000;00 a 14 anos;33109
+80030;Grajaú;2000;00 a 14 anos;104351
+80031;Guaianases;2000;00 a 14 anos;30470
+80032;Moema;2000;00 a 14 anos;10063
+80033;Iguatemi;2000;00 a 14 anos;32234
+80034;Ipiranga;2000;00 a 14 anos;19620
+80035;Itaim Bibi;2000;00 a 14 anos;11284
+80036;Itaim Paulista;2000;00 a 14 anos;66646
+80037;Itaquera;2000;00 a 14 anos;56983
+80038;Jabaquara;2000;00 a 14 anos;49766
+80039;Jaçanã;2000;00 a 14 anos;23096
+80040;Jaguara;2000;00 a 14 anos;5255
+80041;Jaguaré;2000;00 a 14 anos;10303
+80042;Jaraguá;2000;00 a 14 anos;42833
+80043;Jardim Ângela;2000;00 a 14 anos;77381
+80044;Jardim Helena;2000;00 a 14 anos;43392
+80045;Jardim Paulista;2000;00 a 14 anos;9598
+80046;Jardim São Luís;2000;00 a 14 anos;66515
+80047;José Bonifácio;2000;00 a 14 anos;26946
+80048;Lapa;2000;00 a 14 anos;9075
+80049;Liberdade;2000;00 a 14 anos;10125
+80050;Limão;2000;00 a 14 anos;18866
+80051;Mandaqui;2000;00 a 14 anos;22752
+80052;Marsilac;2000;00 a 14 anos;2951
+80053;Mooca;2000;00 a 14 anos;10312
+80054;Morumbi;2000;00 a 14 anos;6907
+80055;Parelheiros;2000;00 a 14 anos;34617
+80056;Pari;2000;00 a 14 anos;2648
+80057;Parque do Carmo;2000;00 a 14 anos;18175
+80058;Pedreira;2000;00 a 14 anos;38575
+80059;Penha;2000;00 a 14 anos;25241
+80060;Perdizes;2000;00 a 14 anos;15259
+80061;Perus;2000;00 a 14 anos;21568
+80062;Pinheiros;2000;00 a 14 anos;8176
+80063;Pirituba;2000;00 a 14 anos;38731
+80064;Ponte Rasa;2000;00 a 14 anos;23329
+80065;Raposo Tavares;2000;00 a 14 anos;24862
+80066;República;2000;00 a 14 anos;6785
+80067;Rio Pequeno;2000;00 a 14 anos;28041
+80068;Sacomã;2000;00 a 14 anos;55648
+80069;Santa Cecília;2000;00 a 14 anos;10666
+80070;Santana;2000;00 a 14 anos;20643
+80071;Santo Amaro;2000;00 a 14 anos;8763
+80072;São Lucas;2000;00 a 14 anos;30843
+80073;São Mateus;2000;00 a 14 anos;41537
+80074;São Miguel;2000;00 a 14 anos;25973
+80075;São Rafael;2000;00 a 14 anos;38211
+80076;Sapopemba;2000;00 a 14 anos;78012
+80077;Saúde;2000;00 a 14 anos;18578
+80078;Sé;2000;00 a 14 anos;3907
+80079;Socorro;2000;00 a 14 anos;7296
+80080;Tatuapé;2000;00 a 14 anos;13314
+80081;Tremembé;2000;00 a 14 anos;43948
+80082;Tucuruvi;2000;00 a 14 anos;18433
+80083;Vila Andrade;2000;00 a 14 anos;21411
+80084;Vila Curuçá;2000;00 a 14 anos;44615
+80085;Vila Formosa;2000;00 a 14 anos;19296
+80086;Vila Guilherme;2000;00 a 14 anos;9421
+80087;Vila Jacuí;2000;00 a 14 anos;43353
+80088;Vila Leopoldina;2000;00 a 14 anos;5060
+80089;Vila Maria;2000;00 a 14 anos;27854
+80090;Vila Mariana;2000;00 a 14 anos;17516
+80091;Vila Matilde;2000;00 a 14 anos;22437
+80092;Vila Medeiros;2000;00 a 14 anos;32202
+80093;Vila Prudente;2000;00 a 14 anos;20779
+80094;Vila Sônia;2000;00 a 14 anos;20226
+80095;São Domingos;2000;00 a 14 anos;19384
+80096;Lajeado;2000;00 a 14 anos;51788
+80001;Água Rasa;2005;00 a 14 anos;14225
+80002;Alto de Pinheiros;2005;00 a 14 anos;6057
+80003;Anhanguera;2005;00 a 14 anos;15159
+80004;Aricanduva;2005;00 a 14 anos;19548
+80005;Artur Alvim;2005;00 a 14 anos;22802
+80006;Barra Funda;2005;00 a 14 anos;2133
+80007;Bela Vista;2005;00 a 14 anos;8322
+80008;Belém;2005;00 a 14 anos;7425
+80009;Bom Retiro;2005;00 a 14 anos;5940
+80010;Brás;2005;00 a 14 anos;5439
+80011;Brasilândia;2005;00 a 14 anos;71914
+80012;Butantã;2005;00 a 14 anos;7975
+80013;Cachoeirinha;2005;00 a 14 anos;37858
+80014;Cambuci;2005;00 a 14 anos;5635
+80015;Campo Belo;2005;00 a 14 anos;10235
+80016;Campo Grande;2005;00 a 14 anos;18850
+80017;Campo Limpo;2005;00 a 14 anos;52075
+80018;Cangaíba;2005;00 a 14 anos;31805
+80019;Capão Redondo;2005;00 a 14 anos;68307
+80020;Carrão;2005;00 a 14 anos;14543
+80021;Casa Verde;2005;00 a 14 anos;16407
+80022;Cidade Ademar;2005;00 a 14 anos;63952
+80023;Cidade Dutra;2005;00 a 14 anos;48220
+80024;Cidade Líder;2005;00 a 14 anos;29757
+80025;Cidade Tiradentes;2005;00 a 14 anos;61085
+80026;Consolação;2005;00 a 14 anos;5696
+80027;Cursino;2005;00 a 14 anos;19480
+80028;Ermelino Matarazzo;2005;00 a 14 anos;27416
+80029;Freguesia do Ó;2005;00 a 14 anos;29647
+80030;Grajaú;2005;00 a 14 anos;100298
+80031;Guaianases;2005;00 a 14 anos;28679
+80032;Moema;2005;00 a 14 anos;10245
+80033;Iguatemi;2005;00 a 14 anos;33302
+80034;Ipiranga;2005;00 a 14 anos;18759
+80035;Itaim Bibi;2005;00 a 14 anos;10981
+80036;Itaim Paulista;2005;00 a 14 anos;62157
+80037;Itaquera;2005;00 a 14 anos;52354
+80038;Jabaquara;2005;00 a 14 anos;46583
+80039;Jaçanã;2005;00 a 14 anos;21957
+80040;Jaguara;2005;00 a 14 anos;4749
+80041;Jaguaré;2005;00 a 14 anos;10379
+80042;Jaraguá;2005;00 a 14 anos;44868
+80043;Jardim Ângela;2005;00 a 14 anos;79435
+80044;Jardim Helena;2005;00 a 14 anos;38920
+80045;Jardim Paulista;2005;00 a 14 anos;9358
+80046;Jardim São Luís;2005;00 a 14 anos;65239
+80047;José Bonifácio;2005;00 a 14 anos;28039
+80048;Lapa;2005;00 a 14 anos;8967
+80049;Liberdade;2005;00 a 14 anos;9706
+80050;Limão;2005;00 a 14 anos;17154
+80051;Mandaqui;2005;00 a 14 anos;20978
+80052;Marsilac;2005;00 a 14 anos;2581
+80053;Mooca;2005;00 a 14 anos;10655
+80054;Morumbi;2005;00 a 14 anos;7853
+80055;Parelheiros;2005;00 a 14 anos;35875
+80056;Pari;2005;00 a 14 anos;2965
+80057;Parque do Carmo;2005;00 a 14 anos;17211
+80058;Pedreira;2005;00 a 14 anos;37544
+80059;Penha;2005;00 a 14 anos;23563
+80060;Perdizes;2005;00 a 14 anos;14719
+80061;Perus;2005;00 a 14 anos;21195
+80062;Pinheiros;2005;00 a 14 anos;7861
+80063;Pirituba;2005;00 a 14 anos;35977
+80064;Ponte Rasa;2005;00 a 14 anos;20952
+80065;Raposo Tavares;2005;00 a 14 anos;24042
+80066;República;2005;00 a 14 anos;6809
+80067;Rio Pequeno;2005;00 a 14 anos;26012
+80068;Sacomã;2005;00 a 14 anos;53337
+80069;Santa Cecília;2005;00 a 14 anos;10699
+80070;Santana;2005;00 a 14 anos;18488
+80071;Santo Amaro;2005;00 a 14 anos;9553
+80072;São Lucas;2005;00 a 14 anos;28417
+80073;São Mateus;2005;00 a 14 anos;38052
+80074;São Miguel;2005;00 a 14 anos;22958
+80075;São Rafael;2005;00 a 14 anos;38161
+80076;Sapopemba;2005;00 a 14 anos;71194
+80077;Saúde;2005;00 a 14 anos;17741
+80078;Sé;2005;00 a 14 anos;4031
+80079;Socorro;2005;00 a 14 anos;6625
+80080;Tatuapé;2005;00 a 14 anos;13409
+80081;Tremembé;2005;00 a 14 anos;44691
+80082;Tucuruvi;2005;00 a 14 anos;16602
+80083;Vila Andrade;2005;00 a 14 anos;26955
+80084;Vila Curuçá;2005;00 a 14 anos;40839
+80085;Vila Formosa;2005;00 a 14 anos;17812
+80086;Vila Guilherme;2005;00 a 14 anos;9373
+80087;Vila Jacuí;2005;00 a 14 anos;38981
+80088;Vila Leopoldina;2005;00 a 14 anos;5888
+80089;Vila Maria;2005;00 a 14 anos;25800
+80090;Vila Mariana;2005;00 a 14 anos;16069
+80091;Vila Matilde;2005;00 a 14 anos;20773
+80092;Vila Medeiros;2005;00 a 14 anos;28579
+80093;Vila Prudente;2005;00 a 14 anos;19003
+80094;Vila Sônia;2005;00 a 14 anos;20664
+80095;São Domingos;2005;00 a 14 anos;18184
+80096;Lajeado;2005;00 a 14 anos;47715
+80001;Água Rasa;2010;00 a 14 anos;12764
+80002;Alto de Pinheiros;2010;00 a 14 anos;5590
+80003;Anhanguera;2010;00 a 14 anos;17090
+80004;Aricanduva;2010;00 a 14 anos;17105
+80005;Artur Alvim;2010;00 a 14 anos;20223
+80006;Barra Funda;2010;00 a 14 anos;2073
+80007;Bela Vista;2010;00 a 14 anos;7729
+80008;Belém;2010;00 a 14 anos;7472
+80009;Bom Retiro;2010;00 a 14 anos;6449
+80010;Brás;2010;00 a 14 anos;5372
+80011;Brasilândia;2010;00 a 14 anos;67646
+80012;Butantã;2010;00 a 14 anos;7203
+80013;Cachoeirinha;2010;00 a 14 anos;33449
+80014;Cambuci;2010;00 a 14 anos;6158
+80015;Campo Belo;2010;00 a 14 anos;9340
+80016;Campo Grande;2010;00 a 14 anos;17970
+80017;Campo Limpo;2010;00 a 14 anos;49724
+80018;Cangaíba;2010;00 a 14 anos;28359
+80019;Capão Redondo;2010;00 a 14 anos;65898
+80020;Carrão;2010;00 a 14 anos;13374
+80021;Casa Verde;2010;00 a 14 anos;15266
+80022;Cidade Ademar;2010;00 a 14 anos;60440
+80023;Cidade Dutra;2010;00 a 14 anos;43623
+80024;Cidade Líder;2010;00 a 14 anos;27876
+80025;Cidade Tiradentes;2010;00 a 14 anos;58593
+80026;Consolação;2010;00 a 14 anos;5094
+80027;Cursino;2010;00 a 14 anos;18065
+80028;Ermelino Matarazzo;2010;00 a 14 anos;25505
+80029;Freguesia do Ó;2010;00 a 14 anos;26103
+80030;Grajaú;2010;00 a 14 anos;94737
+80031;Guaianases;2010;00 a 14 anos;26302
+80032;Moema;2010;00 a 14 anos;10299
+80033;Iguatemi;2010;00 a 14 anos;33670
+80034;Ipiranga;2010;00 a 14 anos;17788
+80035;Itaim Bibi;2010;00 a 14 anos;10623
+80036;Itaim Paulista;2010;00 a 14 anos;56960
+80037;Itaquera;2010;00 a 14 anos;47359
+80038;Jabaquara;2010;00 a 14 anos;42968
+80039;Jaçanã;2010;00 a 14 anos;20556
+80040;Jaguara;2010;00 a 14 anos;4223
+80041;Jaguaré;2010;00 a 14 anos;10269
+80042;Jaraguá;2010;00 a 14 anos;45723
+80043;Jardim Ângela;2010;00 a 14 anos;80069
+80044;Jardim Helena;2010;00 a 14 anos;34337
+80045;Jardim Paulista;2010;00 a 14 anos;9038
+80046;Jardim São Luís;2010;00 a 14 anos;62742
+80047;José Bonifácio;2010;00 a 14 anos;28591
+80048;Lapa;2010;00 a 14 anos;8797
+80049;Liberdade;2010;00 a 14 anos;9180
+80050;Limão;2010;00 a 14 anos;15360
+80051;Mandaqui;2010;00 a 14 anos;19000
+80052;Marsilac;2010;00 a 14 anos;2232
+80053;Mooca;2010;00 a 14 anos;10889
+80054;Morumbi;2010;00 a 14 anos;8494
+80055;Parelheiros;2010;00 a 14 anos;36045
+80056;Pari;2010;00 a 14 anos;3311
+80057;Parque do Carmo;2010;00 a 14 anos;15972
+80058;Pedreira;2010;00 a 14 anos;35932
+80059;Penha;2010;00 a 14 anos;21797
+80060;Perdizes;2010;00 a 14 anos;14007
+80061;Perus;2010;00 a 14 anos;20501
+80062;Pinheiros;2010;00 a 14 anos;7493
+80063;Pirituba;2010;00 a 14 anos;32872
+80064;Ponte Rasa;2010;00 a 14 anos;18480
+80065;Raposo Tavares;2010;00 a 14 anos;22949
+80066;República;2010;00 a 14 anos;6743
+80067;Rio Pequeno;2010;00 a 14 anos;23707
+80068;Sacomã;2010;00 a 14 anos;50392
+80069;Santa Cecília;2010;00 a 14 anos;10522
+80070;Santana;2010;00 a 14 anos;16255
+80071;Santo Amaro;2010;00 a 14 anos;10227
+80072;São Lucas;2010;00 a 14 anos;25813
+80073;São Mateus;2010;00 a 14 anos;34134
+80074;São Miguel;2010;00 a 14 anos;19848
+80075;São Rafael;2010;00 a 14 anos;37821
+80076;Sapopemba;2010;00 a 14 anos;64097
+80077;Saúde;2010;00 a 14 anos;16652
+80078;Sé;2010;00 a 14 anos;4181
+80079;Socorro;2010;00 a 14 anos;5901
+80080;Tatuapé;2010;00 a 14 anos;13302
+80081;Tremembé;2010;00 a 14 anos;44762
+80082;Tucuruvi;2010;00 a 14 anos;14750
+80083;Vila Andrade;2010;00 a 14 anos;31160
+80084;Vila Curuçá;2010;00 a 14 anos;36694
+80085;Vila Formosa;2010;00 a 14 anos;16240
+80086;Vila Guilherme;2010;00 a 14 anos;9277
+80087;Vila Jacuí;2010;00 a 14 anos;34476
+80088;Vila Leopoldina;2010;00 a 14 anos;6595
+80089;Vila Maria;2010;00 a 14 anos;23650
+80090;Vila Mariana;2010;00 a 14 anos;14548
+80091;Vila Matilde;2010;00 a 14 anos;18986
+80092;Vila Medeiros;2010;00 a 14 anos;25010
+80093;Vila Prudente;2010;00 a 14 anos;17173
+80094;Vila Sônia;2010;00 a 14 anos;20561
+80095;São Domingos;2010;00 a 14 anos;16875
+80096;Lajeado;2010;00 a 14 anos;43499
+80001;Água Rasa;2015;00 a 14 anos;12773
+80002;Alto de Pinheiros;2015;00 a 14 anos;5226
+80003;Anhanguera;2015;00 a 14 anos;16900
+80004;Aricanduva;2015;00 a 14 anos;15392
+80005;Artur Alvim;2015;00 a 14 anos;18274
+80006;Barra Funda;2015;00 a 14 anos;2483
+80007;Bela Vista;2015;00 a 14 anos;9355
+80008;Belém;2015;00 a 14 anos;9215
+80009;Bom Retiro;2015;00 a 14 anos;7368
+80010;Brás;2015;00 a 14 anos;6399
+80011;Brasilândia;2015;00 a 14 anos;64412
+80012;Butantã;2015;00 a 14 anos;7461
+80013;Cachoeirinha;2015;00 a 14 anos;31753
+80014;Cambuci;2015;00 a 14 anos;6802
+80015;Campo Belo;2015;00 a 14 anos;9630
+80016;Campo Grande;2015;00 a 14 anos;17582
+80017;Campo Limpo;2015;00 a 14 anos;47451
+80018;Cangaíba;2015;00 a 14 anos;26637
+80019;Capão Redondo;2015;00 a 14 anos;63433
+80020;Carrão;2015;00 a 14 anos;12889
+80021;Casa Verde;2015;00 a 14 anos;15242
+80022;Cidade Ademar;2015;00 a 14 anos;59107
+80023;Cidade Dutra;2015;00 a 14 anos;40477
+80024;Cidade Líder;2015;00 a 14 anos;26523
+80025;Cidade Tiradentes;2015;00 a 14 anos;53808
+80026;Consolação;2015;00 a 14 anos;5514
+80027;Cursino;2015;00 a 14 anos;18560
+80028;Ermelino Matarazzo;2015;00 a 14 anos;24132
+80029;Freguesia do Ó;2015;00 a 14 anos;24672
+80030;Grajaú;2015;00 a 14 anos;88472
+80031;Guaianases;2015;00 a 14 anos;24491
+80032;Moema;2015;00 a 14 anos;11332
+80033;Iguatemi;2015;00 a 14 anos;32924
+80034;Ipiranga;2015;00 a 14 anos;18166
+80035;Itaim Bibi;2015;00 a 14 anos;12815
+80036;Itaim Paulista;2015;00 a 14 anos;51695
+80037;Itaquera;2015;00 a 14 anos;43747
+80038;Jabaquara;2015;00 a 14 anos;41640
+80039;Jaçanã;2015;00 a 14 anos;18734
+80040;Jaguara;2015;00 a 14 anos;4027
+80041;Jaguaré;2015;00 a 14 anos;10344
+80042;Jaraguá;2015;00 a 14 anos;44403
+80043;Jardim Ângela;2015;00 a 14 anos;77526
+80044;Jardim Helena;2015;00 a 14 anos;31324
+80045;Jardim Paulista;2015;00 a 14 anos;10511
+80046;Jardim São Luís;2015;00 a 14 anos;60651
+80047;José Bonifácio;2015;00 a 14 anos;26652
+80048;Lapa;2015;00 a 14 anos;9420
+80049;Liberdade;2015;00 a 14 anos;10311
+80050;Limão;2015;00 a 14 anos;15182
+80051;Mandaqui;2015;00 a 14 anos;17973
+80052;Marsilac;2015;00 a 14 anos;1767
+80053;Mooca;2015;00 a 14 anos;11916
+80054;Morumbi;2015;00 a 14 anos;9118
+80055;Parelheiros;2015;00 a 14 anos;34890
+80056;Pari;2015;00 a 14 anos;3744
+80057;Parque do Carmo;2015;00 a 14 anos;15076
+80058;Pedreira;2015;00 a 14 anos;33400
+80059;Penha;2015;00 a 14 anos;21339
+80060;Perdizes;2015;00 a 14 anos;14820
+80061;Perus;2015;00 a 14 anos;19726
+80062;Pinheiros;2015;00 a 14 anos;8215
+80063;Pirituba;2015;00 a 14 anos;31493
+80064;Ponte Rasa;2015;00 a 14 anos;16537
+80065;Raposo Tavares;2015;00 a 14 anos;22803
+80066;República;2015;00 a 14 anos;8341
+80067;Rio Pequeno;2015;00 a 14 anos;24773
+80068;Sacomã;2015;00 a 14 anos;48472
+80069;Santa Cecília;2015;00 a 14 anos;12017
+80070;Santana;2015;00 a 14 anos;16035
+80071;Santo Amaro;2015;00 a 14 anos;10578
+80072;São Lucas;2015;00 a 14 anos;24304
+80073;São Mateus;2015;00 a 14 anos;31264
+80074;São Miguel;2015;00 a 14 anos;18818
+80075;São Rafael;2015;00 a 14 anos;34770
+80076;Sapopemba;2015;00 a 14 anos;59134
+80077;Saúde;2015;00 a 14 anos;17887
+80078;Sé;2015;00 a 14 anos;4974
+80079;Socorro;2015;00 a 14 anos;5704
+80080;Tatuapé;2015;00 a 14 anos;13381
+80081;Tremembé;2015;00 a 14 anos;44338
+80082;Tucuruvi;2015;00 a 14 anos;14267
+80083;Vila Andrade;2015;00 a 14 anos;32215
+80084;Vila Curuçá;2015;00 a 14 anos;32505
+80085;Vila Formosa;2015;00 a 14 anos;15016
+80086;Vila Guilherme;2015;00 a 14 anos;9910
+80087;Vila Jacuí;2015;00 a 14 anos;29967
+80088;Vila Leopoldina;2015;00 a 14 anos;7082
+80089;Vila Maria;2015;00 a 14 anos;23024
+80090;Vila Mariana;2015;00 a 14 anos;15971
+80091;Vila Matilde;2015;00 a 14 anos;17899
+80092;Vila Medeiros;2015;00 a 14 anos;23462
+80093;Vila Prudente;2015;00 a 14 anos;16634
+80094;Vila Sônia;2015;00 a 14 anos;21828
+80095;São Domingos;2015;00 a 14 anos;15864
+80096;Lajeado;2015;00 a 14 anos;39729
+80001;Água Rasa;2020;00 a 14 anos;12871
+80002;Alto de Pinheiros;2020;00 a 14 anos;4948
+80003;Anhanguera;2020;00 a 14 anos;17262
+80004;Aricanduva;2020;00 a 14 anos;14581
+80005;Artur Alvim;2020;00 a 14 anos;17377
+80006;Barra Funda;2020;00 a 14 anos;2776
+80007;Bela Vista;2020;00 a 14 anos;10858
+80008;Belém;2020;00 a 14 anos;10569
+80009;Bom Retiro;2020;00 a 14 anos;8052
+80010;Brás;2020;00 a 14 anos;7157
+80011;Brasilândia;2020;00 a 14 anos;64426
+80012;Butantã;2020;00 a 14 anos;7659
+80013;Cachoeirinha;2020;00 a 14 anos;31335
+80014;Cambuci;2020;00 a 14 anos;7209
+80015;Campo Belo;2020;00 a 14 anos;9632
+80016;Campo Grande;2020;00 a 14 anos;17364
+80017;Campo Limpo;2020;00 a 14 anos;47076
+80018;Cangaíba;2020;00 a 14 anos;26456
+80019;Capão Redondo;2020;00 a 14 anos;63520
+80020;Carrão;2020;00 a 14 anos;12743
+80021;Casa Verde;2020;00 a 14 anos;15448
+80022;Cidade Ademar;2020;00 a 14 anos;59623
+80023;Cidade Dutra;2020;00 a 14 anos;39644
+80024;Cidade Líder;2020;00 a 14 anos;26138
+80025;Cidade Tiradentes;2020;00 a 14 anos;52091
+80026;Consolação;2020;00 a 14 anos;6238
+80027;Cursino;2020;00 a 14 anos;18940
+80028;Ermelino Matarazzo;2020;00 a 14 anos;23662
+80029;Freguesia do Ó;2020;00 a 14 anos;24490
+80030;Grajaú;2020;00 a 14 anos;87181
+80031;Guaianases;2020;00 a 14 anos;24127
+80032;Moema;2020;00 a 14 anos;11891
+80033;Iguatemi;2020;00 a 14 anos;33794
+80034;Ipiranga;2020;00 a 14 anos;18617
+80035;Itaim Bibi;2020;00 a 14 anos;14189
+80036;Itaim Paulista;2020;00 a 14 anos;50172
+80037;Itaquera;2020;00 a 14 anos;42691
+80038;Jabaquara;2020;00 a 14 anos;41568
+80039;Jaçanã;2020;00 a 14 anos;17697
+80040;Jaguara;2020;00 a 14 anos;3920
+80041;Jaguaré;2020;00 a 14 anos;10392
+80042;Jaraguá;2020;00 a 14 anos;44744
+80043;Jardim Ângela;2020;00 a 14 anos;77652
+80044;Jardim Helena;2020;00 a 14 anos;30952
+80045;Jardim Paulista;2020;00 a 14 anos;11756
+80046;Jardim São Luís;2020;00 a 14 anos;60548
+80047;José Bonifácio;2020;00 a 14 anos;25485
+80048;Lapa;2020;00 a 14 anos;9722
+80049;Liberdade;2020;00 a 14 anos;11200
+80050;Limão;2020;00 a 14 anos;15470
+80051;Mandaqui;2020;00 a 14 anos;17726
+80052;Marsilac;2020;00 a 14 anos;1600
+80053;Mooca;2020;00 a 14 anos;12657
+80054;Morumbi;2020;00 a 14 anos;9677
+80055;Parelheiros;2020;00 a 14 anos;35818
+80056;Pari;2020;00 a 14 anos;4087
+80057;Parque do Carmo;2020;00 a 14 anos;14531
+80058;Pedreira;2020;00 a 14 anos;32674
+80059;Penha;2020;00 a 14 anos;21260
+80060;Perdizes;2020;00 a 14 anos;15166
+80061;Perus;2020;00 a 14 anos;20093
+80062;Pinheiros;2020;00 a 14 anos;8673
+80063;Pirituba;2020;00 a 14 anos;31141
+80064;Ponte Rasa;2020;00 a 14 anos;15645
+80065;Raposo Tavares;2020;00 a 14 anos;22685
+80066;República;2020;00 a 14 anos;9557
+80067;Rio Pequeno;2020;00 a 14 anos;25821
+80068;Sacomã;2020;00 a 14 anos;47450
+80069;Santa Cecília;2020;00 a 14 anos;13331
+80070;Santana;2020;00 a 14 anos;16490
+80071;Santo Amaro;2020;00 a 14 anos;10596
+80072;São Lucas;2020;00 a 14 anos;23402
+80073;São Mateus;2020;00 a 14 anos;30338
+80074;São Miguel;2020;00 a 14 anos;19053
+80075;São Rafael;2020;00 a 14 anos;33082
+80076;Sapopemba;2020;00 a 14 anos;57011
+80077;Saúde;2020;00 a 14 anos;18625
+80078;Sé;2020;00 a 14 anos;5600
+80079;Socorro;2020;00 a 14 anos;5557
+80080;Tatuapé;2020;00 a 14 anos;13530
+80081;Tremembé;2020;00 a 14 anos;45833
+80082;Tucuruvi;2020;00 a 14 anos;14107
+80083;Vila Andrade;2020;00 a 14 anos;32362
+80084;Vila Curuçá;2020;00 a 14 anos;30925
+80085;Vila Formosa;2020;00 a 14 anos;14598
+80086;Vila Guilherme;2020;00 a 14 anos;10439
+80087;Vila Jacuí;2020;00 a 14 anos;27740
+80088;Vila Leopoldina;2020;00 a 14 anos;7228
+80089;Vila Maria;2020;00 a 14 anos;22960
+80090;Vila Mariana;2020;00 a 14 anos;17228
+80091;Vila Matilde;2020;00 a 14 anos;17435
+80092;Vila Medeiros;2020;00 a 14 anos;23010
+80093;Vila Prudente;2020;00 a 14 anos;16592
+80094;Vila Sônia;2020;00 a 14 anos;22797
+80095;São Domingos;2020;00 a 14 anos;15296
+80096;Lajeado;2020;00 a 14 anos;39188
+80001;Água Rasa;2025;00 a 14 anos;12763
+80002;Alto de Pinheiros;2025;00 a 14 anos;4548
+80003;Anhanguera;2025;00 a 14 anos;17942
+80004;Aricanduva;2025;00 a 14 anos;14210
+80005;Artur Alvim;2025;00 a 14 anos;16502
+80006;Barra Funda;2025;00 a 14 anos;2976
+80007;Bela Vista;2025;00 a 14 anos;11277
+80008;Belém;2025;00 a 14 anos;11113
+80009;Bom Retiro;2025;00 a 14 anos;8406
+80010;Brás;2025;00 a 14 anos;7689
+80011;Brasilândia;2025;00 a 14 anos;66454
+80012;Butantã;2025;00 a 14 anos;7551
+80013;Cachoeirinha;2025;00 a 14 anos;31385
+80014;Cambuci;2025;00 a 14 anos;7215
+80015;Campo Belo;2025;00 a 14 anos;9141
+80016;Campo Grande;2025;00 a 14 anos;16655
+80017;Campo Limpo;2025;00 a 14 anos;46581
+80018;Cangaíba;2025;00 a 14 anos;26664
+80019;Capão Redondo;2025;00 a 14 anos;64490
+80020;Carrão;2025;00 a 14 anos;12532
+80021;Casa Verde;2025;00 a 14 anos;15474
+80022;Cidade Ademar;2025;00 a 14 anos;60351
+80023;Cidade Dutra;2025;00 a 14 anos;39648
+80024;Cidade Líder;2025;00 a 14 anos;26193
+80025;Cidade Tiradentes;2025;00 a 14 anos;52931
+80026;Consolação;2025;00 a 14 anos;6621
+80027;Cursino;2025;00 a 14 anos;18614
+80028;Ermelino Matarazzo;2025;00 a 14 anos;23329
+80029;Freguesia do Ó;2025;00 a 14 anos;24550
+80030;Grajaú;2025;00 a 14 anos;88464
+80031;Guaianases;2025;00 a 14 anos;24624
+80032;Moema;2025;00 a 14 anos;11120
+80033;Iguatemi;2025;00 a 14 anos;35666
+80034;Ipiranga;2025;00 a 14 anos;18471
+80035;Itaim Bibi;2025;00 a 14 anos;13560
+80036;Itaim Paulista;2025;00 a 14 anos;50408
+80037;Itaquera;2025;00 a 14 anos;42455
+80038;Jabaquara;2025;00 a 14 anos;40737
+80039;Jaçanã;2025;00 a 14 anos;17037
+80040;Jaguara;2025;00 a 14 anos;3852
+80041;Jaguaré;2025;00 a 14 anos;10268
+80042;Jaraguá;2025;00 a 14 anos;46358
+80043;Jardim Ângela;2025;00 a 14 anos;78583
+80044;Jardim Helena;2025;00 a 14 anos;31485
+80045;Jardim Paulista;2025;00 a 14 anos;11604
+80046;Jardim São Luís;2025;00 a 14 anos;61363
+80047;José Bonifácio;2025;00 a 14 anos;24577
+80048;Lapa;2025;00 a 14 anos;9397
+80049;Liberdade;2025;00 a 14 anos;11218
+80050;Limão;2025;00 a 14 anos;15698
+80051;Mandaqui;2025;00 a 14 anos;17628
+80052;Marsilac;2025;00 a 14 anos;1554
+80053;Mooca;2025;00 a 14 anos;12713
+80054;Morumbi;2025;00 a 14 anos;10097
+80055;Parelheiros;2025;00 a 14 anos;37945
+80056;Pari;2025;00 a 14 anos;4329
+80057;Parque do Carmo;2025;00 a 14 anos;14338
+80058;Pedreira;2025;00 a 14 anos;32503
+80059;Penha;2025;00 a 14 anos;21144
+80060;Perdizes;2025;00 a 14 anos;14535
+80061;Perus;2025;00 a 14 anos;20925
+80062;Pinheiros;2025;00 a 14 anos;8285
+80063;Pirituba;2025;00 a 14 anos;30568
+80064;Ponte Rasa;2025;00 a 14 anos;15146
+80065;Raposo Tavares;2025;00 a 14 anos;23013
+80066;República;2025;00 a 14 anos;9841
+80067;Rio Pequeno;2025;00 a 14 anos;26653
+80068;Sacomã;2025;00 a 14 anos;46482
+80069;Santa Cecília;2025;00 a 14 anos;13596
+80070;Santana;2025;00 a 14 anos;16369
+80071;Santo Amaro;2025;00 a 14 anos;10197
+80072;São Lucas;2025;00 a 14 anos;22393
+80073;São Mateus;2025;00 a 14 anos;30306
+80074;São Miguel;2025;00 a 14 anos;19501
+80075;São Rafael;2025;00 a 14 anos;32788
+80076;Sapopemba;2025;00 a 14 anos;56451
+80077;Saúde;2025;00 a 14 anos;17946
+80078;Sé;2025;00 a 14 anos;6179
+80079;Socorro;2025;00 a 14 anos;5509
+80080;Tatuapé;2025;00 a 14 anos;13516
+80081;Tremembé;2025;00 a 14 anos;47804
+80082;Tucuruvi;2025;00 a 14 anos;13849
+80083;Vila Andrade;2025;00 a 14 anos;32231
+80084;Vila Curuçá;2025;00 a 14 anos;30848
+80085;Vila Formosa;2025;00 a 14 anos;14317
+80086;Vila Guilherme;2025;00 a 14 anos;10687
+80087;Vila Jacuí;2025;00 a 14 anos;26332
+80088;Vila Leopoldina;2025;00 a 14 anos;6871
+80089;Vila Maria;2025;00 a 14 anos;23002
+80090;Vila Mariana;2025;00 a 14 anos;17071
+80091;Vila Matilde;2025;00 a 14 anos;16953
+80092;Vila Medeiros;2025;00 a 14 anos;22620
+80093;Vila Prudente;2025;00 a 14 anos;16207
+80094;Vila Sônia;2025;00 a 14 anos;23220
+80095;São Domingos;2025;00 a 14 anos;14811
+80096;Lajeado;2025;00 a 14 anos;39693
+80001;Água Rasa;2030;00 a 14 anos;11350
+80002;Alto de Pinheiros;2030;00 a 14 anos;3920
+80003;Anhanguera;2030;00 a 14 anos;18057
+80004;Aricanduva;2030;00 a 14 anos;13023
+80005;Artur Alvim;2030;00 a 14 anos;14852
+80006;Barra Funda;2030;00 a 14 anos;2761
+80007;Bela Vista;2030;00 a 14 anos;9385
+80008;Belém;2030;00 a 14 anos;9711
+80009;Bom Retiro;2030;00 a 14 anos;7669
+80010;Brás;2030;00 a 14 anos;6710
+80011;Brasilândia;2030;00 a 14 anos;62956
+80012;Butantã;2030;00 a 14 anos;6528
+80013;Cachoeirinha;2030;00 a 14 anos;28874
+80014;Cambuci;2030;00 a 14 anos;6560
+80015;Campo Belo;2030;00 a 14 anos;7862
+80016;Campo Grande;2030;00 a 14 anos;15118
+80017;Campo Limpo;2030;00 a 14 anos;43811
+80018;Cangaíba;2030;00 a 14 anos;24566
+80019;Capão Redondo;2030;00 a 14 anos;61209
+80020;Carrão;2030;00 a 14 anos;11415
+80021;Casa Verde;2030;00 a 14 anos;13966
+80022;Cidade Ademar;2030;00 a 14 anos;56512
+80023;Cidade Dutra;2030;00 a 14 anos;36951
+80024;Cidade Líder;2030;00 a 14 anos;24787
+80025;Cidade Tiradentes;2030;00 a 14 anos;52348
+80026;Consolação;2030;00 a 14 anos;5769
+80027;Cursino;2030;00 a 14 anos;16746
+80028;Ermelino Matarazzo;2030;00 a 14 anos;21769
+80029;Freguesia do Ó;2030;00 a 14 anos;22225
+80030;Grajaú;2030;00 a 14 anos;84447
+80031;Guaianases;2030;00 a 14 anos;23514
+80032;Moema;2030;00 a 14 anos;9336
+80033;Iguatemi;2030;00 a 14 anos;35054
+80034;Ipiranga;2030;00 a 14 anos;16669
+80035;Itaim Bibi;2030;00 a 14 anos;11039
+80036;Itaim Paulista;2030;00 a 14 anos;48260
+80037;Itaquera;2030;00 a 14 anos;39840
+80038;Jabaquara;2030;00 a 14 anos;36978
+80039;Jaçanã;2030;00 a 14 anos;16022
+80040;Jaguara;2030;00 a 14 anos;3469
+80041;Jaguaré;2030;00 a 14 anos;9432
+80042;Jaraguá;2030;00 a 14 anos;44786
+80043;Jardim Ângela;2030;00 a 14 anos;76004
+80044;Jardim Helena;2030;00 a 14 anos;29554
+80045;Jardim Paulista;2030;00 a 14 anos;9439
+80046;Jardim São Luís;2030;00 a 14 anos;57989
+80047;José Bonifácio;2030;00 a 14 anos;23496
+80048;Lapa;2030;00 a 14 anos;8244
+80049;Liberdade;2030;00 a 14 anos;9480
+80050;Limão;2030;00 a 14 anos;14263
+80051;Mandaqui;2030;00 a 14 anos;16282
+80052;Marsilac;2030;00 a 14 anos;1576
+80053;Mooca;2030;00 a 14 anos;11471
+80054;Morumbi;2030;00 a 14 anos;9269
+80055;Parelheiros;2030;00 a 14 anos;37272
+80056;Pari;2030;00 a 14 anos;4003
+80057;Parque do Carmo;2030;00 a 14 anos;13410
+80058;Pedreira;2030;00 a 14 anos;31532
+80059;Penha;2030;00 a 14 anos;19284
+80060;Perdizes;2030;00 a 14 anos;12369
+80061;Perus;2030;00 a 14 anos;20158
+80062;Pinheiros;2030;00 a 14 anos;6776
+80063;Pirituba;2030;00 a 14 anos;27926
+80064;Ponte Rasa;2030;00 a 14 anos;13873
+80065;Raposo Tavares;2030;00 a 14 anos;21371
+80066;República;2030;00 a 14 anos;8332
+80067;Rio Pequeno;2030;00 a 14 anos;23887
+80068;Sacomã;2030;00 a 14 anos;43376
+80069;Santa Cecília;2030;00 a 14 anos;11617
+80070;Santana;2030;00 a 14 anos;14089
+80071;Santo Amaro;2030;00 a 14 anos;9062
+80072;São Lucas;2030;00 a 14 anos;20797
+80073;São Mateus;2030;00 a 14 anos;27913
+80074;São Miguel;2030;00 a 14 anos;17527
+80075;São Rafael;2030;00 a 14 anos;32032
+80076;Sapopemba;2030;00 a 14 anos;52606
+80077;Saúde;2030;00 a 14 anos;15158
+80078;Sé;2030;00 a 14 anos;5361
+80079;Socorro;2030;00 a 14 anos;4846
+80080;Tatuapé;2030;00 a 14 anos;12148
+80081;Tremembé;2030;00 a 14 anos;45967
+80082;Tucuruvi;2030;00 a 14 anos;12414
+80083;Vila Andrade;2030;00 a 14 anos;31991
+80084;Vila Curuçá;2030;00 a 14 anos;29455
+80085;Vila Formosa;2030;00 a 14 anos;13191
+80086;Vila Guilherme;2030;00 a 14 anos;9585
+80087;Vila Jacuí;2030;00 a 14 anos;25310
+80088;Vila Leopoldina;2030;00 a 14 anos;6258
+80089;Vila Maria;2030;00 a 14 anos;20991
+80090;Vila Mariana;2030;00 a 14 anos;14303
+80091;Vila Matilde;2030;00 a 14 anos;15592
+80092;Vila Medeiros;2030;00 a 14 anos;20332
+80093;Vila Prudente;2030;00 a 14 anos;14797
+80094;Vila Sônia;2030;00 a 14 anos;21329
+80095;São Domingos;2030;00 a 14 anos;13721
+80096;Lajeado;2030;00 a 14 anos;38140
+80001;Água Rasa;2035;00 a 14 anos;10319
+80002;Alto de Pinheiros;2035;00 a 14 anos;3348
+80003;Anhanguera;2035;00 a 14 anos;17615
+80004;Aricanduva;2035;00 a 14 anos;11994
+80005;Artur Alvim;2035;00 a 14 anos;13454
+80006;Barra Funda;2035;00 a 14 anos;2640
+80007;Bela Vista;2035;00 a 14 anos;7415
+80008;Belém;2035;00 a 14 anos;8953
+80009;Bom Retiro;2035;00 a 14 anos;7247
+80010;Brás;2035;00 a 14 anos;6168
+80011;Brasilândia;2035;00 a 14 anos;60016
+80012;Butantã;2035;00 a 14 anos;5595
+80013;Cachoeirinha;2035;00 a 14 anos;27105
+80014;Cambuci;2035;00 a 14 anos;6097
+80015;Campo Belo;2035;00 a 14 anos;6968
+80016;Campo Grande;2035;00 a 14 anos;13943
+80017;Campo Limpo;2035;00 a 14 anos;41562
+80018;Cangaíba;2035;00 a 14 anos;22920
+80019;Capão Redondo;2035;00 a 14 anos;58373
+80020;Carrão;2035;00 a 14 anos;10418
+80021;Casa Verde;2035;00 a 14 anos;12870
+80022;Cidade Ademar;2035;00 a 14 anos;53593
+80023;Cidade Dutra;2035;00 a 14 anos;34730
+80024;Cidade Líder;2035;00 a 14 anos;23527
+80025;Cidade Tiradentes;2035;00 a 14 anos;51162
+80026;Consolação;2035;00 a 14 anos;4376
+80027;Cursino;2035;00 a 14 anos;15349
+80028;Ermelino Matarazzo;2035;00 a 14 anos;20528
+80029;Freguesia do Ó;2035;00 a 14 anos;20399
+80030;Grajaú;2035;00 a 14 anos;81076
+80031;Guaianases;2035;00 a 14 anos;22480
+80032;Moema;2035;00 a 14 anos;7698
+80033;Iguatemi;2035;00 a 14 anos;33917
+80034;Ipiranga;2035;00 a 14 anos;15144
+80035;Itaim Bibi;2035;00 a 14 anos;8915
+80036;Itaim Paulista;2035;00 a 14 anos;46133
+80037;Itaquera;2035;00 a 14 anos;37735
+80038;Jabaquara;2035;00 a 14 anos;34206
+80039;Jaçanã;2035;00 a 14 anos;15134
+80040;Jaguara;2035;00 a 14 anos;3184
+80041;Jaguaré;2035;00 a 14 anos;8757
+80042;Jaraguá;2035;00 a 14 anos;42948
+80043;Jardim Ângela;2035;00 a 14 anos;73832
+80044;Jardim Helena;2035;00 a 14 anos;27983
+80045;Jardim Paulista;2035;00 a 14 anos;7176
+80046;Jardim São Luís;2035;00 a 14 anos;55371
+80047;José Bonifácio;2035;00 a 14 anos;22384
+80048;Lapa;2035;00 a 14 anos;7353
+80049;Liberdade;2035;00 a 14 anos;7943
+80050;Limão;2035;00 a 14 anos;13279
+80051;Mandaqui;2035;00 a 14 anos;15162
+80052;Marsilac;2035;00 a 14 anos;1553
+80053;Mooca;2035;00 a 14 anos;10492
+80054;Morumbi;2035;00 a 14 anos;8638
+80055;Parelheiros;2035;00 a 14 anos;36115
+80056;Pari;2035;00 a 14 anos;3805
+80057;Parque do Carmo;2035;00 a 14 anos;12701
+80058;Pedreira;2035;00 a 14 anos;30403
+80059;Penha;2035;00 a 14 anos;17755
+80060;Perdizes;2035;00 a 14 anos;10078
+80061;Perus;2035;00 a 14 anos;19473
+80062;Pinheiros;2035;00 a 14 anos;5366
+80063;Pirituba;2035;00 a 14 anos;25905
+80064;Ponte Rasa;2035;00 a 14 anos;12828
+80065;Raposo Tavares;2035;00 a 14 anos;20354
+80066;República;2035;00 a 14 anos;7049
+80067;Rio Pequeno;2035;00 a 14 anos;22253
+80068;Sacomã;2035;00 a 14 anos;40685
+80069;Santa Cecília;2035;00 a 14 anos;9690
+80070;Santana;2035;00 a 14 anos;12038
+80071;Santo Amaro;2035;00 a 14 anos;8221
+80072;São Lucas;2035;00 a 14 anos;19310
+80073;São Mateus;2035;00 a 14 anos;26020
+80074;São Miguel;2035;00 a 14 anos;16109
+80075;São Rafael;2035;00 a 14 anos;31040
+80076;Sapopemba;2035;00 a 14 anos;49329
+80077;Saúde;2035;00 a 14 anos;12770
+80078;Sé;2035;00 a 14 anos;4866
+80079;Socorro;2035;00 a 14 anos;4352
+80080;Tatuapé;2035;00 a 14 anos;10805
+80081;Tremembé;2035;00 a 14 anos;44027
+80082;Tucuruvi;2035;00 a 14 anos;11056
+80083;Vila Andrade;2035;00 a 14 anos;31401
+80084;Vila Curuçá;2035;00 a 14 anos;27992
+80085;Vila Formosa;2035;00 a 14 anos;12110
+80086;Vila Guilherme;2035;00 a 14 anos;8883
+80087;Vila Jacuí;2035;00 a 14 anos;24064
+80088;Vila Leopoldina;2035;00 a 14 anos;5859
+80089;Vila Maria;2035;00 a 14 anos;19592
+80090;Vila Mariana;2035;00 a 14 anos;11286
+80091;Vila Matilde;2035;00 a 14 anos;14435
+80092;Vila Medeiros;2035;00 a 14 anos;18605
+80093;Vila Prudente;2035;00 a 14 anos;13588
+80094;Vila Sônia;2035;00 a 14 anos;19830
+80095;São Domingos;2035;00 a 14 anos;12857
+80096;Lajeado;2035;00 a 14 anos;36725
+80001;Água Rasa;2040;00 a 14 anos;9731
+80002;Alto de Pinheiros;2040;00 a 14 anos;2911
+80003;Anhanguera;2040;00 a 14 anos;16824
+80004;Aricanduva;2040;00 a 14 anos;11194
+80005;Artur Alvim;2040;00 a 14 anos;12406
+80006;Barra Funda;2040;00 a 14 anos;2633
+80007;Bela Vista;2040;00 a 14 anos;6219
+80008;Belém;2040;00 a 14 anos;9001
+80009;Bom Retiro;2040;00 a 14 anos;7165
+80010;Brás;2040;00 a 14 anos;6009
+80011;Brasilândia;2040;00 a 14 anos;57960
+80012;Butantã;2040;00 a 14 anos;4947
+80013;Cachoeirinha;2040;00 a 14 anos;26045
+80014;Cambuci;2040;00 a 14 anos;5865
+80015;Campo Belo;2040;00 a 14 anos;6523
+80016;Campo Grande;2040;00 a 14 anos;13134
+80017;Campo Limpo;2040;00 a 14 anos;40162
+80018;Cangaíba;2040;00 a 14 anos;21896
+80019;Capão Redondo;2040;00 a 14 anos;56593
+80020;Carrão;2040;00 a 14 anos;9655
+80021;Casa Verde;2040;00 a 14 anos;12301
+80022;Cidade Ademar;2040;00 a 14 anos;51985
+80023;Cidade Dutra;2040;00 a 14 anos;33171
+80024;Cidade Líder;2040;00 a 14 anos;22638
+80025;Cidade Tiradentes;2040;00 a 14 anos;49713
+80026;Consolação;2040;00 a 14 anos;3165
+80027;Cursino;2040;00 a 14 anos;14602
+80028;Ermelino Matarazzo;2040;00 a 14 anos;19696
+80029;Freguesia do Ó;2040;00 a 14 anos;19231
+80030;Grajaú;2040;00 a 14 anos;78714
+80031;Guaianases;2040;00 a 14 anos;21753
+80032;Moema;2040;00 a 14 anos;6715
+80033;Iguatemi;2040;00 a 14 anos;32852
+80034;Ipiranga;2040;00 a 14 anos;14193
+80035;Itaim Bibi;2040;00 a 14 anos;7849
+80036;Itaim Paulista;2040;00 a 14 anos;44289
+80037;Itaquera;2040;00 a 14 anos;36239
+80038;Jabaquara;2040;00 a 14 anos;32592
+80039;Jaçanã;2040;00 a 14 anos;14445
+80040;Jaguara;2040;00 a 14 anos;2995
+80041;Jaguaré;2040;00 a 14 anos;8311
+80042;Jaraguá;2040;00 a 14 anos;41398
+80043;Jardim Ângela;2040;00 a 14 anos;72239
+80044;Jardim Helena;2040;00 a 14 anos;26944
+80045;Jardim Paulista;2040;00 a 14 anos;5749
+80046;Jardim São Luís;2040;00 a 14 anos;53764
+80047;José Bonifácio;2040;00 a 14 anos;21370
+80048;Lapa;2040;00 a 14 anos;6879
+80049;Liberdade;2040;00 a 14 anos;7057
+80050;Limão;2040;00 a 14 anos;12807
+80051;Mandaqui;2040;00 a 14 anos;14311
+80052;Marsilac;2040;00 a 14 anos;1485
+80053;Mooca;2040;00 a 14 anos;9926
+80054;Morumbi;2040;00 a 14 anos;8352
+80055;Parelheiros;2040;00 a 14 anos;34942
+80056;Pari;2040;00 a 14 anos;3753
+80057;Parque do Carmo;2040;00 a 14 anos;12184
+80058;Pedreira;2040;00 a 14 anos;29266
+80059;Penha;2040;00 a 14 anos;16627
+80060;Perdizes;2040;00 a 14 anos;8485
+80061;Perus;2040;00 a 14 anos;19054
+80062;Pinheiros;2040;00 a 14 anos;4542
+80063;Pirituba;2040;00 a 14 anos;24631
+80064;Ponte Rasa;2040;00 a 14 anos;11965
+80065;Raposo Tavares;2040;00 a 14 anos;19938
+80066;República;2040;00 a 14 anos;6444
+80067;Rio Pequeno;2040;00 a 14 anos;21710
+80068;Sacomã;2040;00 a 14 anos;38517
+80069;Santa Cecília;2040;00 a 14 anos;8506
+80070;Santana;2040;00 a 14 anos;10684
+80071;Santo Amaro;2040;00 a 14 anos;7733
+80072;São Lucas;2040;00 a 14 anos;18156
+80073;São Mateus;2040;00 a 14 anos;24673
+80074;São Miguel;2040;00 a 14 anos;15335
+80075;São Rafael;2040;00 a 14 anos;29911
+80076;Sapopemba;2040;00 a 14 anos;46873
+80077;Saúde;2040;00 a 14 anos;11405
+80078;Sé;2040;00 a 14 anos;4742
+80079;Socorro;2040;00 a 14 anos;4039
+80080;Tatuapé;2040;00 a 14 anos;9777
+80081;Tremembé;2040;00 a 14 anos;42588
+80082;Tucuruvi;2040;00 a 14 anos;9974
+80083;Vila Andrade;2040;00 a 14 anos;30453
+80084;Vila Curuçá;2040;00 a 14 anos;26620
+80085;Vila Formosa;2040;00 a 14 anos;11215
+80086;Vila Guilherme;2040;00 a 14 anos;8674
+80087;Vila Jacuí;2040;00 a 14 anos;22756
+80088;Vila Leopoldina;2040;00 a 14 anos;5623
+80089;Vila Maria;2040;00 a 14 anos;18882
+80090;Vila Mariana;2040;00 a 14 anos;9263
+80091;Vila Matilde;2040;00 a 14 anos;13544
+80092;Vila Medeiros;2040;00 a 14 anos;17517
+80093;Vila Prudente;2040;00 a 14 anos;12710
+80094;Vila Sônia;2040;00 a 14 anos;18962
+80095;São Domingos;2040;00 a 14 anos;12182
+80096;Lajeado;2040;00 a 14 anos;35532
+80001;Água Rasa;2045;00 a 14 anos;9432
+80002;Alto de Pinheiros;2045;00 a 14 anos;2639
+80003;Anhanguera;2045;00 a 14 anos;15992
+80004;Aricanduva;2045;00 a 14 anos;10613
+80005;Artur Alvim;2045;00 a 14 anos;11649
+80006;Barra Funda;2045;00 a 14 anos;2637
+80007;Bela Vista;2045;00 a 14 anos;5963
+80008;Belém;2045;00 a 14 anos;9328
+80009;Bom Retiro;2045;00 a 14 anos;7385
+80010;Brás;2045;00 a 14 anos;6118
+80011;Brasilândia;2045;00 a 14 anos;56891
+80012;Butantã;2045;00 a 14 anos;4673
+80013;Cachoeirinha;2045;00 a 14 anos;25484
+80014;Cambuci;2045;00 a 14 anos;5790
+80015;Campo Belo;2045;00 a 14 anos;6354
+80016;Campo Grande;2045;00 a 14 anos;12575
+80017;Campo Limpo;2045;00 a 14 anos;39218
+80018;Cangaíba;2045;00 a 14 anos;21441
+80019;Capão Redondo;2045;00 a 14 anos;55600
+80020;Carrão;2045;00 a 14 anos;9127
+80021;Casa Verde;2045;00 a 14 anos;12087
+80022;Cidade Ademar;2045;00 a 14 anos;51249
+80023;Cidade Dutra;2045;00 a 14 anos;32172
+80024;Cidade Líder;2045;00 a 14 anos;21991
+80025;Cidade Tiradentes;2045;00 a 14 anos;48341
+80026;Consolação;2045;00 a 14 anos;2592
+80027;Cursino;2045;00 a 14 anos;14230
+80028;Ermelino Matarazzo;2045;00 a 14 anos;19127
+80029;Freguesia do Ó;2045;00 a 14 anos;18595
+80030;Grajaú;2045;00 a 14 anos;77216
+80031;Guaianases;2045;00 a 14 anos;21304
+80032;Moema;2045;00 a 14 anos;6345
+80033;Iguatemi;2045;00 a 14 anos;32227
+80034;Ipiranga;2045;00 a 14 anos;13675
+80035;Itaim Bibi;2045;00 a 14 anos;7702
+80036;Itaim Paulista;2045;00 a 14 anos;42913
+80037;Itaquera;2045;00 a 14 anos;35125
+80038;Jabaquara;2045;00 a 14 anos;31688
+80039;Jaçanã;2045;00 a 14 anos;13841
+80040;Jaguara;2045;00 a 14 anos;2873
+80041;Jaguaré;2045;00 a 14 anos;8007
+80042;Jaraguá;2045;00 a 14 anos;40354
+80043;Jardim Ângela;2045;00 a 14 anos;70956
+80044;Jardim Helena;2045;00 a 14 anos;26405
+80045;Jardim Paulista;2045;00 a 14 anos;5318
+80046;Jardim São Luís;2045;00 a 14 anos;52736
+80047;José Bonifácio;2045;00 a 14 anos;20338
+80048;Lapa;2045;00 a 14 anos;6693
+80049;Liberdade;2045;00 a 14 anos;6816
+80050;Limão;2045;00 a 14 anos;12681
+80051;Mandaqui;2045;00 a 14 anos;13688
+80052;Marsilac;2045;00 a 14 anos;1397
+80053;Mooca;2045;00 a 14 anos;9669
+80054;Morumbi;2045;00 a 14 anos;8193
+80055;Parelheiros;2045;00 a 14 anos;33979
+80056;Pari;2045;00 a 14 anos;3781
+80057;Parque do Carmo;2045;00 a 14 anos;11790
+80058;Pedreira;2045;00 a 14 anos;28250
+80059;Penha;2045;00 a 14 anos;15980
+80060;Perdizes;2045;00 a 14 anos;7819
+80061;Perus;2045;00 a 14 anos;18908
+80062;Pinheiros;2045;00 a 14 anos;4283
+80063;Pirituba;2045;00 a 14 anos;23900
+80064;Ponte Rasa;2045;00 a 14 anos;11390
+80065;Raposo Tavares;2045;00 a 14 anos;19800
+80066;República;2045;00 a 14 anos;6376
+80067;Rio Pequeno;2045;00 a 14 anos;21759
+80068;Sacomã;2045;00 a 14 anos;36884
+80069;Santa Cecília;2045;00 a 14 anos;8150
+80070;Santana;2045;00 a 14 anos;10104
+80071;Santo Amaro;2045;00 a 14 anos;7437
+80072;São Lucas;2045;00 a 14 anos;17295
+80073;São Mateus;2045;00 a 14 anos;23862
+80074;São Miguel;2045;00 a 14 anos;15008
+80075;São Rafael;2045;00 a 14 anos;28749
+80076;Sapopemba;2045;00 a 14 anos;45247
+80077;Saúde;2045;00 a 14 anos;10907
+80078;Sé;2045;00 a 14 anos;4830
+80079;Socorro;2045;00 a 14 anos;3874
+80080;Tatuapé;2045;00 a 14 anos;9094
+80081;Tremembé;2045;00 a 14 anos;41701
+80082;Tucuruvi;2045;00 a 14 anos;9326
+80083;Vila Andrade;2045;00 a 14 anos;29195
+80084;Vila Curuçá;2045;00 a 14 anos;25524
+80085;Vila Formosa;2045;00 a 14 anos;10594
+80086;Vila Guilherme;2045;00 a 14 anos;8707
+80087;Vila Jacuí;2045;00 a 14 anos;21446
+80088;Vila Leopoldina;2045;00 a 14 anos;5458
+80089;Vila Maria;2045;00 a 14 anos;18653
+80090;Vila Mariana;2045;00 a 14 anos;8513
+80091;Vila Matilde;2045;00 a 14 anos;12915
+80092;Vila Medeiros;2045;00 a 14 anos;16990
+80093;Vila Prudente;2045;00 a 14 anos;12181
+80094;Vila Sônia;2045;00 a 14 anos;18506
+80095;São Domingos;2045;00 a 14 anos;11678
+80096;Lajeado;2045;00 a 14 anos;34731
+80001;Água Rasa;2050;00 a 14 anos;9125
+80002;Alto de Pinheiros;2050;00 a 14 anos;2447
+80003;Anhanguera;2050;00 a 14 anos;15244
+80004;Aricanduva;2050;00 a 14 anos;10084
+80005;Artur Alvim;2050;00 a 14 anos;10966
+80006;Barra Funda;2050;00 a 14 anos;2582
+80007;Bela Vista;2050;00 a 14 anos;6131
+80008;Belém;2050;00 a 14 anos;9467
+80009;Bom Retiro;2050;00 a 14 anos;7490
+80010;Brás;2050;00 a 14 anos;6197
+80011;Brasilândia;2050;00 a 14 anos;55894
+80012;Butantã;2050;00 a 14 anos;4571
+80013;Cachoeirinha;2050;00 a 14 anos;24801
+80014;Cambuci;2050;00 a 14 anos;5676
+80015;Campo Belo;2050;00 a 14 anos;6167
+80016;Campo Grande;2050;00 a 14 anos;11964
+80017;Campo Limpo;2050;00 a 14 anos;38075
+80018;Cangaíba;2050;00 a 14 anos;20993
+80019;Capão Redondo;2050;00 a 14 anos;54457
+80020;Carrão;2050;00 a 14 anos;8648
+80021;Casa Verde;2050;00 a 14 anos;11829
+80022;Cidade Ademar;2050;00 a 14 anos;50252
+80023;Cidade Dutra;2050;00 a 14 anos;31202
+80024;Cidade Líder;2050;00 a 14 anos;21355
+80025;Cidade Tiradentes;2050;00 a 14 anos;46952
+80026;Consolação;2050;00 a 14 anos;2500
+80027;Cursino;2050;00 a 14 anos;13832
+80028;Ermelino Matarazzo;2050;00 a 14 anos;18503
+80029;Freguesia do Ó;2050;00 a 14 anos;18001
+80030;Grajaú;2050;00 a 14 anos;75667
+80031;Guaianases;2050;00 a 14 anos;20865
+80032;Moema;2050;00 a 14 anos;6203
+80033;Iguatemi;2050;00 a 14 anos;31692
+80034;Ipiranga;2050;00 a 14 anos;13221
+80035;Itaim Bibi;2050;00 a 14 anos;7802
+80036;Itaim Paulista;2050;00 a 14 anos;41613
+80037;Itaquera;2050;00 a 14 anos;33949
+80038;Jabaquara;2050;00 a 14 anos;30674
+80039;Jaçanã;2050;00 a 14 anos;13182
+80040;Jaguara;2050;00 a 14 anos;2756
+80041;Jaguaré;2050;00 a 14 anos;7670
+80042;Jaraguá;2050;00 a 14 anos;39349
+80043;Jardim Ângela;2050;00 a 14 anos;69308
+80044;Jardim Helena;2050;00 a 14 anos;25806
+80045;Jardim Paulista;2050;00 a 14 anos;5366
+80046;Jardim São Luís;2050;00 a 14 anos;51444
+80047;José Bonifácio;2050;00 a 14 anos;19176
+80048;Lapa;2050;00 a 14 anos;6500
+80049;Liberdade;2050;00 a 14 anos;6777
+80050;Limão;2050;00 a 14 anos;12462
+80051;Mandaqui;2050;00 a 14 anos;13112
+80052;Marsilac;2050;00 a 14 anos;1308
+80053;Mooca;2050;00 a 14 anos;9438
+80054;Morumbi;2050;00 a 14 anos;8023
+80055;Parelheiros;2050;00 a 14 anos;33125
+80056;Pari;2050;00 a 14 anos;3771
+80057;Parque do Carmo;2050;00 a 14 anos;11353
+80058;Pedreira;2050;00 a 14 anos;27200
+80059;Penha;2050;00 a 14 anos;15390
+80060;Perdizes;2050;00 a 14 anos;7560
+80061;Perus;2050;00 a 14 anos;18704
+80062;Pinheiros;2050;00 a 14 anos;4261
+80063;Pirituba;2050;00 a 14 anos;23137
+80064;Ponte Rasa;2050;00 a 14 anos;10872
+80065;Raposo Tavares;2050;00 a 14 anos;19524
+80066;República;2050;00 a 14 anos;6453
+80067;Rio Pequeno;2050;00 a 14 anos;21616
+80068;Sacomã;2050;00 a 14 anos;35283
+80069;Santa Cecília;2050;00 a 14 anos;8108
+80070;Santana;2050;00 a 14 anos;9830
+80071;Santo Amaro;2050;00 a 14 anos;7092
+80072;São Lucas;2050;00 a 14 anos;16459
+80073;São Mateus;2050;00 a 14 anos;23075
+80074;São Miguel;2050;00 a 14 anos;14692
+80075;São Rafael;2050;00 a 14 anos;27484
+80076;Sapopemba;2050;00 a 14 anos;43729
+80077;Saúde;2050;00 a 14 anos;10650
+80078;Sé;2050;00 a 14 anos;4886
+80079;Socorro;2050;00 a 14 anos;3732
+80080;Tatuapé;2050;00 a 14 anos;8625
+80081;Tremembé;2050;00 a 14 anos;40793
+80082;Tucuruvi;2050;00 a 14 anos;8893
+80083;Vila Andrade;2050;00 a 14 anos;27612
+80084;Vila Curuçá;2050;00 a 14 anos;24506
+80085;Vila Formosa;2050;00 a 14 anos;10083
+80086;Vila Guilherme;2050;00 a 14 anos;8642
+80087;Vila Jacuí;2050;00 a 14 anos;20148
+80088;Vila Leopoldina;2050;00 a 14 anos;5233
+80089;Vila Maria;2050;00 a 14 anos;18340
+80090;Vila Mariana;2050;00 a 14 anos;8463
+80091;Vila Matilde;2050;00 a 14 anos;12313
+80092;Vila Medeiros;2050;00 a 14 anos;16492
+80093;Vila Prudente;2050;00 a 14 anos;11713
+80094;Vila Sônia;2050;00 a 14 anos;17999
+80095;São Domingos;2050;00 a 14 anos;11155
+80096;Lajeado;2050;00 a 14 anos;33957
+80001;Água Rasa;2050;15 a 59 anos;36555
+80002;Alto de Pinheiros;2050;15 a 59 anos;14367
+80003;Anhanguera;2050;15 a 59 anos;61987
+80004;Aricanduva;2050;15 a 59 anos;42470
+80005;Artur Alvim;2050;15 a 59 anos;47116
+80006;Barra Funda;2050;15 a 59 anos;9673
+80007;Bela Vista;2050;15 a 59 anos;28382
+80008;Belém;2050;15 a 59 anos;27874
+80009;Bom Retiro;2050;15 a 59 anos;23649
+80010;Brás;2050;15 a 59 anos;20108
+80011;Brasilândia;2050;15 a 59 anos;192666
+80012;Butantã;2050;15 a 59 anos;22101
+80013;Cachoeirinha;2050;15 a 59 anos;89208
+80014;Cambuci;2050;15 a 59 anos;21376
+80015;Campo Belo;2050;15 a 59 anos;26105
+80016;Campo Grande;2050;15 a 59 anos;52496
+80017;Campo Limpo;2050;15 a 59 anos;143413
+80018;Cangaíba;2050;15 a 59 anos;77946
+80019;Capão Redondo;2050;15 a 59 anos;196247
+80020;Carrão;2050;15 a 59 anos;39322
+80021;Casa Verde;2050;15 a 59 anos;44186
+80022;Cidade Ademar;2050;15 a 59 anos;176229
+80023;Cidade Dutra;2050;15 a 59 anos;119630
+80024;Cidade Líder;2050;15 a 59 anos;82950
+80025;Cidade Tiradentes;2050;15 a 59 anos;171352
+80026;Consolação;2050;15 a 59 anos;18169
+80027;Cursino;2050;15 a 59 anos;55376
+80028;Ermelino Matarazzo;2050;15 a 59 anos;70444
+80029;Freguesia do Ó;2050;15 a 59 anos;70542
+80030;Grajaú;2050;15 a 59 anos;266195
+80031;Guaianases;2050;15 a 59 anos;71923
+80032;Moema;2050;15 a 59 anos;33730
+80033;Iguatemi;2050;15 a 59 anos;109135
+80034;Ipiranga;2050;15 a 59 anos;55888
+80035;Itaim Bibi;2050;15 a 59 anos;36541
+80036;Itaim Paulista;2050;15 a 59 anos;154004
+80037;Itaquera;2050;15 a 59 anos;126344
+80038;Jabaquara;2050;15 a 59 anos;122247
+80039;Jaçanã;2050;15 a 59 anos;54151
+80040;Jaguara;2050;15 a 59 anos;11363
+80041;Jaguaré;2050;15 a 59 anos;31568
+80042;Jaraguá;2050;15 a 59 anos;142259
+80043;Jardim Ângela;2050;15 a 59 anos;240029
+80044;Jardim Helena;2050;15 a 59 anos;85204
+80045;Jardim Paulista;2050;15 a 59 anos;30578
+80046;Jardim São Luís;2050;15 a 59 anos;188613
+80047;José Bonifácio;2050;15 a 59 anos;80875
+80048;Lapa;2050;15 a 59 anos;28118
+80049;Liberdade;2050;15 a 59 anos;30807
+80050;Limão;2050;15 a 59 anos;43121
+80051;Mandaqui;2050;15 a 59 anos;55335
+80052;Marsilac;2050;15 a 59 anos;5517
+80053;Mooca;2050;15 a 59 anos;38065
+80054;Morumbi;2050;15 a 59 anos;29658
+80055;Parelheiros;2050;15 a 59 anos;114447
+80056;Pari;2050;15 a 59 anos;11827
+80057;Parque do Carmo;2050;15 a 59 anos;44169
+80058;Pedreira;2050;15 a 59 anos;109192
+80059;Penha;2050;15 a 59 anos;64899
+80060;Perdizes;2050;15 a 59 anos;43031
+80061;Perus;2050;15 a 59 anos;63912
+80062;Pinheiros;2050;15 a 59 anos;23137
+80063;Pirituba;2050;15 a 59 anos;92040
+80064;Ponte Rasa;2050;15 a 59 anos;45239
+80065;Raposo Tavares;2050;15 a 59 anos;67129
+80066;República;2050;15 a 59 anos;25600
+80067;Rio Pequeno;2050;15 a 59 anos;71761
+80068;Sacomã;2050;15 a 59 anos;148287
+80069;Santa Cecília;2050;15 a 59 anos;37024
+80070;Santana;2050;15 a 59 anos;46012
+80071;Santo Amaro;2050;15 a 59 anos;32133
+80072;São Lucas;2050;15 a 59 anos;71070
+80073;São Mateus;2050;15 a 59 anos;88927
+80074;São Miguel;2050;15 a 59 anos;49252
+80075;São Rafael;2050;15 a 59 anos;106503
+80076;Sapopemba;2050;15 a 59 anos;167925
+80077;Saúde;2050;15 a 59 anos;51641
+80078;Sé;2050;15 a 59 anos;16066
+80079;Socorro;2050;15 a 59 anos;15790
+80080;Tatuapé;2050;15 a 59 anos;42557
+80081;Tremembé;2050;15 a 59 anos;146402
+80082;Tucuruvi;2050;15 a 59 anos;42377
+80083;Vila Andrade;2050;15 a 59 anos;114641
+80084;Vila Curuçá;2050;15 a 59 anos;95948
+80085;Vila Formosa;2050;15 a 59 anos;44966
+80086;Vila Guilherme;2050;15 a 59 anos;29909
+80087;Vila Jacuí;2050;15 a 59 anos;86855
+80088;Vila Leopoldina;2050;15 a 59 anos;22835
+80089;Vila Maria;2050;15 a 59 anos;64149
+80090;Vila Mariana;2050;15 a 59 anos;47199
+80091;Vila Matilde;2050;15 a 59 anos;53264
+80092;Vila Medeiros;2050;15 a 59 anos;62259
+80093;Vila Prudente;2050;15 a 59 anos;50043
+80094;Vila Sônia;2050;15 a 59 anos;69142
+80095;São Domingos;2050;15 a 59 anos;46682
+80096;Lajeado;2050;15 a 59 anos;120149
+80001;Água Rasa;2045;15 a 59 anos;39087
+80002;Alto de Pinheiros;2045;15 a 59 anos;16113
+80003;Anhanguera;2045;15 a 59 anos;63776
+80004;Aricanduva;2045;15 a 59 anos;45153
+80005;Artur Alvim;2045;15 a 59 anos;50628
+80006;Barra Funda;2045;15 a 59 anos;10186
+80007;Bela Vista;2045;15 a 59 anos;33250
+80008;Belém;2045;15 a 59 anos;28721
+80009;Bom Retiro;2045;15 a 59 anos;24780
+80010;Brás;2045;15 a 59 anos;20956
+80011;Brasilândia;2045;15 a 59 anos;194410
+80012;Butantã;2045;15 a 59 anos;24776
+80013;Cachoeirinha;2045;15 a 59 anos;91770
+80014;Cambuci;2045;15 a 59 anos;22488
+80015;Campo Belo;2045;15 a 59 anos;28033
+80016;Campo Grande;2045;15 a 59 anos;55438
+80017;Campo Limpo;2045;15 a 59 anos;147741
+80018;Cangaíba;2045;15 a 59 anos;81335
+80019;Capão Redondo;2045;15 a 59 anos;200954
+80020;Carrão;2045;15 a 59 anos;42357
+80021;Casa Verde;2045;15 a 59 anos;46508
+80022;Cidade Ademar;2045;15 a 59 anos;181968
+80023;Cidade Dutra;2045;15 a 59 anos;124305
+80024;Cidade Líder;2045;15 a 59 anos;85808
+80025;Cidade Tiradentes;2045;15 a 59 anos;172776
+80026;Consolação;2045;15 a 59 anos;23694
+80027;Cursino;2045;15 a 59 anos;58967
+80028;Ermelino Matarazzo;2045;15 a 59 anos;73236
+80029;Freguesia do Ó;2045;15 a 59 anos;74593
+80030;Grajaú;2045;15 a 59 anos;269660
+80031;Guaianases;2045;15 a 59 anos;73315
+80032;Moema;2045;15 a 59 anos;37447
+80033;Iguatemi;2045;15 a 59 anos;110583
+80034;Ipiranga;2045;15 a 59 anos;59681
+80035;Itaim Bibi;2045;15 a 59 anos;40511
+80036;Itaim Paulista;2045;15 a 59 anos;157175
+80037;Itaquera;2045;15 a 59 anos;130167
+80038;Jabaquara;2045;15 a 59 anos;128298
+80039;Jaçanã;2045;15 a 59 anos;56586
+80040;Jaguara;2045;15 a 59 anos;12100
+80041;Jaguaré;2045;15 a 59 anos;33152
+80042;Jaraguá;2045;15 a 59 anos;145642
+80043;Jardim Ângela;2045;15 a 59 anos;242975
+80044;Jardim Helena;2045;15 a 59 anos;87094
+80045;Jardim Paulista;2045;15 a 59 anos;35504
+80046;Jardim São Luís;2045;15 a 59 anos;194219
+80047;José Bonifácio;2045;15 a 59 anos;84135
+80048;Lapa;2045;15 a 59 anos;30462
+80049;Liberdade;2045;15 a 59 anos;34626
+80050;Limão;2045;15 a 59 anos;44903
+80051;Mandaqui;2045;15 a 59 anos;58590
+80052;Marsilac;2045;15 a 59 anos;5666
+80053;Mooca;2045;15 a 59 anos;40874
+80054;Morumbi;2045;15 a 59 anos;30599
+80055;Parelheiros;2045;15 a 59 anos;114672
+80056;Pari;2045;15 a 59 anos;12209
+80057;Parque do Carmo;2045;15 a 59 anos;45573
+80058;Pedreira;2045;15 a 59 anos;112125
+80059;Penha;2045;15 a 59 anos;69013
+80060;Perdizes;2045;15 a 59 anos;49171
+80061;Perus;2045;15 a 59 anos;64421
+80062;Pinheiros;2045;15 a 59 anos;26181
+80063;Pirituba;2045;15 a 59 anos;96367
+80064;Ponte Rasa;2045;15 a 59 anos;47993
+80065;Raposo Tavares;2045;15 a 59 anos;68250
+80066;República;2045;15 a 59 anos;29373
+80067;Rio Pequeno;2045;15 a 59 anos;73651
+80068;Sacomã;2045;15 a 59 anos;155804
+80069;Santa Cecília;2045;15 a 59 anos;41825
+80070;Santana;2045;15 a 59 anos;50722
+80071;Santo Amaro;2045;15 a 59 anos;34501
+80072;São Lucas;2045;15 a 59 anos;75881
+80073;São Mateus;2045;15 a 59 anos;92677
+80074;São Miguel;2045;15 a 59 anos;51137
+80075;São Rafael;2045;15 a 59 anos;108922
+80076;Sapopemba;2045;15 a 59 anos;175234
+80077;Saúde;2045;15 a 59 anos;57364
+80078;Sé;2045;15 a 59 anos;16817
+80079;Socorro;2045;15 a 59 anos;16925
+80080;Tatuapé;2045;15 a 59 anos;46458
+80081;Tremembé;2045;15 a 59 anos;149990
+80082;Tucuruvi;2045;15 a 59 anos;46314
+80083;Vila Andrade;2045;15 a 59 anos;118942
+80084;Vila Curuçá;2045;15 a 59 anos;98758
+80085;Vila Formosa;2045;15 a 59 anos;48200
+80086;Vila Guilherme;2045;15 a 59 anos;31206
+80087;Vila Jacuí;2045;15 a 59 anos;91167
+80088;Vila Leopoldina;2045;15 a 59 anos;24249
+80089;Vila Maria;2045;15 a 59 anos;66758
+80090;Vila Mariana;2045;15 a 59 anos;54668
+80091;Vila Matilde;2045;15 a 59 anos;56586
+80092;Vila Medeiros;2045;15 a 59 anos;66113
+80093;Vila Prudente;2045;15 a 59 anos;53788
+80094;Vila Sônia;2045;15 a 59 anos;72608
+80095;São Domingos;2045;15 a 59 anos;49013
+80096;Lajeado;2045;15 a 59 anos;121853
+80001;Água Rasa;2040;15 a 59 anos;41852
+80002;Alto de Pinheiros;2040;15 a 59 anos;17823
+80003;Anhanguera;2040;15 a 59 anos;64335
+80004;Aricanduva;2040;15 a 59 anos;47846
+80005;Artur Alvim;2040;15 a 59 anos;54529
+80006;Barra Funda;2040;15 a 59 anos;10923
+80007;Bela Vista;2040;15 a 59 anos;39736
+80008;Belém;2040;15 a 59 anos;30295
+80009;Bom Retiro;2040;15 a 59 anos;26008
+80010;Brás;2040;15 a 59 anos;21891
+80011;Brasilândia;2040;15 a 59 anos;194880
+80012;Butantã;2040;15 a 59 anos;27996
+80013;Cachoeirinha;2040;15 a 59 anos;94333
+80014;Cambuci;2040;15 a 59 anos;23991
+80015;Campo Belo;2040;15 a 59 anos;30618
+80016;Campo Grande;2040;15 a 59 anos;59125
+80017;Campo Limpo;2040;15 a 59 anos;152365
+80018;Cangaíba;2040;15 a 59 anos;84265
+80019;Capão Redondo;2040;15 a 59 anos;205082
+80020;Carrão;2040;15 a 59 anos;45501
+80021;Casa Verde;2040;15 a 59 anos;49047
+80022;Cidade Ademar;2040;15 a 59 anos;187113
+80023;Cidade Dutra;2040;15 a 59 anos;128302
+80024;Cidade Líder;2040;15 a 59 anos;88473
+80025;Cidade Tiradentes;2040;15 a 59 anos;173141
+80026;Consolação;2040;15 a 59 anos;28684
+80027;Cursino;2040;15 a 59 anos;63408
+80028;Ermelino Matarazzo;2040;15 a 59 anos;75645
+80029;Freguesia do Ó;2040;15 a 59 anos;78977
+80030;Grajaú;2040;15 a 59 anos;271700
+80031;Guaianases;2040;15 a 59 anos;74179
+80032;Moema;2040;15 a 59 anos;42770
+80033;Iguatemi;2040;15 a 59 anos;110838
+80034;Ipiranga;2040;15 a 59 anos;64127
+80035;Itaim Bibi;2040;15 a 59 anos;47120
+80036;Itaim Paulista;2040;15 a 59 anos;158827
+80037;Itaquera;2040;15 a 59 anos;133504
+80038;Jabaquara;2040;15 a 59 anos;135309
+80039;Jaçanã;2040;15 a 59 anos;59019
+80040;Jaguara;2040;15 a 59 anos;12933
+80041;Jaguaré;2040;15 a 59 anos;35254
+80042;Jaraguá;2040;15 a 59 anos;148292
+80043;Jardim Ângela;2040;15 a 59 anos;245576
+80044;Jardim Helena;2040;15 a 59 anos;88450
+80045;Jardim Paulista;2040;15 a 59 anos;42577
+80046;Jardim São Luís;2040;15 a 59 anos;199853
+80047;José Bonifácio;2040;15 a 59 anos;88253
+80048;Lapa;2040;15 a 59 anos;33570
+80049;Liberdade;2040;15 a 59 anos;39443
+80050;Limão;2040;15 a 59 anos;46707
+80051;Mandaqui;2040;15 a 59 anos;61662
+80052;Marsilac;2040;15 a 59 anos;5680
+80053;Mooca;2040;15 a 59 anos;44004
+80054;Morumbi;2040;15 a 59 anos;31713
+80055;Parelheiros;2040;15 a 59 anos;113971
+80056;Pari;2040;15 a 59 anos;12538
+80057;Parque do Carmo;2040;15 a 59 anos;46953
+80058;Pedreira;2040;15 a 59 anos;113993
+80059;Penha;2040;15 a 59 anos;73154
+80060;Perdizes;2040;15 a 59 anos;56702
+80061;Perus;2040;15 a 59 anos;64057
+80062;Pinheiros;2040;15 a 59 anos;30967
+80063;Pirituba;2040;15 a 59 anos;100973
+80064;Ponte Rasa;2040;15 a 59 anos;50711
+80065;Raposo Tavares;2040;15 a 59 anos;69990
+80066;República;2040;15 a 59 anos;34010
+80067;Rio Pequeno;2040;15 a 59 anos;76171
+80068;Sacomã;2040;15 a 59 anos;164138
+80069;Santa Cecília;2040;15 a 59 anos;47646
+80070;Santana;2040;15 a 59 anos;55874
+80071;Santo Amaro;2040;15 a 59 anos;37549
+80072;São Lucas;2040;15 a 59 anos;80834
+80073;São Mateus;2040;15 a 59 anos;96245
+80074;São Miguel;2040;15 a 59 anos;52449
+80075;São Rafael;2040;15 a 59 anos;110720
+80076;Sapopemba;2040;15 a 59 anos;181413
+80077;Saúde;2040;15 a 59 anos;65499
+80078;Sé;2040;15 a 59 anos;17613
+80079;Socorro;2040;15 a 59 anos;18357
+80080;Tatuapé;2040;15 a 59 anos;50533
+80081;Tremembé;2040;15 a 59 anos;152640
+80082;Tucuruvi;2040;15 a 59 anos;50357
+80083;Vila Andrade;2040;15 a 59 anos;122401
+80084;Vila Curuçá;2040;15 a 59 anos;100965
+80085;Vila Formosa;2040;15 a 59 anos;51239
+80086;Vila Guilherme;2040;15 a 59 anos;32997
+80087;Vila Jacuí;2040;15 a 59 anos;94618
+80088;Vila Leopoldina;2040;15 a 59 anos;26206
+80089;Vila Maria;2040;15 a 59 anos;69524
+80090;Vila Mariana;2040;15 a 59 anos;64448
+80091;Vila Matilde;2040;15 a 59 anos;59820
+80092;Vila Medeiros;2040;15 a 59 anos;69792
+80093;Vila Prudente;2040;15 a 59 anos;57686
+80094;Vila Sônia;2040;15 a 59 anos;76485
+80095;São Domingos;2040;15 a 59 anos;51464
+80096;Lajeado;2040;15 a 59 anos;122019
+80001;Água Rasa;2035;15 a 59 anos;44558
+80002;Alto de Pinheiros;2035;15 a 59 anos;19711
+80003;Anhanguera;2035;15 a 59 anos;64251
+80004;Aricanduva;2035;15 a 59 anos;49870
+80005;Artur Alvim;2035;15 a 59 anos;57995
+80006;Barra Funda;2035;15 a 59 anos;11381
+80007;Bela Vista;2035;15 a 59 anos;44027
+80008;Belém;2035;15 a 59 anos;31221
+80009;Bom Retiro;2035;15 a 59 anos;26679
+80010;Brás;2035;15 a 59 anos;22340
+80011;Brasilândia;2035;15 a 59 anos;193381
+80012;Butantã;2035;15 a 59 anos;30316
+80013;Cachoeirinha;2035;15 a 59 anos;95785
+80014;Cambuci;2035;15 a 59 anos;25265
+80015;Campo Belo;2035;15 a 59 anos;33211
+80016;Campo Grande;2035;15 a 59 anos;63022
+80017;Campo Limpo;2035;15 a 59 anos;155886
+80018;Cangaíba;2035;15 a 59 anos;85992
+80019;Capão Redondo;2035;15 a 59 anos;206916
+80020;Carrão;2035;15 a 59 anos;48213
+80021;Casa Verde;2035;15 a 59 anos;51054
+80022;Cidade Ademar;2035;15 a 59 anos;190752
+80023;Cidade Dutra;2035;15 a 59 anos;131245
+80024;Cidade Líder;2035;15 a 59 anos;90261
+80025;Cidade Tiradentes;2035;15 a 59 anos;171705
+80026;Consolação;2035;15 a 59 anos;31638
+80027;Cursino;2035;15 a 59 anos;66972
+80028;Ermelino Matarazzo;2035;15 a 59 anos;77212
+80029;Freguesia do Ó;2035;15 a 59 anos;82419
+80030;Grajaú;2035;15 a 59 anos;271496
+80031;Guaianases;2035;15 a 59 anos;74431
+80032;Moema;2035;15 a 59 anos;48059
+80033;Iguatemi;2035;15 a 59 anos;109391
+80034;Ipiranga;2035;15 a 59 anos;67650
+80035;Itaim Bibi;2035;15 a 59 anos;53542
+80036;Itaim Paulista;2035;15 a 59 anos;159206
+80037;Itaquera;2035;15 a 59 anos;136567
+80038;Jabaquara;2035;15 a 59 anos;141442
+80039;Jaçanã;2035;15 a 59 anos;61026
+80040;Jaguara;2035;15 a 59 anos;13637
+80041;Jaguaré;2035;15 a 59 anos;36877
+80042;Jaraguá;2035;15 a 59 anos;149436
+80043;Jardim Ângela;2035;15 a 59 anos;246114
+80044;Jardim Helena;2035;15 a 59 anos;89034
+80045;Jardim Paulista;2035;15 a 59 anos;48362
+80046;Jardim São Luís;2035;15 a 59 anos;203076
+80047;José Bonifácio;2035;15 a 59 anos;92122
+80048;Lapa;2035;15 a 59 anos;36446
+80049;Liberdade;2035;15 a 59 anos;43002
+80050;Limão;2035;15 a 59 anos;48235
+80051;Mandaqui;2035;15 a 59 anos;64333
+80052;Marsilac;2035;15 a 59 anos;5685
+80053;Mooca;2035;15 a 59 anos;46543
+80054;Morumbi;2035;15 a 59 anos;32678
+80055;Parelheiros;2035;15 a 59 anos;112282
+80056;Pari;2035;15 a 59 anos;12563
+80057;Parque do Carmo;2035;15 a 59 anos;47906
+80058;Pedreira;2035;15 a 59 anos;114900
+80059;Penha;2035;15 a 59 anos;76014
+80060;Perdizes;2035;15 a 59 anos;63045
+80061;Perus;2035;15 a 59 anos;63406
+80062;Pinheiros;2035;15 a 59 anos;34959
+80063;Pirituba;2035;15 a 59 anos;104542
+80064;Ponte Rasa;2035;15 a 59 anos;52734
+80065;Raposo Tavares;2035;15 a 59 anos;71465
+80066;República;2035;15 a 59 anos;37349
+80067;Rio Pequeno;2035;15 a 59 anos;77861
+80068;Sacomã;2035;15 a 59 anos;170144
+80069;Santa Cecília;2035;15 a 59 anos;51786
+80070;Santana;2035;15 a 59 anos;59688
+80071;Santo Amaro;2035;15 a 59 anos;40516
+80072;São Lucas;2035;15 a 59 anos;84526
+80073;São Mateus;2035;15 a 59 anos;98357
+80074;São Miguel;2035;15 a 59 anos;53200
+80075;São Rafael;2035;15 a 59 anos;111739
+80076;Sapopemba;2035;15 a 59 anos;185156
+80077;Saúde;2035;15 a 59 anos;72576
+80078;Sé;2035;15 a 59 anos;18102
+80079;Socorro;2035;15 a 59 anos;19478
+80080;Tatuapé;2035;15 a 59 anos;53869
+80081;Tremembé;2035;15 a 59 anos;153454
+80082;Tucuruvi;2035;15 a 59 anos;53413
+80083;Vila Andrade;2035;15 a 59 anos;124905
+80084;Vila Curuçá;2035;15 a 59 anos;101968
+80085;Vila Formosa;2035;15 a 59 anos;53472
+80086;Vila Guilherme;2035;15 a 59 anos;34459
+80087;Vila Jacuí;2035;15 a 59 anos;96759
+80088;Vila Leopoldina;2035;15 a 59 anos;28453
+80089;Vila Maria;2035;15 a 59 anos;71250
+80090;Vila Mariana;2035;15 a 59 anos;71649
+80091;Vila Matilde;2035;15 a 59 anos;62514
+80092;Vila Medeiros;2035;15 a 59 anos;72323
+80093;Vila Prudente;2035;15 a 59 anos;60792
+80094;Vila Sônia;2035;15 a 59 anos;79351
+80095;São Domingos;2035;15 a 59 anos;53253
+80096;Lajeado;2035;15 a 59 anos;121104
+80001;Água Rasa;2030;15 a 59 anos;46321
+80002;Alto de Pinheiros;2030;15 a 59 anos;21092
+80003;Anhanguera;2030;15 a 59 anos;63756
+80004;Aricanduva;2030;15 a 59 anos;51493
+80005;Artur Alvim;2030;15 a 59 anos;60465
+80006;Barra Funda;2030;15 a 59 anos;11272
+80007;Bela Vista;2030;15 a 59 anos;45585
+80008;Belém;2030;15 a 59 anos;30807
+80009;Bom Retiro;2030;15 a 59 anos;26264
+80010;Brás;2030;15 a 59 anos;22138
+80011;Brasilândia;2030;15 a 59 anos;189776
+80012;Butantã;2030;15 a 59 anos;31595
+80013;Cachoeirinha;2030;15 a 59 anos;95546
+80014;Cambuci;2030;15 a 59 anos;25821
+80015;Campo Belo;2030;15 a 59 anos;35147
+80016;Campo Grande;2030;15 a 59 anos;65597
+80017;Campo Limpo;2030;15 a 59 anos;156881
+80018;Cangaíba;2030;15 a 59 anos;86807
+80019;Capão Redondo;2030;15 a 59 anos;205456
+80020;Carrão;2030;15 a 59 anos;50095
+80021;Casa Verde;2030;15 a 59 anos;51906
+80022;Cidade Ademar;2030;15 a 59 anos;190987
+80023;Cidade Dutra;2030;15 a 59 anos;132257
+80024;Cidade Líder;2030;15 a 59 anos;90597
+80025;Cidade Tiradentes;2030;15 a 59 anos;168237
+80026;Consolação;2030;15 a 59 anos;33177
+80027;Cursino;2030;15 a 59 anos;68546
+80028;Ermelino Matarazzo;2030;15 a 59 anos;77775
+80029;Freguesia do Ó;2030;15 a 59 anos;84306
+80030;Grajaú;2030;15 a 59 anos;268664
+80031;Guaianases;2030;15 a 59 anos;73950
+80032;Moema;2030;15 a 59 anos;51360
+80033;Iguatemi;2030;15 a 59 anos;106775
+80034;Ipiranga;2030;15 a 59 anos;69470
+80035;Itaim Bibi;2030;15 a 59 anos;56822
+80036;Itaim Paulista;2030;15 a 59 anos;158344
+80037;Itaquera;2030;15 a 59 anos;138303
+80038;Jabaquara;2030;15 a 59 anos;144385
+80039;Jaçanã;2030;15 a 59 anos;61921
+80040;Jaguara;2030;15 a 59 anos;14057
+80041;Jaguaré;2030;15 a 59 anos;37381
+80042;Jaraguá;2030;15 a 59 anos;148344
+80043;Jardim Ângela;2030;15 a 59 anos;243121
+80044;Jardim Helena;2030;15 a 59 anos;88722
+80045;Jardim Paulista;2030;15 a 59 anos;51012
+80046;Jardim São Luís;2030;15 a 59 anos;202883
+80047;José Bonifácio;2030;15 a 59 anos;93351
+80048;Lapa;2030;15 a 59 anos;38119
+80049;Liberdade;2030;15 a 59 anos;44742
+80050;Limão;2030;15 a 59 anos;48843
+80051;Mandaqui;2030;15 a 59 anos;66442
+80052;Marsilac;2030;15 a 59 anos;5624
+80053;Mooca;2030;15 a 59 anos;48035
+80054;Morumbi;2030;15 a 59 anos;32949
+80055;Parelheiros;2030;15 a 59 anos;109390
+80056;Pari;2030;15 a 59 anos;12324
+80057;Parque do Carmo;2030;15 a 59 anos;48106
+80058;Pedreira;2030;15 a 59 anos;114169
+80059;Penha;2030;15 a 59 anos;77626
+80060;Perdizes;2030;15 a 59 anos;66189
+80061;Perus;2030;15 a 59 anos;62205
+80062;Pinheiros;2030;15 a 59 anos;37006
+80063;Pirituba;2030;15 a 59 anos;106244
+80064;Ponte Rasa;2030;15 a 59 anos;54042
+80065;Raposo Tavares;2030;15 a 59 anos;71554
+80066;República;2030;15 a 59 anos;39027
+80067;Rio Pequeno;2030;15 a 59 anos;77771
+80068;Sacomã;2030;15 a 59 anos;172919
+80069;Santa Cecília;2030;15 a 59 anos;53633
+80070;Santana;2030;15 a 59 anos;62026
+80071;Santo Amaro;2030;15 a 59 anos;42655
+80072;São Lucas;2030;15 a 59 anos;86812
+80073;São Mateus;2030;15 a 59 anos;99491
+80074;São Miguel;2030;15 a 59 anos;53523
+80075;São Rafael;2030;15 a 59 anos;111859
+80076;Sapopemba;2030;15 a 59 anos;186824
+80077;Saúde;2030;15 a 59 anos;76294
+80078;Sé;2030;15 a 59 anos;18289
+80079;Socorro;2030;15 a 59 anos;20338
+80080;Tatuapé;2030;15 a 59 anos;56201
+80081;Tremembé;2030;15 a 59 anos;152128
+80082;Tucuruvi;2030;15 a 59 anos;55248
+80083;Vila Andrade;2030;15 a 59 anos;124555
+80084;Vila Curuçá;2030;15 a 59 anos;102748
+80085;Vila Formosa;2030;15 a 59 anos;54973
+80086;Vila Guilherme;2030;15 a 59 anos;34912
+80087;Vila Jacuí;2030;15 a 59 anos;97878
+80088;Vila Leopoldina;2030;15 a 59 anos;29965
+80089;Vila Maria;2030;15 a 59 anos;71673
+80090;Vila Mariana;2030;15 a 59 anos;74965
+80091;Vila Matilde;2030;15 a 59 anos;64188
+80092;Vila Medeiros;2030;15 a 59 anos;73555
+80093;Vila Prudente;2030;15 a 59 anos;62566
+80094;Vila Sônia;2030;15 a 59 anos;79950
+80095;São Domingos;2030;15 a 59 anos;54347
+80096;Lajeado;2030;15 a 59 anos;119741
+80001;Água Rasa;2025;15 a 59 anos;47648
+80002;Alto de Pinheiros;2025;15 a 59 anos;22431
+80003;Anhanguera;2025;15 a 59 anos;62910
+80004;Aricanduva;2025;15 a 59 anos;52953
+80005;Artur Alvim;2025;15 a 59 anos;62268
+80006;Barra Funda;2025;15 a 59 anos;10627
+80007;Bela Vista;2025;15 a 59 anos;46083
+80008;Belém;2025;15 a 59 anos;29432
+80009;Bom Retiro;2025;15 a 59 anos;25355
+80010;Brás;2025;15 a 59 anos;21306
+80011;Brasilândia;2025;15 a 59 anos;185720
+80012;Butantã;2025;15 a 59 anos;32463
+80013;Cachoeirinha;2025;15 a 59 anos;94843
+80014;Cambuci;2025;15 a 59 anos;25684
+80015;Campo Belo;2025;15 a 59 anos;36425
+80016;Campo Grande;2025;15 a 59 anos;67417
+80017;Campo Limpo;2025;15 a 59 anos;155448
+80018;Cangaíba;2025;15 a 59 anos;87322
+80019;Capão Redondo;2025;15 a 59 anos;201805
+80020;Carrão;2025;15 a 59 anos;51349
+80021;Casa Verde;2025;15 a 59 anos;52182
+80022;Cidade Ademar;2025;15 a 59 anos;189013
+80023;Cidade Dutra;2025;15 a 59 anos;132603
+80024;Cidade Líder;2025;15 a 59 anos;90046
+80025;Cidade Tiradentes;2025;15 a 59 anos;163790
+80026;Consolação;2025;15 a 59 anos;34444
+80027;Cursino;2025;15 a 59 anos;69129
+80028;Ermelino Matarazzo;2025;15 a 59 anos;77995
+80029;Freguesia do Ó;2025;15 a 59 anos;85867
+80030;Grajaú;2025;15 a 59 anos;264942
+80031;Guaianases;2025;15 a 59 anos;73149
+80032;Moema;2025;15 a 59 anos;52793
+80033;Iguatemi;2025;15 a 59 anos;103747
+80034;Ipiranga;2025;15 a 59 anos;69954
+80035;Itaim Bibi;2025;15 a 59 anos;57529
+80036;Itaim Paulista;2025;15 a 59 anos;157242
+80037;Itaquera;2025;15 a 59 anos;138864
+80038;Jabaquara;2025;15 a 59 anos;145927
+80039;Jaçanã;2025;15 a 59 anos;62423
+80040;Jaguara;2025;15 a 59 anos;14361
+80041;Jaguaré;2025;15 a 59 anos;37011
+80042;Jaraguá;2025;15 a 59 anos;145661
+80043;Jardim Ângela;2025;15 a 59 anos;236781
+80044;Jardim Helena;2025;15 a 59 anos;88304
+80045;Jardim Paulista;2025;15 a 59 anos;52412
+80046;Jardim São Luís;2025;15 a 59 anos;199743
+80047;José Bonifácio;2025;15 a 59 anos;92987
+80048;Lapa;2025;15 a 59 anos;39113
+80049;Liberdade;2025;15 a 59 anos;45161
+80050;Limão;2025;15 a 59 anos;48831
+80051;Mandaqui;2025;15 a 59 anos;68190
+80052;Marsilac;2025;15 a 59 anos;5668
+80053;Mooca;2025;15 a 59 anos;48747
+80054;Morumbi;2025;15 a 59 anos;32722
+80055;Parelheiros;2025;15 a 59 anos;105933
+80056;Pari;2025;15 a 59 anos;11905
+80057;Parque do Carmo;2025;15 a 59 anos;47786
+80058;Pedreira;2025;15 a 59 anos;112528
+80059;Penha;2025;15 a 59 anos;78775
+80060;Perdizes;2025;15 a 59 anos;68199
+80061;Perus;2025;15 a 59 anos;60622
+80062;Pinheiros;2025;15 a 59 anos;38250
+80063;Pirituba;2025;15 a 59 anos;107663
+80064;Ponte Rasa;2025;15 a 59 anos;55552
+80065;Raposo Tavares;2025;15 a 59 anos;70604
+80066;República;2025;15 a 59 anos;39730
+80067;Rio Pequeno;2025;15 a 59 anos;77028
+80068;Sacomã;2025;15 a 59 anos;173522
+80069;Santa Cecília;2025;15 a 59 anos;54642
+80070;Santana;2025;15 a 59 anos;64315
+80071;Santo Amaro;2025;15 a 59 anos;43920
+80072;São Lucas;2025;15 a 59 anos;88821
+80073;São Mateus;2025;15 a 59 anos;100123
+80074;São Miguel;2025;15 a 59 anos;54173
+80075;São Rafael;2025;15 a 59 anos;111061
+80076;Sapopemba;2025;15 a 59 anos;187782
+80077;Saúde;2025;15 a 59 anos;78659
+80078;Sé;2025;15 a 59 anos;17781
+80079;Socorro;2025;15 a 59 anos;21011
+80080;Tatuapé;2025;15 a 59 anos;57949
+80081;Tremembé;2025;15 a 59 anos;149266
+80082;Tucuruvi;2025;15 a 59 anos;56858
+80083;Vila Andrade;2025;15 a 59 anos;121142
+80084;Vila Curuçá;2025;15 a 59 anos;103168
+80085;Vila Formosa;2025;15 a 59 anos;56623
+80086;Vila Guilherme;2025;15 a 59 anos;34566
+80087;Vila Jacuí;2025;15 a 59 anos;98999
+80088;Vila Leopoldina;2025;15 a 59 anos;30278
+80089;Vila Maria;2025;15 a 59 anos;71675
+80090;Vila Mariana;2025;15 a 59 anos;76986
+80091;Vila Matilde;2025;15 a 59 anos;65604
+80092;Vila Medeiros;2025;15 a 59 anos;74771
+80093;Vila Prudente;2025;15 a 59 anos;63969
+80094;Vila Sônia;2025;15 a 59 anos;78904
+80095;São Domingos;2025;15 a 59 anos;55228
+80096;Lajeado;2025;15 a 59 anos;117810
+80001;Água Rasa;2020;15 a 59 anos;50635
+80002;Alto de Pinheiros;2020;15 a 59 anos;24350
+80003;Anhanguera;2020;15 a 59 anos;60189
+80004;Aricanduva;2020;15 a 59 anos;54944
+80005;Artur Alvim;2020;15 a 59 anos;65168
+80006;Barra Funda;2020;15 a 59 anos;10081
+80007;Bela Vista;2020;15 a 59 anos;47831
+80008;Belém;2020;15 a 59 anos;29906
+80009;Bom Retiro;2020;15 a 59 anos;25011
+80010;Brás;2020;15 a 59 anos;21449
+80011;Brasilândia;2020;15 a 59 anos;185670
+80012;Butantã;2020;15 a 59 anos;34003
+80013;Cachoeirinha;2020;15 a 59 anos;95946
+80014;Cambuci;2020;15 a 59 anos;25743
+80015;Campo Belo;2020;15 a 59 anos;38455
+80016;Campo Grande;2020;15 a 59 anos;69189
+80017;Campo Limpo;2020;15 a 59 anos;153901
+80018;Cangaíba;2020;15 a 59 anos;90162
+80019;Capão Redondo;2020;15 a 59 anos;199070
+80020;Carrão;2020;15 a 59 anos;53526
+80021;Casa Verde;2020;15 a 59 anos;54027
+80022;Cidade Ademar;2020;15 a 59 anos;188818
+80023;Cidade Dutra;2020;15 a 59 anos;134456
+80024;Cidade Líder;2020;15 a 59 anos;90135
+80025;Cidade Tiradentes;2020;15 a 59 anos;159355
+80026;Consolação;2020;15 a 59 anos;36754
+80027;Cursino;2020;15 a 59 anos;71050
+80028;Ermelino Matarazzo;2020;15 a 59 anos;78700
+80029;Freguesia do Ó;2020;15 a 59 anos;89788
+80030;Grajaú;2020;15 a 59 anos;263477
+80031;Guaianases;2020;15 a 59 anos;73008
+80032;Moema;2020;15 a 59 anos;54631
+80033;Iguatemi;2020;15 a 59 anos;100742
+80034;Ipiranga;2020;15 a 59 anos;71223
+80035;Itaim Bibi;2020;15 a 59 anos;59291
+80036;Itaim Paulista;2020;15 a 59 anos;157634
+80037;Itaquera;2020;15 a 59 anos;140241
+80038;Jabaquara;2020;15 a 59 anos;149450
+80039;Jaçanã;2020;15 a 59 anos;63081
+80040;Jaguara;2020;15 a 59 anos;15049
+80041;Jaguaré;2020;15 a 59 anos;36667
+80042;Jaraguá;2020;15 a 59 anos;143676
+80043;Jardim Ângela;2020;15 a 59 anos;228441
+80044;Jardim Helena;2020;15 a 59 anos;89412
+80045;Jardim Paulista;2020;15 a 59 anos;54953
+80046;Jardim São Luís;2020;15 a 59 anos;198018
+80047;José Bonifácio;2020;15 a 59 anos;91219
+80048;Lapa;2020;15 a 59 anos;40861
+80049;Liberdade;2020;15 a 59 anos;46457
+80050;Limão;2020;15 a 59 anos;50403
+80051;Mandaqui;2020;15 a 59 anos;71028
+80052;Marsilac;2020;15 a 59 anos;5645
+80053;Mooca;2020;15 a 59 anos;50133
+80054;Morumbi;2020;15 a 59 anos;33102
+80055;Parelheiros;2020;15 a 59 anos;102801
+80056;Pari;2020;15 a 59 anos;11873
+80057;Parque do Carmo;2020;15 a 59 anos;47743
+80058;Pedreira;2020;15 a 59 anos;109718
+80059;Penha;2020;15 a 59 anos;81711
+80060;Perdizes;2020;15 a 59 anos;70956
+80061;Perus;2020;15 a 59 anos;59722
+80062;Pinheiros;2020;15 a 59 anos;40229
+80063;Pirituba;2020;15 a 59 anos;110888
+80064;Ponte Rasa;2020;15 a 59 anos;57946
+80065;Raposo Tavares;2020;15 a 59 anos;70740
+80066;República;2020;15 a 59 anos;41217
+80067;Rio Pequeno;2020;15 a 59 anos;79352
+80068;Sacomã;2020;15 a 59 anos;175028
+80069;Santa Cecília;2020;15 a 59 anos;56651
+80070;Santana;2020;15 a 59 anos;69382
+80071;Santo Amaro;2020;15 a 59 anos;45649
+80072;São Lucas;2020;15 a 59 anos;92073
+80073;São Mateus;2020;15 a 59 anos;102233
+80074;São Miguel;2020;15 a 59 anos;57016
+80075;São Rafael;2020;15 a 59 anos;108749
+80076;Sapopemba;2020;15 a 59 anos;191356
+80077;Saúde;2020;15 a 59 anos;82360
+80078;Sé;2020;15 a 59 anos;18090
+80079;Socorro;2020;15 a 59 anos;22423
+80080;Tatuapé;2020;15 a 59 anos;60749
+80081;Tremembé;2020;15 a 59 anos;147560
+80082;Tucuruvi;2020;15 a 59 anos;59850
+80083;Vila Andrade;2020;15 a 59 anos;114378
+80084;Vila Curuçá;2020;15 a 59 anos;103560
+80085;Vila Formosa;2020;15 a 59 anos;59412
+80086;Vila Guilherme;2020;15 a 59 anos;35352
+80087;Vila Jacuí;2020;15 a 59 anos;99581
+80088;Vila Leopoldina;2020;15 a 59 anos;30319
+80089;Vila Maria;2020;15 a 59 anos;73651
+80090;Vila Mariana;2020;15 a 59 anos;81101
+80091;Vila Matilde;2020;15 a 59 anos;67763
+80092;Vila Medeiros;2020;15 a 59 anos;77981
+80093;Vila Prudente;2020;15 a 59 anos;66446
+80094;Vila Sônia;2020;15 a 59 anos;78662
+80095;São Domingos;2020;15 a 59 anos;56474
+80096;Lajeado;2020;15 a 59 anos;116948
+80001;Água Rasa;2015;15 a 59 anos;53629
+80002;Alto de Pinheiros;2015;15 a 59 anos;26163
+80003;Anhanguera;2015;15 a 59 anos;54618
+80004;Aricanduva;2015;15 a 59 anos;57345
+80005;Artur Alvim;2015;15 a 59 anos;68043
+80006;Barra Funda;2015;15 a 59 anos;9822
+80007;Bela Vista;2015;15 a 59 anos;49583
+80008;Belém;2015;15 a 59 anos;30274
+80009;Bom Retiro;2015;15 a 59 anos;24380
+80010;Brás;2015;15 a 59 anos;21392
+80011;Brasilândia;2015;15 a 59 anos;182824
+80012;Butantã;2015;15 a 59 anos;35513
+80013;Cachoeirinha;2015;15 a 59 anos;97010
+80014;Cambuci;2015;15 a 59 anos;25494
+80015;Campo Belo;2015;15 a 59 anos;40652
+80016;Campo Grande;2015;15 a 59 anos;70149
+80017;Campo Limpo;2015;15 a 59 anos;151178
+80018;Cangaíba;2015;15 a 59 anos;92230
+80019;Capão Redondo;2015;15 a 59 anos;192940
+80020;Carrão;2015;15 a 59 anos;54839
+80021;Casa Verde;2015;15 a 59 anos;55873
+80022;Cidade Ademar;2015;15 a 59 anos;187189
+80023;Cidade Dutra;2015;15 a 59 anos;134720
+80024;Cidade Líder;2015;15 a 59 anos;89248
+80025;Cidade Tiradentes;2015;15 a 59 anos;151481
+80026;Consolação;2015;15 a 59 anos;38918
+80027;Cursino;2015;15 a 59 anos;72876
+80028;Ermelino Matarazzo;2015;15 a 59 anos;78834
+80029;Freguesia do Ó;2015;15 a 59 anos;94242
+80030;Grajaú;2015;15 a 59 anos;257084
+80031;Guaianases;2015;15 a 59 anos;71893
+80032;Moema;2015;15 a 59 anos;56457
+80033;Iguatemi;2015;15 a 59 anos;94714
+80034;Ipiranga;2015;15 a 59 anos;71987
+80035;Itaim Bibi;2015;15 a 59 anos;61636
+80036;Itaim Paulista;2015;15 a 59 anos;155979
+80037;Itaquera;2015;15 a 59 anos;140267
+80038;Jabaquara;2015;15 a 59 anos;152170
+80039;Jaçanã;2015;15 a 59 anos;63437
+80040;Jaguara;2015;15 a 59 anos;15866
+80041;Jaguaré;2015;15 a 59 anos;35555
+80042;Jaraguá;2015;15 a 59 anos;137287
+80043;Jardim Ângela;2015;15 a 59 anos;216169
+80044;Jardim Helena;2015;15 a 59 anos;90270
+80045;Jardim Paulista;2015;15 a 59 anos;57756
+80046;Jardim São Luís;2015;15 a 59 anos;193166
+80047;José Bonifácio;2015;15 a 59 anos;88371
+80048;Lapa;2015;15 a 59 anos;42375
+80049;Liberdade;2015;15 a 59 anos;47939
+80050;Limão;2015;15 a 59 anos;52017
+80051;Mandaqui;2015;15 a 59 anos;73156
+80052;Marsilac;2015;15 a 59 anos;5560
+80053;Mooca;2015;15 a 59 anos;51066
+80054;Morumbi;2015;15 a 59 anos;32767
+80055;Parelheiros;2015;15 a 59 anos;96661
+80056;Pari;2015;15 a 59 anos;11695
+80057;Parque do Carmo;2015;15 a 59 anos;47218
+80058;Pedreira;2015;15 a 59 anos;105427
+80059;Penha;2015;15 a 59 anos;83948
+80060;Perdizes;2015;15 a 59 anos;73909
+80061;Perus;2015;15 a 59 anos;57537
+80062;Pinheiros;2015;15 a 59 anos;42273
+80063;Pirituba;2015;15 a 59 anos;113453
+80064;Ponte Rasa;2015;15 a 59 anos;60909
+80065;Raposo Tavares;2015;15 a 59 anos;69741
+80066;República;2015;15 a 59 anos;42393
+80067;Rio Pequeno;2015;15 a 59 anos;80906
+80068;Sacomã;2015;15 a 59 anos;174083
+80069;Santa Cecília;2015;15 a 59 anos;58349
+80070;Santana;2015;15 a 59 anos;74777
+80071;Santo Amaro;2015;15 a 59 anos;46655
+80072;São Lucas;2015;15 a 59 anos;94391
+80073;São Mateus;2015;15 a 59 anos;104255
+80074;São Miguel;2015;15 a 59 anos;59531
+80075;São Rafael;2015;15 a 59 anos;103315
+80076;Sapopemba;2015;15 a 59 anos;193718
+80077;Saúde;2015;15 a 59 anos;86402
+80078;Sé;2015;15 a 59 anos;17954
+80079;Socorro;2015;15 a 59 anos;23653
+80080;Tatuapé;2015;15 a 59 anos;61996
+80081;Tremembé;2015;15 a 59 anos;142398
+80082;Tucuruvi;2015;15 a 59 anos;63126
+80083;Vila Andrade;2015;15 a 59 anos;103273
+80084;Vila Curuçá;2015;15 a 59 anos;102406
+80085;Vila Formosa;2015;15 a 59 anos;61829
+80086;Vila Guilherme;2015;15 a 59 anos;35969
+80087;Vila Jacuí;2015;15 a 59 anos;99362
+80088;Vila Leopoldina;2015;15 a 59 anos;29637
+80089;Vila Maria;2015;15 a 59 anos;75093
+80090;Vila Mariana;2015;15 a 59 anos;85647
+80091;Vila Matilde;2015;15 a 59 anos;69429
+80092;Vila Medeiros;2015;15 a 59 anos;82297
+80093;Vila Prudente;2015;15 a 59 anos;68753
+80094;Vila Sônia;2015;15 a 59 anos;77187
+80095;São Domingos;2015;15 a 59 anos;57255
+80096;Lajeado;2015;15 a 59 anos;114999
+80001;Água Rasa;2010;15 a 59 anos;55518
+80002;Alto de Pinheiros;2010;15 a 59 anos;27722
+80003;Anhanguera;2010;15 a 59 anos;45410
+80004;Aricanduva;2010;15 a 59 anos;59001
+80005;Artur Alvim;2010;15 a 59 anos;70374
+80006;Barra Funda;2010;15 a 59 anos;9616
+80007;Bela Vista;2010;15 a 59 anos;50507
+80008;Belém;2010;15 a 59 anos;30228
+80009;Bom Retiro;2010;15 a 59 anos;23012
+80010;Brás;2010;15 a 59 anos;20842
+80011;Brasilândia;2010;15 a 59 anos;175024
+80012;Butantã;2010;15 a 59 anos;36721
+80013;Cachoeirinha;2010;15 a 59 anos;96441
+80014;Cambuci;2010;15 a 59 anos;24476
+80015;Campo Belo;2010;15 a 59 anos;42875
+80016;Campo Grande;2010;15 a 59 anos;69040
+80017;Campo Limpo;2010;15 a 59 anos;144176
+80018;Cangaíba;2010;15 a 59 anos;92341
+80019;Capão Redondo;2010;15 a 59 anos;182365
+80020;Carrão;2010;15 a 59 anos;54552
+80021;Casa Verde;2010;15 a 59 anos;56631
+80022;Cidade Ademar;2010;15 a 59 anos;180715
+80023;Cidade Dutra;2010;15 a 59 anos;133198
+80024;Cidade Líder;2010;15 a 59 anos;86440
+80025;Cidade Tiradentes;2010;15 a 59 anos;140119
+80026;Consolação;2010;15 a 59 anos;40199
+80027;Cursino;2010;15 a 59 anos;73077
+80028;Ermelino Matarazzo;2010;15 a 59 anos;77042
+80029;Freguesia do Ó;2010;15 a 59 anos;96215
+80030;Grajaú;2010;15 a 59 anos;243539
+80031;Guaianases;2010;15 a 59 anos;69496
+80032;Moema;2010;15 a 59 anos;56894
+80033;Iguatemi;2010;15 a 59 anos;85615
+80034;Ipiranga;2010;15 a 59 anos;71173
+80035;Itaim Bibi;2010;15 a 59 anos;63196
+80036;Itaim Paulista;2010;15 a 59 anos;149847
+80037;Itaquera;2010;15 a 59 anos;137289
+80038;Jabaquara;2010;15 a 59 anos;151952
+80039;Jaçanã;2010;15 a 59 anos;62303
+80040;Jaguara;2010;15 a 59 anos;16511
+80041;Jaguaré;2010;15 a 59 anos;33741
+80042;Jaraguá;2010;15 a 59 anos;124929
+80043;Jardim Ângela;2010;15 a 59 anos;197540
+80044;Jardim Helena;2010;15 a 59 anos;89804
+80045;Jardim Paulista;2010;15 a 59 anos;59888
+80046;Jardim São Luís;2010;15 a 59 anos;183456
+80047;José Bonifácio;2010;15 a 59 anos;83400
+80048;Lapa;2010;15 a 59 anos;42750
+80049;Liberdade;2010;15 a 59 anos;48493
+80050;Limão;2010;15 a 59 anos;53733
+80051;Mandaqui;2010;15 a 59 anos;72971
+80052;Marsilac;2010;15 a 59 anos;5234
+80053;Mooca;2010;15 a 59 anos;50217
+80054;Morumbi;2010;15 a 59 anos;31174
+80055;Parelheiros;2010;15 a 59 anos;86741
+80056;Pari;2010;15 a 59 anos;11182
+80057;Parque do Carmo;2010;15 a 59 anos;45869
+80058;Pedreira;2010;15 a 59 anos;97733
+80059;Penha;2010;15 a 59 anos;84321
+80060;Perdizes;2010;15 a 59 anos;75644
+80061;Perus;2010;15 a 59 anos;53596
+80062;Pinheiros;2010;15 a 59 anos;43969
+80063;Pirituba;2010;15 a 59 anos;113626
+80064;Ponte Rasa;2010;15 a 59 anos;62616
+80065;Raposo Tavares;2010;15 a 59 anos;68080
+80066;República;2010;15 a 59 anos;42220
+80067;Rio Pequeno;2010;15 a 59 anos;81147
+80068;Sacomã;2010;15 a 59 anos;168948
+80069;Santa Cecília;2010;15 a 59 anos;58304
+80070;Santana;2010;15 a 59 anos;79526
+80071;Santo Amaro;2010;15 a 59 anos;46342
+80072;São Lucas;2010;15 a 59 anos;94824
+80073;São Mateus;2010;15 a 59 anos;104262
+80074;São Miguel;2010;15 a 59 anos;61026
+80075;São Rafael;2010;15 a 59 anos;95118
+80076;Sapopemba;2010;15 a 59 anos;191720
+80077;Saúde;2010;15 a 59 anos;88747
+80078;Sé;2010;15 a 59 anos;17364
+80079;Socorro;2010;15 a 59 anos;24870
+80080;Tatuapé;2010;15 a 59 anos;61269
+80081;Tremembé;2010;15 a 59 anos;132093
+80082;Tucuruvi;2010;15 a 59 anos;65237
+80083;Vila Andrade;2010;15 a 59 anos;86908
+80084;Vila Curuçá;2010;15 a 59 anos;98877
+80085;Vila Formosa;2010;15 a 59 anos;62524
+80086;Vila Guilherme;2010;15 a 59 anos;35877
+80087;Vila Jacuí;2010;15 a 59 anos;96447
+80088;Vila Leopoldina;2010;15 a 59 anos;27629
+80089;Vila Maria;2010;15 a 59 anos;75613
+80090;Vila Mariana;2010;15 a 59 anos;89351
+80091;Vila Matilde;2010;15 a 59 anos;69662
+80092;Vila Medeiros;2010;15 a 59 anos;85701
+80093;Vila Prudente;2010;15 a 59 anos;69676
+80094;Vila Sônia;2010;15 a 59 anos;73484
+80095;São Domingos;2010;15 a 59 anos;56990
+80096;Lajeado;2010;15 a 59 anos;109487
+80001;Água Rasa;2005;15 a 59 anos;55617
+80002;Alto de Pinheiros;2005;15 a 59 anos;29022
+80003;Anhanguera;2005;15 a 59 anos;34582
+80004;Aricanduva;2005;15 a 59 anos;61145
+80005;Artur Alvim;2005;15 a 59 anos;73179
+80006;Barra Funda;2005;15 a 59 anos;8971
+80007;Bela Vista;2005;15 a 59 anos;47862
+80008;Belém;2005;15 a 59 anos;27404
+80009;Bom Retiro;2005;15 a 59 anos;20036
+80010;Brás;2005;15 a 59 anos;18842
+80011;Brasilândia;2005;15 a 59 anos;167498
+80012;Butantã;2005;15 a 59 anos;36535
+80013;Cachoeirinha;2005;15 a 59 anos;96184
+80014;Cambuci;2005;15 a 59 anos;21417
+80015;Campo Belo;2005;15 a 59 anos;44002
+80016;Campo Grande;2005;15 a 59 anos;66065
+80017;Campo Limpo;2005;15 a 59 anos;135997
+80018;Cangaíba;2005;15 a 59 anos;91876
+80019;Capão Redondo;2005;15 a 59 anos;171224
+80020;Carrão;2005;15 a 59 anos;52657
+80021;Casa Verde;2005;15 a 59 anos;56026
+80022;Cidade Ademar;2005;15 a 59 anos;171549
+80023;Cidade Dutra;2005;15 a 59 anos;131027
+80024;Cidade Líder;2005;15 a 59 anos;82610
+80025;Cidade Tiradentes;2005;15 a 59 anos;130744
+80026;Consolação;2005;15 a 59 anos;39040
+80027;Cursino;2005;15 a 59 anos;70204
+80028;Ermelino Matarazzo;2005;15 a 59 anos;74221
+80029;Freguesia do Ó;2005;15 a 59 anos;96550
+80030;Grajaú;2005;15 a 59 anos;230987
+80031;Guaianases;2005;15 a 59 anos;66907
+80032;Moema;2005;15 a 59 anos;53395
+80033;Iguatemi;2005;15 a 59 anos;75401
+80034;Ipiranga;2005;15 a 59 anos;67607
+80035;Itaim Bibi;2005;15 a 59 anos;59346
+80036;Itaim Paulista;2005;15 a 59 anos;143359
+80037;Itaquera;2005;15 a 59 anos;135042
+80038;Jabaquara;2005;15 a 59 anos;147829
+80039;Jaçanã;2005;15 a 59 anos;61083
+80040;Jaguara;2005;15 a 59 anos;16872
+80041;Jaguaré;2005;15 a 59 anos;31058
+80042;Jaraguá;2005;15 a 59 anos;110564
+80043;Jardim Ângela;2005;15 a 59 anos;178689
+80044;Jardim Helena;2005;15 a 59 anos;89653
+80045;Jardim Paulista;2005;15 a 59 anos;58473
+80046;Jardim São Luís;2005;15 a 59 anos;172353
+80047;José Bonifácio;2005;15 a 59 anos;78451
+80048;Lapa;2005;15 a 59 anos;40864
+80049;Liberdade;2005;15 a 59 anos;45729
+80050;Limão;2005;15 a 59 anos;54143
+80051;Mandaqui;2005;15 a 59 anos;71501
+80052;Marsilac;2005;15 a 59 anos;5057
+80053;Mooca;2005;15 a 59 anos;45180
+80054;Morumbi;2005;15 a 59 anos;27951
+80055;Parelheiros;2005;15 a 59 anos;75542
+80056;Pari;2005;15 a 59 anos;10335
+80057;Parque do Carmo;2005;15 a 59 anos;44248
+80058;Pedreira;2005;15 a 59 anos;90443
+80059;Penha;2005;15 a 59 anos;82579
+80060;Perdizes;2005;15 a 59 anos;73112
+80061;Perus;2005;15 a 59 anos;49496
+80062;Pinheiros;2005;15 a 59 anos;43372
+80063;Pirituba;2005;15 a 59 anos;111093
+80064;Ponte Rasa;2005;15 a 59 anos;64231
+80065;Raposo Tavares;2005;15 a 59 anos;64798
+80066;República;2005;15 a 59 anos;38406
+80067;Rio Pequeno;2005;15 a 59 anos;78110
+80068;Sacomã;2005;15 a 59 anos;160770
+80069;Santa Cecília;2005;15 a 59 anos;53690
+80070;Santana;2005;15 a 59 anos;82298
+80071;Santo Amaro;2005;15 a 59 anos;43847
+80072;São Lucas;2005;15 a 59 anos;93783
+80073;São Mateus;2005;15 a 59 anos;104023
+80074;São Miguel;2005;15 a 59 anos;62410
+80075;São Rafael;2005;15 a 59 anos;87802
+80076;Sapopemba;2005;15 a 59 anos;189184
+80077;Saúde;2005;15 a 59 anos;84437
+80078;Sé;2005;15 a 59 anos;15714
+80079;Socorro;2005;15 a 59 anos;25826
+80080;Tatuapé;2005;15 a 59 anos;56565
+80081;Tremembé;2005;15 a 59 anos;119510
+80082;Tucuruvi;2005;15 a 59 anos;65478
+80083;Vila Andrade;2005;15 a 59 anos;67905
+80084;Vila Curuçá;2005;15 a 59 anos;96818
+80085;Vila Formosa;2005;15 a 59 anos;62294
+80086;Vila Guilherme;2005;15 a 59 anos;34245
+80087;Vila Jacuí;2005;15 a 59 anos;94151
+80088;Vila Leopoldina;2005;15 a 59 anos;22640
+80089;Vila Maria;2005;15 a 59 anos;74978
+80090;Vila Mariana;2005;15 a 59 anos;87319
+80091;Vila Matilde;2005;15 a 59 anos;68827
+80092;Vila Medeiros;2005;15 a 59 anos;89235
+80093;Vila Prudente;2005;15 a 59 anos;68580
+80094;Vila Sônia;2005;15 a 59 anos;66347
+80095;São Domingos;2005;15 a 59 anos;56463
+80096;Lajeado;2005;15 a 59 anos;104254
+80001;Água Rasa;2000;15 a 59 anos;55503
+80002;Alto de Pinheiros;2000;15 a 59 anos;30252
+80003;Anhanguera;2000;15 a 59 anos;24427
+80004;Aricanduva;2000;15 a 59 anos;62611
+80005;Artur Alvim;2000;15 a 59 anos;74952
+80006;Barra Funda;2000;15 a 59 anos;8474
+80007;Bela Vista;2000;15 a 59 anos;44968
+80008;Belém;2000;15 a 59 anos;25152
+80009;Bom Retiro;2000;15 a 59 anos;17379
+80010;Brás;2000;15 a 59 anos;17028
+80011;Brasilândia;2000;15 a 59 anos;157343
+80012;Butantã;2000;15 a 59 anos;35902
+80013;Cachoeirinha;2000;15 a 59 anos;95065
+80014;Cambuci;2000;15 a 59 anos;18502
+80015;Campo Belo;2000;15 a 59 anos;45055
+80016;Campo Grande;2000;15 a 59 anos;62624
+80017;Campo Limpo;2000;15 a 59 anos;126944
+80018;Cangaíba;2000;15 a 59 anos;90390
+80019;Capão Redondo;2000;15 a 59 anos;159174
+80020;Carrão;2000;15 a 59 anos;50382
+80021;Casa Verde;2000;15 a 59 anos;55237
+80022;Cidade Ademar;2000;15 a 59 anos;160607
+80023;Cidade Dutra;2000;15 a 59 anos;127035
+80024;Cidade Líder;2000;15 a 59 anos;77958
+80025;Cidade Tiradentes;2000;15 a 59 anos;120515
+80026;Consolação;2000;15 a 59 anos;37597
+80027;Cursino;2000;15 a 59 anos;67138
+80028;Ermelino Matarazzo;2000;15 a 59 anos;70516
+80029;Freguesia do Ó;2000;15 a 59 anos;96017
+80030;Grajaú;2000;15 a 59 anos;215786
+80031;Guaianases;2000;15 a 59 anos;62900
+80032;Moema;2000;15 a 59 anos;49892
+80033;Iguatemi;2000;15 a 59 anos;65112
+80034;Ipiranga;2000;15 a 59 anos;64051
+80035;Itaim Bibi;2000;15 a 59 anos;55751
+80036;Itaim Paulista;2000;15 a 59 anos;135132
+80037;Itaquera;2000;15 a 59 anos;131127
+80038;Jabaquara;2000;15 a 59 anos;142589
+80039;Jaçanã;2000;15 a 59 anos;59196
+80040;Jaguara;2000;15 a 59 anos;17097
+80041;Jaguaré;2000;15 a 59 anos;28155
+80042;Jaraguá;2000;15 a 59 anos;95388
+80043;Jardim Ângela;2000;15 a 59 anos;159036
+80044;Jardim Helena;2000;15 a 59 anos;88152
+80045;Jardim Paulista;2000;15 a 59 anos;57060
+80046;Jardim São Luís;2000;15 a 59 anos;159425
+80047;José Bonifácio;2000;15 a 59 anos;73257
+80048;Lapa;2000;15 a 59 anos;39013
+80049;Liberdade;2000;15 a 59 anos;42796
+80050;Limão;2000;15 a 59 anos;54066
+80051;Mandaqui;2000;15 a 59 anos;69216
+80052;Marsilac;2000;15 a 59 anos;4860
+80053;Mooca;2000;15 a 59 anos;40348
+80054;Morumbi;2000;15 a 59 anos;23972
+80055;Parelheiros;2000;15 a 59 anos;63780
+80056;Pari;2000;15 a 59 anos;9571
+80057;Parque do Carmo;2000;15 a 59 anos;42082
+80058;Pedreira;2000;15 a 59 anos;82657
+80059;Penha;2000;15 a 59 anos;80597
+80060;Perdizes;2000;15 a 59 anos;70352
+80061;Perus;2000;15 a 59 anos;45020
+80062;Pinheiros;2000;15 a 59 anos;42724
+80063;Pirituba;2000;15 a 59 anos;107573
+80064;Ponte Rasa;2000;15 a 59 anos;65148
+80065;Raposo Tavares;2000;15 a 59 anos;61264
+80066;República;2000;15 a 59 anos;34586
+80067;Rio Pequeno;2000;15 a 59 anos;74393
+80068;Sacomã;2000;15 a 59 anos;151705
+80069;Santa Cecília;2000;15 a 59 anos;48754
+80070;Santana;2000;15 a 59 anos;85039
+80071;Santo Amaro;2000;15 a 59 anos;40943
+80072;São Lucas;2000;15 a 59 anos;92034
+80073;São Mateus;2000;15 a 59 anos;101992
+80074;São Miguel;2000;15 a 59 anos;62655
+80075;São Rafael;2000;15 a 59 anos;80304
+80076;Sapopemba;2000;15 a 59 anos;185052
+80077;Saúde;2000;15 a 59 anos;79643
+80078;Sé;2000;15 a 59 anos;14205
+80079;Socorro;2000;15 a 59 anos;26521
+80080;Tatuapé;2000;15 a 59 anos;51746
+80081;Tremembé;2000;15 a 59 anos;106508
+80082;Tucuruvi;2000;15 a 59 anos;65371
+80083;Vila Andrade;2000;15 a 59 anos;48923
+80084;Vila Curuçá;2000;15 a 59 anos;93087
+80085;Vila Formosa;2000;15 a 59 anos;61758
+80086;Vila Guilherme;2000;15 a 59 anos;32764
+80087;Vila Jacuí;2000;15 a 59 anos;90854
+80088;Vila Leopoldina;2000;15 a 59 anos;18105
+80089;Vila Maria;2000;15 a 59 anos;73739
+80090;Vila Mariana;2000;15 a 59 anos;84961
+80091;Vila Matilde;2000;15 a 59 anos;67525
+80092;Vila Medeiros;2000;15 a 59 anos;92214
+80093;Vila Prudente;2000;15 a 59 anos;67211
+80094;Vila Sônia;2000;15 a 59 anos;58646
+80095;São Domingos;2000;15 a 59 anos;55587
+80096;Lajeado;2000;15 a 59 anos;98327
+80001;Água Rasa;2000;60 anos e mais;14807
+80002;Alto de Pinheiros;2000;60 anos e mais;7772
+80003;Anhanguera;2000;60 anos e mais;1198
+80004;Aricanduva;2000;60 anos e mais;10264
+80005;Artur Alvim;2000;60 anos e mais;11142
+80006;Barra Funda;2000;60 anos e mais;2332
+80007;Bela Vista;2000;60 anos e mais;9479
+80008;Belém;2000;60 anos e mais;7170
+80009;Bom Retiro;2000;60 anos e mais;3864
+80010;Brás;2000;60 anos e mais;2702
+80011;Brasilândia;2000;60 anos e mais;14443
+80012;Butantã;2000;60 anos e mais;8147
+80013;Cachoeirinha;2000;60 anos e mais;10102
+80014;Cambuci;2000;60 anos e mais;5243
+80015;Campo Belo;2000;60 anos e mais;10619
+80016;Campo Grande;2000;60 anos e mais;9224
+80017;Campo Limpo;2000;60 anos e mais;10609
+80018;Cangaíba;2000;60 anos e mais;11715
+80019;Capão Redondo;2000;60 anos e mais;11382
+80020;Carrão;2000;60 anos e mais;12297
+80021;Casa Verde;2000;60 anos e mais;11094
+80022;Cidade Ademar;2000;60 anos e mais;16244
+80023;Cidade Dutra;2000;60 anos e mais;11930
+80024;Cidade Líder;2000;60 anos e mais;7496
+80025;Cidade Tiradentes;2000;60 anos e mais;6268
+80026;Consolação;2000;60 anos e mais;10747
+80027;Cursino;2000;60 anos e mais;14312
+80028;Ermelino Matarazzo;2000;60 anos e mais;7315
+80029;Freguesia do Ó;2000;60 anos e mais;15892
+80030;Grajaú;2000;60 anos e mais;11700
+80031;Guaianases;2000;60 anos e mais;5021
+80032;Moema;2000;60 anos e mais;11387
+80033;Iguatemi;2000;60 anos e mais;3957
+80034;Ipiranga;2000;60 anos e mais;15235
+80035;Itaim Bibi;2000;60 anos e mais;14645
+80036;Itaim Paulista;2000;60 anos e mais;10475
+80037;Itaquera;2000;60 anos e mais;13181
+80038;Jabaquara;2000;60 anos e mais;21782
+80039;Jaçanã;2000;60 anos e mais;9487
+80040;Jaguara;2000;60 anos e mais;3401
+80041;Jaguaré;2000;60 anos e mais;4045
+80042;Jaraguá;2000;60 anos e mais;7106
+80043;Jardim Ângela;2000;60 anos e mais;8708
+80044;Jardim Helena;2000;60 anos e mais;7380
+80045;Jardim Paulista;2000;60 anos e mais;17186
+80046;Jardim São Luís;2000;60 anos e mais;12918
+80047;José Bonifácio;2000;60 anos e mais;6866
+80048;Lapa;2000;60 anos e mais;12193
+80049;Liberdade;2000;60 anos e mais;9085
+80050;Limão;2000;60 anos e mais;9201
+80051;Mandaqui;2000;60 anos e mais;11172
+80052;Marsilac;2000;60 anos e mais;569
+80053;Mooca;2000;60 anos e mais;12707
+80054;Morumbi;2000;60 anos e mais;3761
+80055;Parelheiros;2000;60 anos e mais;3877
+80056;Pari;2000;60 anos e mais;2658
+80057;Parque do Carmo;2000;60 anos e mais;3728
+80058;Pedreira;2000;60 anos e mais;5757
+80059;Penha;2000;60 anos e mais;18554
+80060;Perdizes;2000;60 anos e mais;16910
+80061;Perus;2000;60 anos e mais;3840
+80062;Pinheiros;2000;60 anos e mais;12238
+80063;Pirituba;2000;60 anos e mais;15432
+80064;Ponte Rasa;2000;60 anos e mais;9695
+80065;Raposo Tavares;2000;60 anos e mais;5015
+80066;República;2000;60 anos e mais;6439
+80067;Rio Pequeno;2000;60 anos e mais;9256
+80068;Sacomã;2000;60 anos e mais;20806
+80069;Santa Cecília;2000;60 anos e mais;11894
+80070;Santana;2000;60 anos e mais;19107
+80071;Santo Amaro;2000;60 anos e mais;10967
+80072;São Lucas;2000;60 anos e mais;16592
+80073;São Mateus;2000;60 anos e mais;11310
+80074;São Miguel;2000;60 anos e mais;8813
+80075;São Rafael;2000;60 anos e mais;6216
+80076;Sapopemba;2000;60 anos e mais;18990
+80077;Saúde;2000;60 anos e mais;19954
+80078;Sé;2000;60 anos e mais;2062
+80079;Socorro;2000;60 anos e mais;5322
+80080;Tatuapé;2000;60 anos e mais;14358
+80081;Tremembé;2000;60 anos e mais;12972
+80082;Tucuruvi;2000;60 anos e mais;15691
+80083;Vila Andrade;2000;60 anos e mais;2959
+80084;Vila Curuçá;2000;60 anos e mais;8587
+80085;Vila Formosa;2000;60 anos e mais;12850
+80086;Vila Guilherme;2000;60 anos e mais;7905
+80087;Vila Jacuí;2000;60 anos e mais;7337
+80088;Vila Leopoldina;2000;60 anos e mais;3709
+80089;Vila Maria;2000;60 anos e mais;12351
+80090;Vila Mariana;2000;60 anos e mais;21311
+80091;Vila Matilde;2000;60 anos e mais;13045
+80092;Vila Medeiros;2000;60 anos e mais;16309
+80093;Vila Prudente;2000;60 anos e mais;14237
+80094;Vila Sônia;2000;60 anos e mais;8482
+80095;São Domingos;2000;60 anos e mais;7753
+80096;Lajeado;2000;60 anos e mais;7201
+80001;Água Rasa;2005;60 anos e mais;15751
+80002;Alto de Pinheiros;2005;60 anos e mais;8760
+80003;Anhanguera;2005;60 anos e mais;1995
+80004;Aricanduva;2005;60 anos e mais;11852
+80005;Artur Alvim;2005;60 anos e mais;12886
+80006;Barra Funda;2005;60 anos e mais;2495
+80007;Bela Vista;2005;60 anos e mais;10333
+80008;Belém;2005;60 anos e mais;7209
+80009;Bom Retiro;2005;60 anos e mais;4116
+80010;Brás;2005;60 anos e mais;2847
+80011;Brasilândia;2005;60 anos e mais;18070
+80012;Butantã;2005;60 anos e mais;9212
+80013;Cachoeirinha;2005;60 anos e mais;11825
+80014;Cambuci;2005;60 anos e mais;5770
+80015;Campo Belo;2005;60 anos e mais;12038
+80016;Campo Grande;2005;60 anos e mais;11290
+80017;Campo Limpo;2005;60 anos e mais;13658
+80018;Cangaíba;2005;60 anos e mais;13747
+80019;Capão Redondo;2005;60 anos e mais;15295
+80020;Carrão;2005;60 anos e mais;13774
+80021;Casa Verde;2005;60 anos e mais;12370
+80022;Cidade Ademar;2005;60 anos e mais;20468
+80023;Cidade Dutra;2005;60 anos e mais;15417
+80024;Cidade Líder;2005;60 anos e mais;9649
+80025;Cidade Tiradentes;2005;60 anos e mais;8964
+80026;Consolação;2005;60 anos e mais;11437
+80027;Cursino;2005;60 anos e mais;16030
+80028;Ermelino Matarazzo;2005;60 anos e mais;9059
+80029;Freguesia do Ó;2005;60 anos e mais;17941
+80030;Grajaú;2005;60 anos e mais;16320
+80031;Guaianases;2005;60 anos e mais;6494
+80032;Moema;2005;60 anos e mais;13588
+80033;Iguatemi;2005;60 anos e mais;5748
+80034;Ipiranga;2005;60 anos e mais;16498
+80035;Itaim Bibi;2005;60 anos e mais;16568
+80036;Itaim Paulista;2005;60 anos e mais;13549
+80037;Itaquera;2005;60 anos e mais;16464
+80038;Jabaquara;2005;60 anos e mais;25179
+80039;Jaçanã;2005;60 anos e mais;10630
+80040;Jaguara;2005;60 anos e mais;3778
+80041;Jaguaré;2005;60 anos e mais;4872
+80042;Jaraguá;2005;60 anos e mais;10058
+80043;Jardim Ângela;2005;60 anos e mais;12439
+80044;Jardim Helena;2005;60 anos e mais;9074
+80045;Jardim Paulista;2005;60 anos e mais;18486
+80046;Jardim São Luís;2005;60 anos e mais;16819
+80047;José Bonifácio;2005;60 anos e mais;9162
+80048;Lapa;2005;60 anos e mais;13156
+80049;Liberdade;2005;60 anos e mais;10202
+80050;Limão;2005;60 anos e mais;10181
+80051;Mandaqui;2005;60 anos e mais;13275
+80052;Marsilac;2005;60 anos e mais;677
+80053;Mooca;2005;60 anos e mais;13605
+80054;Morumbi;2005;60 anos e mais;5319
+80055;Parelheiros;2005;60 anos e mais;5718
+80056;Pari;2005;60 anos e mais;2711
+80057;Parque do Carmo;2005;60 anos e mais;4928
+80058;Pedreira;2005;60 anos e mais;7852
+80059;Penha;2005;60 anos e mais;20090
+80060;Perdizes;2005;60 anos e mais;19131
+80061;Perus;2005;60 anos e mais;4852
+80062;Pinheiros;2005;60 anos e mais;13067
+80063;Pirituba;2005;60 anos e mais;18290
+80064;Ponte Rasa;2005;60 anos e mais;11228
+80065;Raposo Tavares;2005;60 anos e mais;6787
+80066;República;2005;60 anos e mais;7196
+80067;Rio Pequeno;2005;60 anos e mais;11271
+80068;Sacomã;2005;60 anos e mais;24421
+80069;Santa Cecília;2005;60 anos e mais;13368
+80070;Santana;2005;60 anos e mais;21109
+80071;Santo Amaro;2005;60 anos e mais;12898
+80072;São Lucas;2005;60 anos e mais;19017
+80073;São Mateus;2005;60 anos e mais;13896
+80074;São Miguel;2005;60 anos e mais;10047
+80075;São Rafael;2005;60 anos e mais;8272
+80076;Sapopemba;2005;60 anos e mais;23480
+80077;Saúde;2005;60 anos e mais;22609
+80078;Sé;2005;60 anos e mais;2066
+80079;Socorro;2005;60 anos e mais;6160
+80080;Tatuapé;2005;60 anos e mais;15676
+80081;Tremembé;2005;60 anos e mais;16295
+80082;Tucuruvi;2005;60 anos e mais;17081
+80083;Vila Andrade;2005;60 anos e mais;5201
+80084;Vila Curuçá;2005;60 anos e mais;10860
+80085;Vila Formosa;2005;60 anos e mais;14382
+80086;Vila Guilherme;2005;60 anos e mais;8488
+80087;Vila Jacuí;2005;60 anos e mais;9245
+80088;Vila Leopoldina;2005;60 anos e mais;4438
+80089;Vila Maria;2005;60 anos e mais;13284
+80090;Vila Mariana;2005;60 anos e mais;23890
+80091;Vila Matilde;2005;60 anos e mais;14622
+80092;Vila Medeiros;2005;60 anos e mais;17781
+80093;Vila Prudente;2005;60 anos e mais;15792
+80094;Vila Sônia;2005;60 anos e mais;11109
+80095;São Domingos;2005;60 anos e mais;9252
+80096;Lajeado;2005;60 anos e mais;9155
+80001;Água Rasa;2010;60 anos e mais;16689
+80002;Alto de Pinheiros;2010;60 anos e mais;9816
+80003;Anhanguera;2010;60 anos e mais;3061
+80004;Aricanduva;2010;60 anos e mais;13558
+80005;Artur Alvim;2010;60 anos e mais;14720
+80006;Barra Funda;2010;60 anos e mais;2682
+80007;Bela Vista;2010;60 anos e mais;11170
+80008;Belém;2010;60 anos e mais;7310
+80009;Bom Retiro;2010;60 anos e mais;4364
+80010;Brás;2010;60 anos e mais;3015
+80011;Brasilândia;2010;60 anos e mais;22094
+80012;Butantã;2010;60 anos e mais;10260
+80013;Cachoeirinha;2010;60 anos e mais;13665
+80014;Cambuci;2010;60 anos e mais;6238
+80015;Campo Belo;2010;60 anos e mais;13545
+80016;Campo Grande;2010;60 anos e mais;13621
+80017;Campo Limpo;2010;60 anos e mais;17286
+80018;Cangaíba;2010;60 anos e mais;15928
+80019;Capão Redondo;2010;60 anos e mais;20218
+80020;Carrão;2010;60 anos e mais;15312
+80021;Casa Verde;2010;60 anos e mais;13711
+80022;Cidade Ademar;2010;60 anos e mais;25324
+80023;Cidade Dutra;2010;60 anos e mais;19496
+80024;Cidade Líder;2010;60 anos e mais;12196
+80025;Cidade Tiradentes;2010;60 anos e mais;12597
+80026;Consolação;2010;60 anos e mais;12049
+80027;Cursino;2010;60 anos e mais;17887
+80028;Ermelino Matarazzo;2010;60 anos e mais;11009
+80029;Freguesia do Ó;2010;60 anos e mais;20031
+80030;Grajaú;2010;60 anos e mais;22262
+80031;Guaianases;2010;60 anos e mais;8150
+80032;Moema;2010;60 anos e mais;16068
+80033;Iguatemi;2010;60 anos e mais;8133
+80034;Ipiranga;2010;60 anos e mais;17836
+80035;Itaim Bibi;2010;60 anos e mais;18655
+80036;Itaim Paulista;2010;60 anos e mais;17167
+80037;Itaquera;2010;60 anos e mais;20193
+80038;Jabaquara;2010;60 anos e mais;28779
+80039;Jaçanã;2010;60 anos e mais;11726
+80040;Jaguara;2010;60 anos e mais;4168
+80041;Jaguaré;2010;60 anos e mais;5787
+80042;Jaraguá;2010;60 anos e mais;13799
+80043;Jardim Ângela;2010;60 anos e mais;17370
+80044;Jardim Helena;2010;60 anos e mais;10934
+80045;Jardim Paulista;2010;60 anos e mais;19725
+80046;Jardim São Luís;2010;60 anos e mais;21419
+80047;José Bonifácio;2010;60 anos e mais;11979
+80048;Lapa;2010;60 anos e mais;14145
+80049;Liberdade;2010;60 anos e mais;11357
+80050;Limão;2010;60 anos e mais;11152
+80051;Mandaqui;2010;60 anos e mais;15572
+80052;Marsilac;2010;60 anos e mais;793
+80053;Mooca;2010;60 anos e mais;14507
+80054;Morumbi;2010;60 anos e mais;7171
+80055;Parelheiros;2010;60 anos e mais;8127
+80056;Pari;2010;60 anos e mais;2784
+80057;Parque do Carmo;2010;60 anos e mais;6381
+80058;Pedreira;2010;60 anos e mais;10500
+80059;Penha;2010;60 anos e mais;21673
+80060;Perdizes;2010;60 anos e mais;21436
+80061;Perus;2010;60 anos e mais;6004
+80062;Pinheiros;2010;60 anos e mais;13883
+80063;Pirituba;2010;60 anos e mais;21381
+80064;Ponte Rasa;2010;60 anos e mais;12833
+80065;Raposo Tavares;2010;60 anos e mais;9057
+80066;República;2010;60 anos e mais;7935
+80067;Rio Pequeno;2010;60 anos e mais;13547
+80068;Sacomã;2010;60 anos e mais;28341
+80069;Santa Cecília;2010;60 anos e mais;14780
+80070;Santana;2010;60 anos e mais;23064
+80071;Santo Amaro;2010;60 anos e mais;14893
+80072;São Lucas;2010;60 anos e mais;21686
+80073;São Mateus;2010;60 anos e mais;16742
+80074;São Miguel;2010;60 anos e mais;11250
+80075;São Rafael;2010;60 anos e mais;10882
+80076;Sapopemba;2010;60 anos e mais;28686
+80077;Saúde;2010;60 anos e mais;25272
+80078;Sé;2010;60 anos e mais;2075
+80079;Socorro;2010;60 anos e mais;7023
+80080;Tatuapé;2010;60 anos e mais;16992
+80081;Tremembé;2010;60 anos e mais;20097
+80082;Tucuruvi;2010;60 anos e mais;18460
+80083;Vila Andrade;2010;60 anos e mais;8371
+80084;Vila Curuçá;2010;60 anos e mais;13459
+80085;Vila Formosa;2010;60 anos e mais;16028
+80086;Vila Guilherme;2010;60 anos e mais;9141
+80087;Vila Jacuí;2010;60 anos e mais;11442
+80088;Vila Leopoldina;2010;60 anos e mais;5136
+80089;Vila Maria;2010;60 anos e mais;14204
+80090;Vila Mariana;2010;60 anos e mais;26528
+80091;Vila Matilde;2010;60 anos e mais;16283
+80092;Vila Medeiros;2010;60 anos e mais;19294
+80093;Vila Prudente;2010;60 anos e mais;17376
+80094;Vila Sônia;2010;60 anos e mais;14202
+80095;São Domingos;2010;60 anos e mais;10960
+80096;Lajeado;2010;60 anos e mais;11465
+80001;Água Rasa;2015;60 anos e mais;17558
+80002;Alto de Pinheiros;2015;60 anos e mais;10724
+80003;Anhanguera;2015;60 anos e mais;4822
+80004;Aricanduva;2015;60 anos e mais;14703
+80005;Artur Alvim;2015;60 anos e mais;16258
+80006;Barra Funda;2015;60 anos e mais;2895
+80007;Bela Vista;2015;60 anos e mais;12742
+80008;Belém;2015;60 anos e mais;7927
+80009;Bom Retiro;2015;60 anos e mais;5023
+80010;Brás;2015;60 anos e mais;3607
+80011;Brasilândia;2015;60 anos e mais;26275
+80012;Butantã;2015;60 anos e mais;11188
+80013;Cachoeirinha;2015;60 anos e mais;15855
+80014;Cambuci;2015;60 anos e mais;6838
+80015;Campo Belo;2015;60 anos e mais;14545
+80016;Campo Grande;2015;60 anos e mais;16515
+80017;Campo Limpo;2015;60 anos e mais;22040
+80018;Cangaíba;2015;60 anos e mais;18289
+80019;Capão Redondo;2015;60 anos e mais;26550
+80020;Carrão;2015;60 anos e mais;16707
+80021;Casa Verde;2015;60 anos e mais;14886
+80022;Cidade Ademar;2015;60 anos e mais;30774
+80023;Cidade Dutra;2015;60 anos e mais;23746
+80024;Cidade Líder;2015;60 anos e mais;15384
+80025;Cidade Tiradentes;2015;60 anos e mais;17947
+80026;Consolação;2015;60 anos e mais;13039
+80027;Cursino;2015;60 anos e mais;20367
+80028;Ermelino Matarazzo;2015;60 anos e mais;13505
+80029;Freguesia do Ó;2015;60 anos e mais;22341
+80030;Grajaú;2015;60 anos e mais;29911
+80031;Guaianases;2015;60 anos e mais;10149
+80032;Moema;2015;60 anos e mais;19424
+80033;Iguatemi;2015;60 anos e mais;11264
+80034;Ipiranga;2015;60 anos e mais;19670
+80035;Itaim Bibi;2015;60 anos e mais;21099
+80036;Itaim Paulista;2015;60 anos e mais;21506
+80037;Itaquera;2015;60 anos e mais;24028
+80038;Jabaquara;2015;60 anos e mais;32838
+80039;Jaçanã;2015;60 anos e mais;13262
+80040;Jaguara;2015;60 anos e mais;4507
+80041;Jaguaré;2015;60 anos e mais;6846
+80042;Jaraguá;2015;60 anos e mais;18380
+80043;Jardim Ângela;2015;60 anos e mais;23964
+80044;Jardim Helena;2015;60 anos e mais;12745
+80045;Jardim Paulista;2015;60 anos e mais;21779
+80046;Jardim São Luís;2015;60 anos e mais;27663
+80047;José Bonifácio;2015;60 anos e mais;16099
+80048;Lapa;2015;60 anos e mais;15096
+80049;Liberdade;2015;60 anos e mais;13068
+80050;Limão;2015;60 anos e mais;12218
+80051;Mandaqui;2015;60 anos e mais;17585
+80052;Marsilac;2015;60 anos e mais;961
+80053;Mooca;2015;60 anos e mais;15676
+80054;Morumbi;2015;60 anos e mais;8545
+80055;Parelheiros;2015;60 anos e mais;11042
+80056;Pari;2015;60 anos e mais;2843
+80057;Parque do Carmo;2015;60 anos e mais;7797
+80058;Pedreira;2015;60 anos e mais;14023
+80059;Penha;2015;60 anos e mais;23489
+80060;Perdizes;2015;60 anos e mais;24856
+80061;Perus;2015;60 anos e mais;7509
+80062;Pinheiros;2015;60 anos e mais;15341
+80063;Pirituba;2015;60 anos e mais;24787
+80064;Ponte Rasa;2015;60 anos e mais;14170
+80065;Raposo Tavares;2015;60 anos e mais;11443
+80066;República;2015;60 anos e mais;9329
+80067;Rio Pequeno;2015;60 anos e mais;15657
+80068;Sacomã;2015;60 anos e mais;33939
+80069;Santa Cecília;2015;60 anos e mais;16401
+80070;Santana;2015;60 anos e mais;24811
+80071;Santo Amaro;2015;60 anos e mais;16431
+80072;São Lucas;2015;60 anos e mais;24242
+80073;São Mateus;2015;60 anos e mais;19341
+80074;São Miguel;2015;60 anos e mais;11757
+80075;São Rafael;2015;60 anos e mais;14008
+80076;Sapopemba;2015;60 anos e mais;34462
+80077;Saúde;2015;60 anos e mais;28808
+80078;Sé;2015;60 anos e mais;2433
+80079;Socorro;2015;60 anos e mais;7481
+80080;Tatuapé;2015;60 anos e mais;18957
+80081;Tremembé;2015;60 anos e mais;24535
+80082;Tucuruvi;2015;60 anos e mais;20197
+80083;Vila Andrade;2015;60 anos e mais;11976
+80084;Vila Curuçá;2015;60 anos e mais;15905
+80085;Vila Formosa;2015;60 anos e mais;17755
+80086;Vila Guilherme;2015;60 anos e mais;10028
+80087;Vila Jacuí;2015;60 anos e mais;14510
+80088;Vila Leopoldina;2015;60 anos e mais;6162
+80089;Vila Maria;2015;60 anos e mais;15411
+80090;Vila Mariana;2015;60 anos e mais;30059
+80091;Vila Matilde;2015;60 anos e mais;18093
+80092;Vila Medeiros;2015;60 anos e mais;20302
+80093;Vila Prudente;2015;60 anos e mais;19183
+80094;Vila Sônia;2015;60 anos e mais;16936
+80095;São Domingos;2015;60 anos e mais;12541
+80096;Lajeado;2015;60 anos e mais;14486
+80001;Água Rasa;2020;60 anos e mais;19058
+80002;Alto de Pinheiros;2020;60 anos e mais;11664
+80003;Anhanguera;2020;60 anos e mais;7268
+80004;Aricanduva;2020;60 anos e mais;16343
+80005;Artur Alvim;2020;60 anos e mais;17917
+80006;Barra Funda;2020;60 anos e mais;3258
+80007;Bela Vista;2020;60 anos e mais;14546
+80008;Belém;2020;60 anos e mais;8738
+80009;Bom Retiro;2020;60 anos e mais;5814
+80010;Brás;2020;60 anos e mais;4439
+80011;Brasilândia;2020;60 anos e mais;31881
+80012;Butantã;2020;60 anos e mais;12174
+80013;Cachoeirinha;2020;60 anos e mais;19106
+80014;Cambuci;2020;60 anos e mais;7715
+80015;Campo Belo;2020;60 anos e mais;15657
+80016;Campo Grande;2020;60 anos e mais;20169
+80017;Campo Limpo;2020;60 anos e mais;27916
+80018;Cangaíba;2020;60 anos e mais;21489
+80019;Capão Redondo;2020;60 anos e mais;33788
+80020;Carrão;2020;60 anos e mais;18656
+80021;Casa Verde;2020;60 anos e mais;16529
+80022;Cidade Ademar;2020;60 anos e mais;37236
+80023;Cidade Dutra;2020;60 anos e mais;29031
+80024;Cidade Líder;2020;60 anos e mais;18974
+80025;Cidade Tiradentes;2020;60 anos e mais;24184
+80026;Consolação;2020;60 anos e mais;14413
+80027;Cursino;2020;60 anos e mais;23738
+80028;Ermelino Matarazzo;2020;60 anos e mais;16353
+80029;Freguesia do Ó;2020;60 anos e mais;25805
+80030;Grajaú;2020;60 anos e mais;39438
+80031;Guaianases;2020;60 anos e mais;12595
+80032;Moema;2020;60 anos e mais;22860
+80033;Iguatemi;2020;60 anos e mais;15203
+80034;Ipiranga;2020;60 anos e mais;22382
+80035;Itaim Bibi;2020;60 anos e mais;23749
+80036;Itaim Paulista;2020;60 anos e mais;27106
+80037;Itaquera;2020;60 anos e mais;28623
+80038;Jabaquara;2020;60 anos e mais;38328
+80039;Jaçanã;2020;60 anos e mais;15276
+80040;Jaguara;2020;60 anos e mais;4981
+80041;Jaguaré;2020;60 anos e mais;8133
+80042;Jaraguá;2020;60 anos e mais;24399
+80043;Jardim Ângela;2020;60 anos e mais;32172
+80044;Jardim Helena;2020;60 anos e mais;15241
+80045;Jardim Paulista;2020;60 anos e mais;24010
+80046;Jardim São Luís;2020;60 anos e mais;35094
+80047;José Bonifácio;2020;60 anos e mais;19856
+80048;Lapa;2020;60 anos e mais;16587
+80049;Liberdade;2020;60 anos e mais;15140
+80050;Limão;2020;60 anos e mais;13784
+80051;Mandaqui;2020;60 anos e mais;20474
+80052;Marsilac;2020;60 anos e mais;1181
+80053;Mooca;2020;60 anos e mais;17540
+80054;Morumbi;2020;60 anos e mais;10142
+80055;Parelheiros;2020;60 anos e mais;14979
+80056;Pari;2020;60 anos e mais;3109
+80057;Parque do Carmo;2020;60 anos e mais;9475
+80058;Pedreira;2020;60 anos e mais;18584
+80059;Penha;2020;60 anos e mais;26129
+80060;Perdizes;2020;60 anos e mais;28666
+80061;Perus;2020;60 anos e mais;9495
+80062;Pinheiros;2020;60 anos e mais;17007
+80063;Pirituba;2020;60 anos e mais;29203
+80064;Ponte Rasa;2020;60 anos e mais;16183
+80065;Raposo Tavares;2020;60 anos e mais;14001
+80066;República;2020;60 anos e mais;11058
+80067;Rio Pequeno;2020;60 anos e mais;18538
+80068;Sacomã;2020;60 anos e mais;41143
+80069;Santa Cecília;2020;60 anos e mais;18536
+80070;Santana;2020;60 anos e mais;27381
+80071;Santo Amaro;2020;60 anos e mais;18202
+80072;São Lucas;2020;60 anos e mais;27473
+80073;São Mateus;2020;60 anos e mais;22816
+80074;São Miguel;2020;60 anos e mais;13104
+80075;São Rafael;2020;60 anos e mais;17852
+80076;Sapopemba;2020;60 anos e mais;41392
+80077;Saúde;2020;60 anos e mais;33162
+80078;Sé;2020;60 anos e mais;3003
+80079;Socorro;2020;60 anos e mais;8053
+80080;Tatuapé;2020;60 anos e mais;21766
+80081;Tremembé;2020;60 anos e mais;30160
+80082;Tucuruvi;2020;60 anos e mais;22401
+80083;Vila Andrade;2020;60 anos e mais;16768
+80084;Vila Curuçá;2020;60 anos e mais;19015
+80085;Vila Formosa;2020;60 anos e mais;20090
+80086;Vila Guilherme;2020;60 anos e mais;11288
+80087;Vila Jacuí;2020;60 anos e mais;18515
+80088;Vila Leopoldina;2020;60 anos e mais;7545
+80089;Vila Maria;2020;60 anos e mais;17414
+80090;Vila Mariana;2020;60 anos e mais;33897
+80091;Vila Matilde;2020;60 anos e mais;20377
+80092;Vila Medeiros;2020;60 anos e mais;22465
+80093;Vila Prudente;2020;60 anos e mais;21648
+80094;Vila Sônia;2020;60 anos e mais;20204
+80095;São Domingos;2020;60 anos e mais;14633
+80096;Lajeado;2020;60 anos e mais;18403
+80001;Água Rasa;2025;60 anos e mais;20649
+80002;Alto de Pinheiros;2025;60 anos e mais;12716
+80003;Anhanguera;2025;60 anos e mais;10558
+80004;Aricanduva;2025;60 anos e mais;18090
+80005;Artur Alvim;2025;60 anos e mais;19580
+80006;Barra Funda;2025;60 anos e mais;3682
+80007;Bela Vista;2025;60 anos e mais;16324
+80008;Belém;2025;60 anos e mais;9772
+80009;Bom Retiro;2025;60 anos e mais;6758
+80010;Brás;2025;60 anos e mais;5263
+80011;Brasilândia;2025;60 anos e mais;38253
+80012;Butantã;2025;60 anos e mais;13133
+80013;Cachoeirinha;2025;60 anos e mais;22542
+80014;Cambuci;2025;60 anos e mais;8641
+80015;Campo Belo;2025;60 anos e mais;16760
+80016;Campo Grande;2025;60 anos e mais;24208
+80017;Campo Limpo;2025;60 anos e mais;33823
+80018;Cangaíba;2025;60 anos e mais;25019
+80019;Capão Redondo;2025;60 anos e mais;41361
+80020;Carrão;2025;60 anos e mais;20917
+80021;Casa Verde;2025;60 anos e mais;18119
+80022;Cidade Ademar;2025;60 anos e mais;43769
+80023;Cidade Dutra;2025;60 anos e mais;34168
+80024;Cidade Líder;2025;60 anos e mais;22397
+80025;Cidade Tiradentes;2025;60 anos e mais;30290
+80026;Consolação;2025;60 anos e mais;15788
+80027;Cursino;2025;60 anos e mais;26988
+80028;Ermelino Matarazzo;2025;60 anos e mais;19314
+80029;Freguesia do Ó;2025;60 anos e mais;29075
+80030;Grajaú;2025;60 anos e mais;49982
+80031;Guaianases;2025;60 anos e mais;15127
+80032;Moema;2025;60 anos e mais;26133
+80033;Iguatemi;2025;60 anos e mais;19786
+80034;Ipiranga;2025;60 anos e mais;25350
+80035;Itaim Bibi;2025;60 anos e mais;26201
+80036;Itaim Paulista;2025;60 anos e mais;33213
+80037;Itaquera;2025;60 anos e mais;33522
+80038;Jabaquara;2025;60 anos e mais;44334
+80039;Jaçanã;2025;60 anos e mais;17183
+80040;Jaguara;2025;60 anos e mais;5416
+80041;Jaguaré;2025;60 anos e mais;9754
+80042;Jaraguá;2025;60 anos e mais;30830
+80043;Jardim Ângela;2025;60 anos e mais;41305
+80044;Jardim Helena;2025;60 anos e mais;18017
+80045;Jardim Paulista;2025;60 anos e mais;25964
+80046;Jardim São Luís;2025;60 anos e mais;42953
+80047;José Bonifácio;2025;60 anos e mais;23235
+80048;Lapa;2025;60 anos e mais;18219
+80049;Liberdade;2025;60 anos e mais;17034
+80050;Limão;2025;60 anos e mais;15168
+80051;Mandaqui;2025;60 anos e mais;23658
+80052;Marsilac;2025;60 anos e mais;1388
+80053;Mooca;2025;60 anos e mais;19590
+80054;Morumbi;2025;60 anos e mais;11920
+80055;Parelheiros;2025;60 anos e mais;19267
+80056;Pari;2025;60 anos e mais;3475
+80057;Parque do Carmo;2025;60 anos e mais;11084
+80058;Pedreira;2025;60 anos e mais;23378
+80059;Penha;2025;60 anos e mais;28980
+80060;Perdizes;2025;60 anos e mais;31844
+80061;Perus;2025;60 anos e mais;11814
+80062;Pinheiros;2025;60 anos e mais;18703
+80063;Pirituba;2025;60 anos e mais;33572
+80064;Ponte Rasa;2025;60 anos e mais;18064
+80065;Raposo Tavares;2025;60 anos e mais;16521
+80066;República;2025;60 anos e mais;12873
+80067;Rio Pequeno;2025;60 anos e mais;21623
+80068;Sacomã;2025;60 anos e mais;48932
+80069;Santa Cecília;2025;60 anos e mais;20734
+80070;Santana;2025;60 anos e mais;29638
+80071;Santo Amaro;2025;60 anos e mais;20103
+80072;São Lucas;2025;60 anos e mais;31379
+80073;São Mateus;2025;60 anos e mais;26632
+80074;São Miguel;2025;60 anos e mais;14734
+80075;São Rafael;2025;60 anos e mais;22673
+80076;Sapopemba;2025;60 anos e mais;48715
+80077;Saúde;2025;60 anos e mais;36946
+80078;Sé;2025;60 anos e mais;3649
+80079;Socorro;2025;60 anos e mais;8703
+80080;Tatuapé;2025;60 anos e mais;25073
+80081;Tremembé;2025;60 anos e mais;36405
+80082;Tucuruvi;2025;60 anos e mais;24175
+80083;Vila Andrade;2025;60 anos e mais;22967
+80084;Vila Curuçá;2025;60 anos e mais;22756
+80085;Vila Formosa;2025;60 anos e mais;22410
+80086;Vila Guilherme;2025;60 anos e mais;12492
+80087;Vila Jacuí;2025;60 anos e mais;22713
+80088;Vila Leopoldina;2025;60 anos e mais;9382
+80089;Vila Maria;2025;60 anos e mais;19604
+80090;Vila Mariana;2025;60 anos e mais;37157
+80091;Vila Matilde;2025;60 anos e mais;22701
+80092;Vila Medeiros;2025;60 anos e mais;24435
+80093;Vila Prudente;2025;60 anos e mais;24137
+80094;Vila Sônia;2025;60 anos e mais;23571
+80095;São Domingos;2025;60 anos e mais;16856
+80096;Lajeado;2025;60 anos e mais;22534
+80001;Água Rasa;2030;60 anos e mais;21464
+80002;Alto de Pinheiros;2030;60 anos e mais;13165
+80003;Anhanguera;2030;60 anos e mais;14693
+80004;Aricanduva;2030;60 anos e mais;19791
+80005;Artur Alvim;2030;60 anos e mais;20898
+80006;Barra Funda;2030;60 anos e mais;4020
+80007;Bela Vista;2030;60 anos e mais;18067
+80008;Belém;2030;60 anos e mais;10572
+80009;Bom Retiro;2030;60 anos e mais;7781
+80010;Brás;2030;60 anos e mais;6110
+80011;Brasilândia;2030;60 anos e mais;45588
+80012;Butantã;2030;60 anos e mais;13850
+80013;Cachoeirinha;2030;60 anos e mais;25904
+80014;Cambuci;2030;60 anos e mais;9598
+80015;Campo Belo;2030;60 anos e mais;17511
+80016;Campo Grande;2030;60 anos e mais;28072
+80017;Campo Limpo;2030;60 anos e mais;40537
+80018;Cangaíba;2030;60 anos e mais;28177
+80019;Capão Redondo;2030;60 anos e mais;50092
+80020;Carrão;2030;60 anos e mais;22538
+80021;Casa Verde;2030;60 anos e mais;19228
+80022;Cidade Ademar;2030;60 anos e mais;51104
+80023;Cidade Dutra;2030;60 anos e mais;39477
+80024;Cidade Líder;2030;60 anos e mais;25764
+80025;Cidade Tiradentes;2030;60 anos e mais;36366
+80026;Consolação;2030;60 anos e mais;16542
+80027;Cursino;2030;60 anos e mais;29553
+80028;Ermelino Matarazzo;2030;60 anos e mais;22425
+80029;Freguesia do Ó;2030;60 anos e mais;31500
+80030;Grajaú;2030;60 anos e mais;61945
+80031;Guaianases;2030;60 anos e mais;17898
+80032;Moema;2030;60 anos e mais;28557
+80033;Iguatemi;2030;60 anos e mais;24911
+80034;Ipiranga;2030;60 anos e mais;28112
+80035;Itaim Bibi;2030;60 anos e mais;28131
+80036;Itaim Paulista;2030;60 anos e mais;39793
+80037;Itaquera;2030;60 anos e mais;38970
+80038;Jabaquara;2030;60 anos e mais;49948
+80039;Jaçanã;2030;60 anos e mais;18868
+80040;Jaguara;2030;60 anos e mais;5708
+80041;Jaguaré;2030;60 anos e mais;11489
+80042;Jaraguá;2030;60 anos e mais;37552
+80043;Jardim Ângela;2030;60 anos e mais;53424
+80044;Jardim Helena;2030;60 anos e mais;21214
+80045;Jardim Paulista;2030;60 anos e mais;27424
+80046;Jardim São Luís;2030;60 anos e mais;51889
+80047;José Bonifácio;2030;60 anos e mais;26898
+80048;Lapa;2030;60 anos e mais;19447
+80049;Liberdade;2030;60 anos e mais;18837
+80050;Limão;2030;60 anos e mais;16348
+80051;Mandaqui;2030;60 anos e mais;26387
+80052;Marsilac;2030;60 anos e mais;1580
+80053;Mooca;2030;60 anos e mais;21509
+80054;Morumbi;2030;60 anos e mais;13692
+80055;Parelheiros;2030;60 anos e mais;24450
+80056;Pari;2030;60 anos e mais;3892
+80057;Parque do Carmo;2030;60 anos e mais;12953
+80058;Pedreira;2030;60 anos e mais;29011
+80059;Penha;2030;60 anos e mais;31362
+80060;Perdizes;2030;60 anos e mais;34077
+80061;Perus;2030;60 anos e mais;14628
+80062;Pinheiros;2030;60 anos e mais;20014
+80063;Pirituba;2030;60 anos e mais;37342
+80064;Ponte Rasa;2030;60 anos e mais;19667
+80065;Raposo Tavares;2030;60 anos e mais;19371
+80066;República;2030;60 anos e mais;14827
+80067;Rio Pequeno;2030;60 anos e mais;24617
+80068;Sacomã;2030;60 anos e mais;56347
+80069;Santa Cecília;2030;60 anos e mais;22893
+80070;Santana;2030;60 anos e mais;30874
+80071;Santo Amaro;2030;60 anos e mais;21598
+80072;São Lucas;2030;60 anos e mais;34195
+80073;São Mateus;2030;60 anos e mais;30239
+80074;São Miguel;2030;60 anos e mais;16308
+80075;São Rafael;2030;60 anos e mais;28331
+80076;Sapopemba;2030;60 anos e mais;55402
+80077;Saúde;2030;60 anos e mais;40013
+80078;Sé;2030;60 anos e mais;4564
+80079;Socorro;2030;60 anos e mais;9095
+80080;Tatuapé;2030;60 anos e mais;27535
+80081;Tremembé;2030;60 anos e mais;43153
+80082;Tucuruvi;2030;60 anos e mais;25322
+80083;Vila Andrade;2030;60 anos e mais;30238
+80084;Vila Curuçá;2030;60 anos e mais;26886
+80085;Vila Formosa;2030;60 anos e mais;23863
+80086;Vila Guilherme;2030;60 anos e mais;13525
+80087;Vila Jacuí;2030;60 anos e mais;26827
+80088;Vila Leopoldina;2030;60 anos e mais;11162
+80089;Vila Maria;2030;60 anos e mais;21789
+80090;Vila Mariana;2030;60 anos e mais;39078
+80091;Vila Matilde;2030;60 anos e mais;24618
+80092;Vila Medeiros;2030;60 anos e mais;25985
+80093;Vila Prudente;2030;60 anos e mais;25877
+80094;Vila Sônia;2030;60 anos e mais;27119
+80095;São Domingos;2030;60 anos e mais;19012
+80096;Lajeado;2030;60 anos e mais;27340
+80001;Água Rasa;2035;60 anos e mais;22188
+80002;Alto de Pinheiros;2035;60 anos e mais;13464
+80003;Anhanguera;2035;60 anos e mais;18671
+80004;Aricanduva;2035;60 anos e mais;21205
+80005;Artur Alvim;2035;60 anos e mais;22640
+80006;Barra Funda;2035;60 anos e mais;4594
+80007;Bela Vista;2035;60 anos e mais;20245
+80008;Belém;2035;60 anos e mais;11622
+80009;Bom Retiro;2035;60 anos e mais;8849
+80010;Brás;2035;60 anos e mais;7087
+80011;Brasilândia;2035;60 anos e mais;52292
+80012;Butantã;2035;60 anos e mais;14692
+80013;Cachoeirinha;2035;60 anos e mais;28939
+80014;Cambuci;2035;60 anos e mais;10823
+80015;Campo Belo;2035;60 anos e mais;18608
+80016;Campo Grande;2035;60 anos e mais;31487
+80017;Campo Limpo;2035;60 anos e mais;47943
+80018;Cangaíba;2035;60 anos e mais;30903
+80019;Capão Redondo;2035;60 anos e mais;59014
+80020;Carrão;2035;60 anos e mais;24084
+80021;Casa Verde;2035;60 anos e mais;20330
+80022;Cidade Ademar;2035;60 anos e mais;58705
+80023;Cidade Dutra;2035;60 anos e mais;44406
+80024;Cidade Líder;2035;60 anos e mais;29219
+80025;Cidade Tiradentes;2035;60 anos e mais;42662
+80026;Consolação;2035;60 anos e mais;17459
+80027;Cursino;2035;60 anos e mais;31915
+80028;Ermelino Matarazzo;2035;60 anos e mais;25266
+80029;Freguesia do Ó;2035;60 anos e mais;33491
+80030;Grajaú;2035;60 anos e mais;73044
+80031;Guaianases;2035;60 anos e mais;20458
+80032;Moema;2035;60 anos e mais;31648
+80033;Iguatemi;2035;60 anos e mais;29520
+80034;Ipiranga;2035;60 anos e mais;31013
+80035;Itaim Bibi;2035;60 anos e mais;31348
+80036;Itaim Paulista;2035;60 anos e mais;45336
+80037;Itaquera;2035;60 anos e mais;44180
+80038;Jabaquara;2035;60 anos e mais;55130
+80039;Jaçanã;2035;60 anos e mais;20661
+80040;Jaguara;2035;60 anos e mais;6004
+80041;Jaguaré;2035;60 anos e mais;13585
+80042;Jaraguá;2035;60 anos e mais;44250
+80043;Jardim Ângela;2035;60 anos e mais;66270
+80044;Jardim Helena;2035;60 anos e mais;24150
+80045;Jardim Paulista;2035;60 anos e mais;29388
+80046;Jardim São Luís;2035;60 anos e mais;61139
+80047;José Bonifácio;2035;60 anos e mais;31030
+80048;Lapa;2035;60 anos e mais;20671
+80049;Liberdade;2035;60 anos e mais;21093
+80050;Limão;2035;60 anos e mais;17538
+80051;Mandaqui;2035;60 anos e mais;28768
+80052;Marsilac;2035;60 anos e mais;1664
+80053;Mooca;2035;60 anos e mais;23343
+80054;Morumbi;2035;60 anos e mais;15369
+80055;Parelheiros;2035;60 anos e mais;29543
+80056;Pari;2035;60 anos e mais;4330
+80057;Parque do Carmo;2035;60 anos e mais;14818
+80058;Pedreira;2035;60 anos e mais;34442
+80059;Penha;2035;60 anos e mais;33213
+80060;Perdizes;2035;60 anos e mais;36438
+80061;Perus;2035;60 anos e mais;17260
+80062;Pinheiros;2035;60 anos e mais;21493
+80063;Pirituba;2035;60 anos e mais;40433
+80064;Ponte Rasa;2035;60 anos e mais;20802
+80065;Raposo Tavares;2035;60 anos e mais;22490
+80066;República;2035;60 anos e mais;16958
+80067;Rio Pequeno;2035;60 anos e mais;27397
+80068;Sacomã;2035;60 anos e mais;63550
+80069;Santa Cecília;2035;60 anos e mais;25081
+80070;Santana;2035;60 anos e mais;31632
+80071;Santo Amaro;2035;60 anos e mais;23243
+80072;São Lucas;2035;60 anos e mais;36586
+80073;São Mateus;2035;60 anos e mais;33501
+80074;São Miguel;2035;60 anos e mais;17478
+80075;São Rafael;2035;60 anos e mais;34061
+80076;Sapopemba;2035;60 anos e mais;61399
+80077;Saúde;2035;60 anos e mais;42923
+80078;Sé;2035;60 anos e mais;5765
+80079;Socorro;2035;60 anos e mais;9526
+80080;Tatuapé;2035;60 anos e mais;29603
+80081;Tremembé;2035;60 anos e mais;49915
+80082;Tucuruvi;2035;60 anos e mais;26155
+80083;Vila Andrade;2035;60 anos e mais;38675
+80084;Vila Curuçá;2035;60 anos e mais;30981
+80085;Vila Formosa;2035;60 anos e mais;24787
+80086;Vila Guilherme;2035;60 anos e mais;14749
+80087;Vila Jacuí;2035;60 anos e mais;30528
+80088;Vila Leopoldina;2035;60 anos e mais;13547
+80089;Vila Maria;2035;60 anos e mais;23957
+80090;Vila Mariana;2035;60 anos e mais;41177
+80091;Vila Matilde;2035;60 anos e mais;26219
+80092;Vila Medeiros;2035;60 anos e mais;27331
+80093;Vila Prudente;2035;60 anos e mais;27319
+80094;Vila Sônia;2035;60 anos e mais;30905
+80095;São Domingos;2035;60 anos e mais;20809
+80096;Lajeado;2035;60 anos e mais;32143
+80001;Água Rasa;2040;60 anos e mais;23295
+80002;Alto de Pinheiros;2040;60 anos e mais;14007
+80003;Anhanguera;2040;60 anos e mais;22080
+80004;Aricanduva;2040;60 anos e mais;22523
+80005;Artur Alvim;2040;60 anos e mais;24762
+80006;Barra Funda;2040;60 anos e mais;5296
+80007;Bela Vista;2040;60 anos e mais;23916
+80008;Belém;2040;60 anos e mais;13209
+80009;Bom Retiro;2040;60 anos e mais;10467
+80010;Brás;2040;60 anos e mais;8286
+80011;Brasilândia;2040;60 anos e mais;59298
+80012;Butantã;2040;60 anos e mais;16152
+80013;Cachoeirinha;2040;60 anos e mais;32499
+80014;Cambuci;2040;60 anos e mais;12241
+80015;Campo Belo;2040;60 anos e mais;19883
+80016;Campo Grande;2040;60 anos e mais;34975
+80017;Campo Limpo;2040;60 anos e mais;56101
+80018;Cangaíba;2040;60 anos e mais;33568
+80019;Capão Redondo;2040;60 anos e mais;68751
+80020;Carrão;2040;60 anos e mais;25736
+80021;Casa Verde;2040;60 anos e mais;21983
+80022;Cidade Ademar;2040;60 anos e mais;67284
+80023;Cidade Dutra;2040;60 anos e mais;49663
+80024;Cidade Líder;2040;60 anos e mais;32975
+80025;Cidade Tiradentes;2040;60 anos e mais;49475
+80026;Consolação;2040;60 anos e mais;19215
+80027;Cursino;2040;60 anos e mais;34940
+80028;Ermelino Matarazzo;2040;60 anos e mais;28177
+80029;Freguesia do Ó;2040;60 anos e mais;35994
+80030;Grajaú;2040;60 anos e mais;84118
+80031;Guaianases;2040;60 anos e mais;23106
+80032;Moema;2040;60 anos e mais;35318
+80033;Iguatemi;2040;60 anos e mais;33827
+80034;Ipiranga;2040;60 anos e mais;34182
+80035;Itaim Bibi;2040;60 anos e mais;36056
+80036;Itaim Paulista;2040;60 anos e mais;50731
+80037;Itaquera;2040;60 anos e mais;49266
+80038;Jabaquara;2040;60 anos e mais;61600
+80039;Jaçanã;2040;60 anos e mais;22989
+80040;Jaguara;2040;60 anos e mais;6427
+80041;Jaguaré;2040;60 anos e mais;16083
+80042;Jaraguá;2040;60 anos e mais;51147
+80043;Jardim Ângela;2040;60 anos e mais;79502
+80044;Jardim Helena;2040;60 anos e mais;27073
+80045;Jardim Paulista;2040;60 anos e mais;33166
+80046;Jardim São Luís;2040;60 anos e mais;71002
+80047;José Bonifácio;2040;60 anos e mais;36551
+80048;Lapa;2040;60 anos e mais;22331
+80049;Liberdade;2040;60 anos e mais;24100
+80050;Limão;2040;60 anos e mais;19090
+80051;Mandaqui;2040;60 anos e mais;30775
+80052;Marsilac;2040;60 anos e mais;1801
+80053;Mooca;2040;60 anos e mais;25355
+80054;Morumbi;2040;60 anos e mais;17042
+80055;Parelheiros;2040;60 anos e mais;34441
+80056;Pari;2040;60 anos e mais;4800
+80057;Parque do Carmo;2040;60 anos e mais;16801
+80058;Pedreira;2040;60 anos e mais;40169
+80059;Penha;2040;60 anos e mais;35337
+80060;Perdizes;2040;60 anos e mais;40444
+80061;Perus;2040;60 anos e mais;19711
+80062;Pinheiros;2040;60 anos e mais;24017
+80063;Pirituba;2040;60 anos e mais;44082
+80064;Ponte Rasa;2040;60 anos e mais;22089
+80065;Raposo Tavares;2040;60 anos e mais;26174
+80066;República;2040;60 anos e mais;19693
+80067;Rio Pequeno;2040;60 anos e mais;30698
+80068;Sacomã;2040;60 anos e mais;71596
+80069;Santa Cecília;2040;60 anos e mais;28195
+80070;Santana;2040;60 anos e mais;32968
+80071;Santo Amaro;2040;60 anos e mais;24876
+80072;São Lucas;2040;60 anos e mais;39241
+80073;São Mateus;2040;60 anos e mais;36669
+80074;São Miguel;2040;60 anos e mais;18547
+80075;São Rafael;2040;60 anos e mais;39478
+80076;Sapopemba;2040;60 anos e mais;67556
+80077;Saúde;2040;60 anos e mais;47324
+80078;Sé;2040;60 anos e mais;6845
+80079;Socorro;2040;60 anos e mais;9985
+80080;Tatuapé;2040;60 anos e mais;31583
+80081;Tremembé;2040;60 anos e mais;56423
+80082;Tucuruvi;2040;60 anos e mais;27617
+80083;Vila Andrade;2040;60 anos e mais;47547
+80084;Vila Curuçá;2040;60 anos e mais;34470
+80085;Vila Formosa;2040;60 anos e mais;25878
+80086;Vila Guilherme;2040;60 anos e mais;16324
+80087;Vila Jacuí;2040;60 anos e mais;34305
+80088;Vila Leopoldina;2040;60 anos e mais;15976
+80089;Vila Maria;2040;60 anos e mais;26581
+80090;Vila Mariana;2040;60 anos e mais;45454
+80091;Vila Matilde;2040;60 anos e mais;28034
+80092;Vila Medeiros;2040;60 anos e mais;29128
+80093;Vila Prudente;2040;60 anos e mais;29368
+80094;Vila Sônia;2040;60 anos e mais;35445
+80095;São Domingos;2040;60 anos e mais;22753
+80096;Lajeado;2040;60 anos e mais;36431
+80001;Água Rasa;2045;60 anos e mais;24113
+80002;Alto de Pinheiros;2045;60 anos e mais;14108
+80003;Anhanguera;2045;60 anos e mais;25197
+80004;Aricanduva;2045;60 anos e mais;24058
+80005;Artur Alvim;2045;60 anos e mais;26895
+80006;Barra Funda;2045;60 anos e mais;6026
+80007;Bela Vista;2045;60 anos e mais;28707
+80008;Belém;2045;60 anos e mais;15082
+80009;Bom Retiro;2045;60 anos e mais;12239
+80010;Brás;2045;60 anos e mais;9628
+80011;Brasilândia;2045;60 anos e mais;66812
+80012;Butantã;2045;60 anos e mais;18060
+80013;Cachoeirinha;2045;60 anos e mais;36279
+80014;Cambuci;2045;60 anos e mais;13505
+80015;Campo Belo;2045;60 anos e mais;20881
+80016;Campo Grande;2045;60 anos e mais;37289
+80017;Campo Limpo;2045;60 anos e mais;63639
+80018;Cangaíba;2045;60 anos e mais;36673
+80019;Capão Redondo;2045;60 anos e mais;78576
+80020;Carrão;2045;60 anos e mais;27235
+80021;Casa Verde;2045;60 anos e mais;23833
+80022;Cidade Ademar;2045;60 anos e mais;75650
+80023;Cidade Dutra;2045;60 anos e mais;54679
+80024;Cidade Líder;2045;60 anos e mais;36762
+80025;Cidade Tiradentes;2045;60 anos e mais;56731
+80026;Consolação;2045;60 anos e mais;22233
+80027;Cursino;2045;60 anos e mais;38033
+80028;Ermelino Matarazzo;2045;60 anos e mais;31182
+80029;Freguesia do Ó;2045;60 anos e mais;38737
+80030;Grajaú;2045;60 anos e mais;95424
+80031;Guaianases;2045;60 anos e mais;25790
+80032;Moema;2045;60 anos e mais;37911
+80033;Iguatemi;2045;60 anos e mais;38544
+80034;Ipiranga;2045;60 anos e mais;37383
+80035;Itaim Bibi;2045;60 anos e mais;39866
+80036;Itaim Paulista;2045;60 anos e mais;56668
+80037;Itaquera;2045;60 anos e mais;53763
+80038;Jabaquara;2045;60 anos e mais;67639
+80039;Jaçanã;2045;60 anos e mais;25428
+80040;Jaguara;2045;60 anos e mais;6904
+80041;Jaguaré;2045;60 anos e mais;18531
+80042;Jaraguá;2045;60 anos e mais;57857
+80043;Jardim Ângela;2045;60 anos e mais;92365
+80044;Jardim Helena;2045;60 anos e mais;30162
+80045;Jardim Paulista;2045;60 anos e mais;37113
+80046;Jardim São Luís;2045;60 anos e mais;80929
+80047;José Bonifácio;2045;60 anos e mais;41480
+80048;Lapa;2045;60 anos e mais;23680
+80049;Liberdade;2045;60 anos e mais;27513
+80050;Limão;2045;60 anos e mais;20757
+80051;Mandaqui;2045;60 anos e mais;32459
+80052;Marsilac;2045;60 anos e mais;1914
+80053;Mooca;2045;60 anos e mais;27168
+80054;Morumbi;2045;60 anos e mais;18331
+80055;Parelheiros;2045;60 anos e mais;39019
+80056;Pari;2045;60 anos e mais;5442
+80057;Parque do Carmo;2045;60 anos e mais;18855
+80058;Pedreira;2045;60 anos e mais;45625
+80059;Penha;2045;60 anos e mais;37813
+80060;Perdizes;2045;60 anos e mais;44388
+80061;Perus;2045;60 anos e mais;21784
+80062;Pinheiros;2045;60 anos e mais;26535
+80063;Pirituba;2045;60 anos e mais;47901
+80064;Ponte Rasa;2045;60 anos e mais;23900
+80065;Raposo Tavares;2045;60 anos e mais;29494
+80066;República;2045;60 anos e mais;23006
+80067;Rio Pequeno;2045;60 anos e mais;34116
+80068;Sacomã;2045;60 anos e mais;79877
+80069;Santa Cecília;2045;60 anos e mais;31945
+80070;Santana;2045;60 anos e mais;34978
+80071;Santo Amaro;2045;60 anos e mais;26070
+80072;São Lucas;2045;60 anos e mais;42216
+80073;São Mateus;2045;60 anos e mais;40401
+80074;São Miguel;2045;60 anos e mais;19935
+80075;São Rafael;2045;60 anos e mais;44393
+80076;Sapopemba;2045;60 anos e mais;74657
+80077;Saúde;2045;60 anos e mais;51522
+80078;Sé;2045;60 anos e mais;7929
+80079;Socorro;2045;60 anos e mais;10583
+80080;Tatuapé;2045;60 anos e mais;33385
+80081;Tremembé;2045;60 anos e mais;62985
+80082;Tucuruvi;2045;60 anos e mais;29493
+80083;Vila Andrade;2045;60 anos e mais;55637
+80084;Vila Curuçá;2045;60 anos e mais;38347
+80085;Vila Formosa;2045;60 anos e mais;27331
+80086;Vila Guilherme;2045;60 anos e mais;17841
+80087;Vila Jacuí;2045;60 anos e mais;38396
+80088;Vila Leopoldina;2045;60 anos e mais;17570
+80089;Vila Maria;2045;60 anos e mais;29877
+80090;Vila Mariana;2045;60 anos e mais;50843
+80091;Vila Matilde;2045;60 anos e mais;29965
+80092;Vila Medeiros;2045;60 anos e mais;31755
+80093;Vila Prudente;2045;60 anos e mais;31621
+80094;Vila Sônia;2045;60 anos e mais;39872
+80095;São Domingos;2045;60 anos e mais;24765
+80096;Lajeado;2045;60 anos e mais;40946
+80001;Água Rasa;2050;60 anos e mais;24282
+80002;Alto de Pinheiros;2050;60 anos e mais;14010
+80003;Anhanguera;2050;60 anos e mais;28189
+80004;Aricanduva;2050;60 anos e mais;24875
+80005;Artur Alvim;2050;60 anos e mais;27865
+80006;Barra Funda;2050;60 anos e mais;6409
+80007;Bela Vista;2050;60 anos e mais;30912
+80008;Belém;2050;60 anos e mais;16027
+80009;Bom Retiro;2050;60 anos e mais;13608
+80010;Brás;2050;60 anos e mais;10588
+80011;Brasilândia;2050;60 anos e mais;72744
+80012;Butantã;2050;60 anos e mais;18936
+80013;Cachoeirinha;2050;60 anos e mais;38817
+80014;Cambuci;2050;60 anos e mais;14031
+80015;Campo Belo;2050;60 anos e mais;20837
+80016;Campo Grande;2050;60 anos e mais;37789
+80017;Campo Limpo;2050;60 anos e mais;68463
+80018;Cangaíba;2050;60 anos e mais;39058
+80019;Capão Redondo;2050;60 anos e mais;85766
+80020;Carrão;2050;60 anos e mais;27959
+80021;Casa Verde;2050;60 anos e mais;24934
+80022;Cidade Ademar;2050;60 anos e mais;81917
+80023;Cidade Dutra;2050;60 anos e mais;58366
+80024;Cidade Líder;2050;60 anos e mais;39383
+80025;Cidade Tiradentes;2050;60 anos e mais;62557
+80026;Consolação;2050;60 anos e mais;25059
+80027;Cursino;2050;60 anos e mais;39404
+80028;Ermelino Matarazzo;2050;60 anos e mais;33430
+80029;Freguesia do Ó;2050;60 anos e mais;40136
+80030;Grajaú;2050;60 anos e mais;104019
+80031;Guaianases;2050;60 anos e mais;27919
+80032;Moema;2050;60 anos e mais;38028
+80033;Iguatemi;2050;60 anos e mais;42674
+80034;Ipiranga;2050;60 anos e mais;38869
+80035;Itaim Bibi;2050;60 anos e mais;40121
+80036;Itaim Paulista;2050;60 anos e mais;61667
+80037;Itaquera;2050;60 anos e mais;56695
+80038;Jabaquara;2050;60 anos e mais;70710
+80039;Jaçanã;2050;60 anos e mais;27061
+80040;Jaguara;2050;60 anos e mais;7122
+80041;Jaguaré;2050;60 anos e mais;19849
+80042;Jaraguá;2050;60 anos e mais;62859
+80043;Jardim Ângela;2050;60 anos e mais;101528
+80044;Jardim Helena;2050;60 anos e mais;32571
+80045;Jardim Paulista;2050;60 anos e mais;37988
+80046;Jardim São Luís;2050;60 anos e mais;87773
+80047;José Bonifácio;2050;60 anos e mais;44069
+80048;Lapa;2050;60 anos e mais;23811
+80049;Liberdade;2050;60 anos e mais;29120
+80050;Limão;2050;60 anos e mais;21910
+80051;Mandaqui;2050;60 anos e mais;33394
+80052;Marsilac;2050;60 anos e mais;2091
+80053;Mooca;2050;60 anos e mais;27970
+80054;Morumbi;2050;60 anos e mais;18935
+80055;Parelheiros;2050;60 anos e mais;42671
+80056;Pari;2050;60 anos e mais;6003
+80057;Parque do Carmo;2050;60 anos e mais;20215
+80058;Pedreira;2050;60 anos e mais;50213
+80059;Penha;2050;60 anos e mais;39257
+80060;Perdizes;2050;60 anos e mais;45827
+80061;Perus;2050;60 anos e mais;23817
+80062;Pinheiros;2050;60 anos e mais;26687
+80063;Pirituba;2050;60 anos e mais;50040
+80064;Ponte Rasa;2050;60 anos e mais;25044
+80065;Raposo Tavares;2050;60 anos e mais;31208
+80066;República;2050;60 anos e mais;24712
+80067;Rio Pequeno;2050;60 anos e mais;35995
+80068;Sacomã;2050;60 anos e mais;84666
+80069;Santa Cecília;2050;60 anos e mais;33673
+80070;Santana;2050;60 anos e mais;35775
+80071;Santo Amaro;2050;60 anos e mais;26057
+80072;São Lucas;2050;60 anos e mais;43942
+80073;São Mateus;2050;60 anos e mais;42903
+80074;São Miguel;2050;60 anos e mais;21231
+80075;São Rafael;2050;60 anos e mais;47978
+80076;Sapopemba;2050;60 anos e mais;80167
+80077;Saúde;2050;60 anos e mais;52142
+80078;Sé;2050;60 anos e mais;8674
+80079;Socorro;2050;60 anos e mais;10673
+80080;Tatuapé;2050;60 anos e mais;34117
+80081;Tremembé;2050;60 anos e mais;68130
+80082;Tucuruvi;2050;60 anos e mais;30543
+80083;Vila Andrade;2050;60 anos e mais;62335
+80084;Vila Curuçá;2050;60 anos e mais;41174
+80085;Vila Formosa;2050;60 anos e mais;28329
+80086;Vila Guilherme;2050;60 anos e mais;18512
+80087;Vila Jacuí;2050;60 anos e mais;41767
+80088;Vila Leopoldina;2050;60 anos e mais;18097
+80089;Vila Maria;2050;60 anos e mais;32128
+80090;Vila Mariana;2050;60 anos e mais;52623
+80091;Vila Matilde;2050;60 anos e mais;31156
+80092;Vila Medeiros;2050;60 anos e mais;33713
+80093;Vila Prudente;2050;60 anos e mais;32954
+80094;Vila Sônia;2050;60 anos e mais;42666
+80095;São Domingos;2050;60 anos e mais;25881
+80096;Lajeado;2050;60 anos e mais;45174
