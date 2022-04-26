@@ -1,0 +1,821 @@
+"","localidades","periodos","taxa_natalidade"
+"1","Americana",1980,28.86
+"2","Americana",1981,30.45
+"3","Americana",1982,32.25
+"4","Americana",1983,29.14
+"5","Americana",1984,25
+"6","Americana",1985,24.84
+"7","Americana",1986,25.04
+"8","Americana",1987,23.63
+"9","Americana",1988,25.15
+"10","Americana",1989,22.34
+"11","Americana",1990,21.68
+"12","Americana",1991,20.89
+"13","Americana",1992,20.59
+"14","Americana",1993,20.56
+"15","Americana",1994,19.39
+"16","Americana",1995,18.88
+"17","Americana",1996,17.69
+"18","Americana",1997,17.78
+"19","Americana",1998,17.13
+"20","Americana",1999,16.19
+"21","Americana",2000,15.12
+"22","Americana",2001,14.2
+"23","Americana",2002,13.98
+"24","Americana",2003,13.43
+"25","Americana",2004,13.49
+"26","Americana",2005,13.72
+"27","Americana",2006,13.19
+"28","Americana",2007,12.49
+"29","Americana",2008,12.68
+"30","Americana",2009,12.11
+"31","Americana",2010,12.36
+"32","Americana",2011,11.96
+"33","Americana",2012,12.78
+"34","Americana",2013,12.14
+"35","Americana",2014,12.2
+"36","Americana",2015,12.81
+"37","Americana",2016,11.13
+"38","Americana",2017,11.74
+"39","Americana",2018,11.8
+"40","Americana",2019,NA
+"41","Americana",2020,NA
+"42","Artur Nogueira",1980,16.39
+"43","Artur Nogueira",1981,21.26
+"44","Artur Nogueira",1982,24.68
+"45","Artur Nogueira",1983,24.29
+"46","Artur Nogueira",1984,19.62
+"47","Artur Nogueira",1985,20.83
+"48","Artur Nogueira",1986,19.74
+"49","Artur Nogueira",1987,17.56
+"50","Artur Nogueira",1988,17.82
+"51","Artur Nogueira",1989,16.06
+"52","Artur Nogueira",1990,16.33
+"53","Artur Nogueira",1991,15.93
+"54","Artur Nogueira",1992,19.9
+"55","Artur Nogueira",1993,19.73
+"56","Artur Nogueira",1994,20.54
+"57","Artur Nogueira",1995,18.21
+"58","Artur Nogueira",1996,18.51
+"59","Artur Nogueira",1997,17.67
+"60","Artur Nogueira",1998,19.21
+"61","Artur Nogueira",1999,18.87
+"62","Artur Nogueira",2000,20.11
+"63","Artur Nogueira",2001,17.89
+"64","Artur Nogueira",2002,15.73
+"65","Artur Nogueira",2003,16.73
+"66","Artur Nogueira",2004,15.91
+"67","Artur Nogueira",2005,14.83
+"68","Artur Nogueira",2006,15.25
+"69","Artur Nogueira",2007,14.45
+"70","Artur Nogueira",2008,14.27
+"71","Artur Nogueira",2009,14.73
+"72","Artur Nogueira",2010,13.66
+"73","Artur Nogueira",2011,14.13
+"74","Artur Nogueira",2012,14.63
+"75","Artur Nogueira",2013,13.28
+"76","Artur Nogueira",2014,12.67
+"77","Artur Nogueira",2015,12.92
+"78","Artur Nogueira",2016,13.44
+"79","Artur Nogueira",2017,13.78
+"80","Artur Nogueira",2018,13.37
+"81","Artur Nogueira",2019,NA
+"82","Artur Nogueira",2020,NA
+"83","Campinas",1980,27.43
+"84","Campinas",1981,31.11
+"85","Campinas",1982,30.57
+"86","Campinas",1983,26.64
+"87","Campinas",1984,23.55
+"88","Campinas",1985,23.72
+"89","Campinas",1986,23.71
+"90","Campinas",1987,22.79
+"91","Campinas",1988,21.83
+"92","Campinas",1989,20.25
+"93","Campinas",1990,18.67
+"94","Campinas",1991,19.25
+"95","Campinas",1992,18.44
+"96","Campinas",1993,17.98
+"97","Campinas",1994,18.02
+"98","Campinas",1995,17.78
+"99","Campinas",1996,17.69
+"100","Campinas",1997,18.13
+"101","Campinas",1998,18.3
+"102","Campinas",1999,17.65
+"103","Campinas",2000,16.71
+"104","Campinas",2001,14.9
+"105","Campinas",2002,14.17
+"106","Campinas",2003,13.81
+"107","Campinas",2004,14.04
+"108","Campinas",2005,13.61
+"109","Campinas",2006,13.19
+"110","Campinas",2007,13.37
+"111","Campinas",2008,13.77
+"112","Campinas",2009,13.94
+"113","Campinas",2010,13.89
+"114","Campinas",2011,13.61
+"115","Campinas",2012,13.83
+"116","Campinas",2013,13.93
+"117","Campinas",2014,14.31
+"118","Campinas",2015,14.39
+"119","Campinas",2016,13.38
+"120","Campinas",2017,13.47
+"121","Campinas",2018,13.06
+"122","Campinas",2019,NA
+"123","Campinas",2020,NA
+"124","Cosmópolis",1980,27.18
+"125","Cosmópolis",1981,28.46
+"126","Cosmópolis",1982,26.84
+"127","Cosmópolis",1983,25.38
+"128","Cosmópolis",1984,22.88
+"129","Cosmópolis",1985,20.85
+"130","Cosmópolis",1986,21.05
+"131","Cosmópolis",1987,22.39
+"132","Cosmópolis",1988,23.07
+"133","Cosmópolis",1989,22.21
+"134","Cosmópolis",1990,22.04
+"135","Cosmópolis",1991,19.22
+"136","Cosmópolis",1992,21.04
+"137","Cosmópolis",1993,21.78
+"138","Cosmópolis",1994,21.54
+"139","Cosmópolis",1995,20.4
+"140","Cosmópolis",1996,18.5
+"141","Cosmópolis",1997,17.97
+"142","Cosmópolis",1998,20.62
+"143","Cosmópolis",1999,20.78
+"144","Cosmópolis",2000,18.4
+"145","Cosmópolis",2001,17.63
+"146","Cosmópolis",2002,17.43
+"147","Cosmópolis",2003,16.17
+"148","Cosmópolis",2004,16.42
+"149","Cosmópolis",2005,14.34
+"150","Cosmópolis",2006,14.5
+"151","Cosmópolis",2007,14.73
+"152","Cosmópolis",2008,15.35
+"153","Cosmópolis",2009,14.96
+"154","Cosmópolis",2010,14.62
+"155","Cosmópolis",2011,14.09
+"156","Cosmópolis",2012,13.43
+"157","Cosmópolis",2013,13.88
+"158","Cosmópolis",2014,12.84
+"159","Cosmópolis",2015,11.51
+"160","Cosmópolis",2016,10.33
+"161","Cosmópolis",2017,10.94
+"162","Cosmópolis",2018,10.94
+"163","Cosmópolis",2019,NA
+"164","Cosmópolis",2020,NA
+"165","Engenheiro Coelho",1980,NA
+"166","Engenheiro Coelho",1981,NA
+"167","Engenheiro Coelho",1982,NA
+"168","Engenheiro Coelho",1983,NA
+"169","Engenheiro Coelho",1984,NA
+"170","Engenheiro Coelho",1985,NA
+"171","Engenheiro Coelho",1986,NA
+"172","Engenheiro Coelho",1987,NA
+"173","Engenheiro Coelho",1988,NA
+"174","Engenheiro Coelho",1989,NA
+"175","Engenheiro Coelho",1990,NA
+"176","Engenheiro Coelho",1991,NA
+"177","Engenheiro Coelho",1992,NA
+"178","Engenheiro Coelho",1993,13.3
+"179","Engenheiro Coelho",1994,19.12
+"180","Engenheiro Coelho",1995,17.39
+"181","Engenheiro Coelho",1996,16.96
+"182","Engenheiro Coelho",1997,16.01
+"183","Engenheiro Coelho",1998,19.61
+"184","Engenheiro Coelho",1999,17.58
+"185","Engenheiro Coelho",2000,17.6
+"186","Engenheiro Coelho",2001,16.31
+"187","Engenheiro Coelho",2002,17.75
+"188","Engenheiro Coelho",2003,16.13
+"189","Engenheiro Coelho",2004,14.42
+"190","Engenheiro Coelho",2005,17.77
+"191","Engenheiro Coelho",2006,15.06
+"192","Engenheiro Coelho",2007,15.82
+"193","Engenheiro Coelho",2008,15.19
+"194","Engenheiro Coelho",2009,17.25
+"195","Engenheiro Coelho",2010,16.28
+"196","Engenheiro Coelho",2011,16.08
+"197","Engenheiro Coelho",2012,14.92
+"198","Engenheiro Coelho",2013,14.81
+"199","Engenheiro Coelho",2014,14.07
+"200","Engenheiro Coelho",2015,15.59
+"201","Engenheiro Coelho",2016,14.02
+"202","Engenheiro Coelho",2017,14.54
+"203","Engenheiro Coelho",2018,15.13
+"204","Engenheiro Coelho",2019,NA
+"205","Engenheiro Coelho",2020,NA
+"206","Holambra",1980,NA
+"207","Holambra",1981,NA
+"208","Holambra",1982,NA
+"209","Holambra",1983,NA
+"210","Holambra",1984,NA
+"211","Holambra",1985,NA
+"212","Holambra",1986,NA
+"213","Holambra",1987,NA
+"214","Holambra",1988,NA
+"215","Holambra",1989,NA
+"216","Holambra",1990,NA
+"217","Holambra",1991,NA
+"218","Holambra",1992,NA
+"219","Holambra",1993,21.22
+"220","Holambra",1994,20.79
+"221","Holambra",1995,21.64
+"222","Holambra",1996,21.22
+"223","Holambra",1997,24.58
+"224","Holambra",1998,24.39
+"225","Holambra",1999,24.35
+"226","Holambra",2000,24.32
+"227","Holambra",2001,22.34
+"228","Holambra",2002,19.48
+"229","Holambra",2003,21.04
+"230","Holambra",2004,21.28
+"231","Holambra",2005,19.89
+"232","Holambra",2006,15.13
+"233","Holambra",2007,15.25
+"234","Holambra",2008,17.06
+"235","Holambra",2009,16.14
+"236","Holambra",2010,17.77
+"237","Holambra",2011,13.45
+"238","Holambra",2012,14.98
+"239","Holambra",2013,12.51
+"240","Holambra",2014,15.07
+"241","Holambra",2015,16.69
+"242","Holambra",2016,16.35
+"243","Holambra",2017,15.2
+"244","Holambra",2018,14.53
+"245","Holambra",2019,NA
+"246","Holambra",2020,NA
+"247","Hortolândia",1980,NA
+"248","Hortolândia",1981,NA
+"249","Hortolândia",1982,NA
+"250","Hortolândia",1983,NA
+"251","Hortolândia",1984,NA
+"252","Hortolândia",1985,NA
+"253","Hortolândia",1986,NA
+"254","Hortolândia",1987,NA
+"255","Hortolândia",1988,NA
+"256","Hortolândia",1989,NA
+"257","Hortolândia",1990,NA
+"258","Hortolândia",1991,NA
+"259","Hortolândia",1992,NA
+"260","Hortolândia",1993,19.75
+"261","Hortolândia",1994,21.42
+"262","Hortolândia",1995,21.59
+"263","Hortolândia",1996,21.59
+"264","Hortolândia",1997,19.77
+"265","Hortolândia",1998,21.53
+"266","Hortolândia",1999,21.39
+"267","Hortolândia",2000,19.45
+"268","Hortolândia",2001,17.6
+"269","Hortolândia",2002,16.47
+"270","Hortolândia",2003,16.18
+"271","Hortolândia",2004,15.76
+"272","Hortolândia",2005,15.46
+"273","Hortolândia",2006,14.57
+"274","Hortolândia",2007,14.3
+"275","Hortolândia",2008,13.98
+"276","Hortolândia",2009,14.1
+"277","Hortolândia",2010,14.1
+"278","Hortolândia",2011,14.57
+"279","Hortolândia",2012,14.72
+"280","Hortolândia",2013,14.56
+"281","Hortolândia",2014,14.5
+"282","Hortolândia",2015,14.91
+"283","Hortolândia",2016,14.19
+"284","Hortolândia",2017,14.19
+"285","Hortolândia",2018,13.75
+"286","Hortolândia",2019,NA
+"287","Hortolândia",2020,NA
+"288","Indaiatuba",1980,26.79
+"289","Indaiatuba",1981,26.57
+"290","Indaiatuba",1982,27.09
+"291","Indaiatuba",1983,25.39
+"292","Indaiatuba",1984,22.93
+"293","Indaiatuba",1985,22.08
+"294","Indaiatuba",1986,22.48
+"295","Indaiatuba",1987,22.92
+"296","Indaiatuba",1988,23.06
+"297","Indaiatuba",1989,23.92
+"298","Indaiatuba",1990,23.52
+"299","Indaiatuba",1991,22.95
+"300","Indaiatuba",1992,20.57
+"301","Indaiatuba",1993,21.06
+"302","Indaiatuba",1994,21.69
+"303","Indaiatuba",1995,20.51
+"304","Indaiatuba",1996,19.54
+"305","Indaiatuba",1997,20.28
+"306","Indaiatuba",1998,20.11
+"307","Indaiatuba",1999,19.83
+"308","Indaiatuba",2000,18.99
+"309","Indaiatuba",2001,16.34
+"310","Indaiatuba",2002,16.35
+"311","Indaiatuba",2003,15.28
+"312","Indaiatuba",2004,16.06
+"313","Indaiatuba",2005,15.33
+"314","Indaiatuba",2006,14.51
+"315","Indaiatuba",2007,13.99
+"316","Indaiatuba",2008,13.89
+"317","Indaiatuba",2009,14.04
+"318","Indaiatuba",2010,13.78
+"319","Indaiatuba",2011,13.55
+"320","Indaiatuba",2012,14.16
+"321","Indaiatuba",2013,13.72
+"322","Indaiatuba",2014,14.04
+"323","Indaiatuba",2015,13.62
+"324","Indaiatuba",2016,13.23
+"325","Indaiatuba",2017,13.62
+"326","Indaiatuba",2018,14.13
+"327","Indaiatuba",2019,NA
+"328","Indaiatuba",2020,NA
+"329","Itatiba",1980,26.22
+"330","Itatiba",1981,28.4
+"331","Itatiba",1982,28.84
+"332","Itatiba",1983,27.46
+"333","Itatiba",1984,24.67
+"334","Itatiba",1985,24.29
+"335","Itatiba",1986,24.49
+"336","Itatiba",1987,23.73
+"337","Itatiba",1988,23.27
+"338","Itatiba",1989,22.61
+"339","Itatiba",1990,22.01
+"340","Itatiba",1991,20.1
+"341","Itatiba",1992,19.17
+"342","Itatiba",1993,19.55
+"343","Itatiba",1994,19.22
+"344","Itatiba",1995,19.35
+"345","Itatiba",1996,19.32
+"346","Itatiba",1997,18.64
+"347","Itatiba",1998,18.91
+"348","Itatiba",1999,17.93
+"349","Itatiba",2000,17.14
+"350","Itatiba",2001,15.89
+"351","Itatiba",2002,15.53
+"352","Itatiba",2003,14.9
+"353","Itatiba",2004,14.46
+"354","Itatiba",2005,13.82
+"355","Itatiba",2006,13.83
+"356","Itatiba",2007,12.99
+"357","Itatiba",2008,13.06
+"358","Itatiba",2009,12.71
+"359","Itatiba",2010,13.27
+"360","Itatiba",2011,14.39
+"361","Itatiba",2012,13.21
+"362","Itatiba",2013,13.9
+"363","Itatiba",2014,13.31
+"364","Itatiba",2015,13.44
+"365","Itatiba",2016,12.12
+"366","Itatiba",2017,12.29
+"367","Itatiba",2018,12.55
+"368","Itatiba",2019,NA
+"369","Itatiba",2020,NA
+"370","Jaguariúna",1980,31.47
+"371","Jaguariúna",1981,27.52
+"372","Jaguariúna",1982,27.85
+"373","Jaguariúna",1983,24.75
+"374","Jaguariúna",1984,23.04
+"375","Jaguariúna",1985,22.33
+"376","Jaguariúna",1986,24.06
+"377","Jaguariúna",1987,22.76
+"378","Jaguariúna",1988,20.2
+"379","Jaguariúna",1989,19.58
+"380","Jaguariúna",1990,19.83
+"381","Jaguariúna",1991,19.5
+"382","Jaguariúna",1992,18.18
+"383","Jaguariúna",1993,20.75
+"384","Jaguariúna",1994,19.06
+"385","Jaguariúna",1995,21.2
+"386","Jaguariúna",1996,19.56
+"387","Jaguariúna",1997,19.4
+"388","Jaguariúna",1998,19.54
+"389","Jaguariúna",1999,21.05
+"390","Jaguariúna",2000,19.67
+"391","Jaguariúna",2001,17.5
+"392","Jaguariúna",2002,17.84
+"393","Jaguariúna",2003,15.89
+"394","Jaguariúna",2004,16.44
+"395","Jaguariúna",2005,17.44
+"396","Jaguariúna",2006,16.53
+"397","Jaguariúna",2007,16.07
+"398","Jaguariúna",2008,14.48
+"399","Jaguariúna",2009,15.11
+"400","Jaguariúna",2010,15.15
+"401","Jaguariúna",2011,14.56
+"402","Jaguariúna",2012,14.95
+"403","Jaguariúna",2013,15.19
+"404","Jaguariúna",2014,14
+"405","Jaguariúna",2015,17.05
+"406","Jaguariúna",2016,14.97
+"407","Jaguariúna",2017,15.41
+"408","Jaguariúna",2018,15.54
+"409","Jaguariúna",2019,NA
+"410","Jaguariúna",2020,NA
+"411","Monte Mor",1980,27.93
+"412","Monte Mor",1981,29.49
+"413","Monte Mor",1982,32.28
+"414","Monte Mor",1983,26.89
+"415","Monte Mor",1984,24.82
+"416","Monte Mor",1985,24.21
+"417","Monte Mor",1986,24.53
+"418","Monte Mor",1987,22.74
+"419","Monte Mor",1988,24.24
+"420","Monte Mor",1989,26.4
+"421","Monte Mor",1990,24.4
+"422","Monte Mor",1991,24.48
+"423","Monte Mor",1992,21.3
+"424","Monte Mor",1993,23.45
+"425","Monte Mor",1994,25.25
+"426","Monte Mor",1995,21.65
+"427","Monte Mor",1996,25.75
+"428","Monte Mor",1997,22.18
+"429","Monte Mor",1998,25.2
+"430","Monte Mor",1999,22.77
+"431","Monte Mor",2000,21.58
+"432","Monte Mor",2001,20.01
+"433","Monte Mor",2002,20.83
+"434","Monte Mor",2003,17.19
+"435","Monte Mor",2004,16.59
+"436","Monte Mor",2005,17
+"437","Monte Mor",2006,16.43
+"438","Monte Mor",2007,17.13
+"439","Monte Mor",2008,15.7
+"440","Monte Mor",2009,16.19
+"441","Monte Mor",2010,16.13
+"442","Monte Mor",2011,16.36
+"443","Monte Mor",2012,16.57
+"444","Monte Mor",2013,17.33
+"445","Monte Mor",2014,17.35
+"446","Monte Mor",2015,17.85
+"447","Monte Mor",2016,16.42
+"448","Monte Mor",2017,16.36
+"449","Monte Mor",2018,14.89
+"450","Monte Mor",2019,NA
+"451","Monte Mor",2020,NA
+"452","Morungaba",1980,28.46
+"453","Morungaba",1981,25.14
+"454","Morungaba",1982,29.75
+"455","Morungaba",1983,25.37
+"456","Morungaba",1984,23.43
+"457","Morungaba",1985,23.91
+"458","Morungaba",1986,26.8
+"459","Morungaba",1987,21.61
+"460","Morungaba",1988,25.98
+"461","Morungaba",1989,24.83
+"462","Morungaba",1990,22.22
+"463","Morungaba",1991,25.81
+"464","Morungaba",1992,21.4
+"465","Morungaba",1993,23.73
+"466","Morungaba",1994,18.41
+"467","Morungaba",1995,25.74
+"468","Morungaba",1996,21.7
+"469","Morungaba",1997,25.23
+"470","Morungaba",1998,22.51
+"471","Morungaba",1999,21.33
+"472","Morungaba",2000,19.21
+"473","Morungaba",2001,20.5
+"474","Morungaba",2002,18.06
+"475","Morungaba",2003,15.35
+"476","Morungaba",2004,15.47
+"477","Morungaba",2005,17.05
+"478","Morungaba",2006,14.87
+"479","Morungaba",2007,16.95
+"480","Morungaba",2008,15.87
+"481","Morungaba",2009,14.42
+"482","Morungaba",2010,14.55
+"483","Morungaba",2011,12.85
+"484","Morungaba",2012,14.68
+"485","Morungaba",2013,13.18
+"486","Morungaba",2014,15.68
+"487","Morungaba",2015,12.52
+"488","Morungaba",2016,12.62
+"489","Morungaba",2017,12.33
+"490","Morungaba",2018,14.05
+"491","Morungaba",2019,NA
+"492","Morungaba",2020,NA
+"493","Nova Odessa",1980,26.4
+"494","Nova Odessa",1981,29.61
+"495","Nova Odessa",1982,30.7
+"496","Nova Odessa",1983,27.19
+"497","Nova Odessa",1984,21.69
+"498","Nova Odessa",1985,22.03
+"499","Nova Odessa",1986,22.89
+"500","Nova Odessa",1987,21.02
+"501","Nova Odessa",1988,21.43
+"502","Nova Odessa",1989,21.97
+"503","Nova Odessa",1990,20.17
+"504","Nova Odessa",1991,21.22
+"505","Nova Odessa",1992,20.27
+"506","Nova Odessa",1993,20.19
+"507","Nova Odessa",1994,18.27
+"508","Nova Odessa",1995,16.18
+"509","Nova Odessa",1996,14.27
+"510","Nova Odessa",1997,19.38
+"511","Nova Odessa",1998,20.09
+"512","Nova Odessa",1999,19.42
+"513","Nova Odessa",2000,18.27
+"514","Nova Odessa",2001,16.28
+"515","Nova Odessa",2002,14.87
+"516","Nova Odessa",2003,14.02
+"517","Nova Odessa",2004,13.5
+"518","Nova Odessa",2005,12.85
+"519","Nova Odessa",2006,13.72
+"520","Nova Odessa",2007,11.93
+"521","Nova Odessa",2008,12.39
+"522","Nova Odessa",2009,13
+"523","Nova Odessa",2010,12.3
+"524","Nova Odessa",2011,12.43
+"525","Nova Odessa",2012,13.47
+"526","Nova Odessa",2013,12.89
+"527","Nova Odessa",2014,13.74
+"528","Nova Odessa",2015,13.39
+"529","Nova Odessa",2016,12.86
+"530","Nova Odessa",2017,13.31
+"531","Nova Odessa",2018,12.44
+"532","Nova Odessa",2019,NA
+"533","Nova Odessa",2020,NA
+"534","Paulínia",1980,23.72
+"535","Paulínia",1981,18.91
+"536","Paulínia",1982,20.13
+"537","Paulínia",1983,23.25
+"538","Paulínia",1984,19.99
+"539","Paulínia",1985,21.67
+"540","Paulínia",1986,22.53
+"541","Paulínia",1987,22.65
+"542","Paulínia",1988,22.68
+"543","Paulínia",1989,25.7
+"544","Paulínia",1990,22.6
+"545","Paulínia",1991,23.03
+"546","Paulínia",1992,21.55
+"547","Paulínia",1993,20.89
+"548","Paulínia",1994,20.69
+"549","Paulínia",1995,21.05
+"550","Paulínia",1996,20.31
+"551","Paulínia",1997,22.06
+"552","Paulínia",1998,20.37
+"553","Paulínia",1999,19
+"554","Paulínia",2000,19.92
+"555","Paulínia",2001,18.71
+"556","Paulínia",2002,17.52
+"557","Paulínia",2003,17.8
+"558","Paulínia",2004,18.09
+"559","Paulínia",2005,17.47
+"560","Paulínia",2006,17.85
+"561","Paulínia",2007,16.53
+"562","Paulínia",2008,15.76
+"563","Paulínia",2009,15.72
+"564","Paulínia",2010,16.39
+"565","Paulínia",2011,15.68
+"566","Paulínia",2012,15.91
+"567","Paulínia",2013,15.18
+"568","Paulínia",2014,15.13
+"569","Paulínia",2015,15.53
+"570","Paulínia",2016,14.73
+"571","Paulínia",2017,15.16
+"572","Paulínia",2018,15.32
+"573","Paulínia",2019,NA
+"574","Paulínia",2020,NA
+"575","Pedreira",1980,25.73
+"576","Pedreira",1981,27.26
+"577","Pedreira",1982,26.77
+"578","Pedreira",1983,23.81
+"579","Pedreira",1984,18.73
+"580","Pedreira",1985,22.4
+"581","Pedreira",1986,23.38
+"582","Pedreira",1987,22.2
+"583","Pedreira",1988,15.61
+"584","Pedreira",1989,19.3
+"585","Pedreira",1990,22.12
+"586","Pedreira",1991,19.31
+"587","Pedreira",1992,17.33
+"588","Pedreira",1993,17.8
+"589","Pedreira",1994,17.53
+"590","Pedreira",1995,16.12
+"591","Pedreira",1996,15.24
+"592","Pedreira",1997,14.84
+"593","Pedreira",1998,15.5
+"594","Pedreira",1999,16.69
+"595","Pedreira",2000,16.28
+"596","Pedreira",2001,14.93
+"597","Pedreira",2002,14.83
+"598","Pedreira",2003,14.99
+"599","Pedreira",2004,14.41
+"600","Pedreira",2005,13.44
+"601","Pedreira",2006,14.39
+"602","Pedreira",2007,11.43
+"603","Pedreira",2008,12.72
+"604","Pedreira",2009,11.86
+"605","Pedreira",2010,12.6
+"606","Pedreira",2011,12.49
+"607","Pedreira",2012,10.29
+"608","Pedreira",2013,12.24
+"609","Pedreira",2014,11.67
+"610","Pedreira",2015,11.46
+"611","Pedreira",2016,10.18
+"612","Pedreira",2017,10.65
+"613","Pedreira",2018,10.48
+"614","Pedreira",2019,NA
+"615","Pedreira",2020,NA
+"616","Santa Bárbara d'Oeste",1980,24.94
+"617","Santa Bárbara d'Oeste",1981,26.56
+"618","Santa Bárbara d'Oeste",1982,23.41
+"619","Santa Bárbara d'Oeste",1983,23.21
+"620","Santa Bárbara d'Oeste",1984,20.37
+"621","Santa Bárbara d'Oeste",1985,23
+"622","Santa Bárbara d'Oeste",1986,20.44
+"623","Santa Bárbara d'Oeste",1987,21.86
+"624","Santa Bárbara d'Oeste",1988,21.07
+"625","Santa Bárbara d'Oeste",1989,21.02
+"626","Santa Bárbara d'Oeste",1990,20.09
+"627","Santa Bárbara d'Oeste",1991,19.22
+"628","Santa Bárbara d'Oeste",1992,17.85
+"629","Santa Bárbara d'Oeste",1993,18.03
+"630","Santa Bárbara d'Oeste",1994,18.34
+"631","Santa Bárbara d'Oeste",1995,17.24
+"632","Santa Bárbara d'Oeste",1996,16.41
+"633","Santa Bárbara d'Oeste",1997,15.67
+"634","Santa Bárbara d'Oeste",1998,16.78
+"635","Santa Bárbara d'Oeste",1999,15.57
+"636","Santa Bárbara d'Oeste",2000,14.56
+"637","Santa Bárbara d'Oeste",2001,13.39
+"638","Santa Bárbara d'Oeste",2002,13.12
+"639","Santa Bárbara d'Oeste",2003,12.82
+"640","Santa Bárbara d'Oeste",2004,13.5
+"641","Santa Bárbara d'Oeste",2005,13.14
+"642","Santa Bárbara d'Oeste",2006,12.66
+"643","Santa Bárbara d'Oeste",2007,12.11
+"644","Santa Bárbara d'Oeste",2008,12.18
+"645","Santa Bárbara d'Oeste",2009,12.37
+"646","Santa Bárbara d'Oeste",2010,12.43
+"647","Santa Bárbara d'Oeste",2011,12.56
+"648","Santa Bárbara d'Oeste",2012,12.8
+"649","Santa Bárbara d'Oeste",2013,12.12
+"650","Santa Bárbara d'Oeste",2014,12.59
+"651","Santa Bárbara d'Oeste",2015,13.13
+"652","Santa Bárbara d'Oeste",2016,12.77
+"653","Santa Bárbara d'Oeste",2017,12.77
+"654","Santa Bárbara d'Oeste",2018,12.61
+"655","Santa Bárbara d'Oeste",2019,NA
+"656","Santa Bárbara d'Oeste",2020,NA
+"657","Santo Antônio de Posse",1980,27.99
+"658","Santo Antônio de Posse",1981,29.7
+"659","Santo Antônio de Posse",1982,29.72
+"660","Santo Antônio de Posse",1983,29.65
+"661","Santo Antônio de Posse",1984,25.49
+"662","Santo Antônio de Posse",1985,26.15
+"663","Santo Antônio de Posse",1986,24.71
+"664","Santo Antônio de Posse",1987,20.62
+"665","Santo Antônio de Posse",1988,25.39
+"666","Santo Antônio de Posse",1989,24.63
+"667","Santo Antônio de Posse",1990,16.94
+"668","Santo Antônio de Posse",1991,20.25
+"669","Santo Antônio de Posse",1992,19.49
+"670","Santo Antônio de Posse",1993,19.39
+"671","Santo Antônio de Posse",1994,18.74
+"672","Santo Antônio de Posse",1995,15.44
+"673","Santo Antônio de Posse",1996,17.84
+"674","Santo Antônio de Posse",1997,18.24
+"675","Santo Antônio de Posse",1998,17.84
+"676","Santo Antônio de Posse",1999,16.64
+"677","Santo Antônio de Posse",2000,18.42
+"678","Santo Antônio de Posse",2001,16.07
+"679","Santo Antônio de Posse",2002,17.23
+"680","Santo Antônio de Posse",2003,14.87
+"681","Santo Antônio de Posse",2004,15.35
+"682","Santo Antônio de Posse",2005,14.22
+"683","Santo Antônio de Posse",2006,14.35
+"684","Santo Antônio de Posse",2007,13.88
+"685","Santo Antônio de Posse",2008,13.73
+"686","Santo Antônio de Posse",2009,15.72
+"687","Santo Antônio de Posse",2010,13.48
+"688","Santo Antônio de Posse",2011,14.14
+"689","Santo Antônio de Posse",2012,12.33
+"690","Santo Antônio de Posse",2013,13.32
+"691","Santo Antônio de Posse",2014,13.73
+"692","Santo Antônio de Posse",2015,13.76
+"693","Santo Antônio de Posse",2016,12.18
+"694","Santo Antônio de Posse",2017,11.93
+"695","Santo Antônio de Posse",2018,13.29
+"696","Santo Antônio de Posse",2019,NA
+"697","Santo Antônio de Posse",2020,NA
+"698","Sumaré",1980,22.49
+"699","Sumaré",1981,21.22
+"700","Sumaré",1982,22.59
+"701","Sumaré",1983,21.21
+"702","Sumaré",1984,20.05
+"703","Sumaré",1985,18.46
+"704","Sumaré",1986,19.19
+"705","Sumaré",1987,19.21
+"706","Sumaré",1988,20.46
+"707","Sumaré",1989,23
+"708","Sumaré",1990,20.89
+"709","Sumaré",1991,20.6
+"710","Sumaré",1992,20.51
+"711","Sumaré",1993,23.61
+"712","Sumaré",1994,21.6
+"713","Sumaré",1995,20.41
+"714","Sumaré",1996,19.6
+"715","Sumaré",1997,18.27
+"716","Sumaré",1998,19.11
+"717","Sumaré",1999,18.55
+"718","Sumaré",2000,17.97
+"719","Sumaré",2001,16.05
+"720","Sumaré",2002,16.44
+"721","Sumaré",2003,15.99
+"722","Sumaré",2004,15.35
+"723","Sumaré",2005,15.76
+"724","Sumaré",2006,15.7
+"725","Sumaré",2007,15.37
+"726","Sumaré",2008,15.5
+"727","Sumaré",2009,15.15
+"728","Sumaré",2010,15.4
+"729","Sumaré",2011,15.24
+"730","Sumaré",2012,15.5
+"731","Sumaré",2013,15.1
+"732","Sumaré",2014,14.95
+"733","Sumaré",2015,15.15
+"734","Sumaré",2016,14.27
+"735","Sumaré",2017,14.88
+"736","Sumaré",2018,14.03
+"737","Sumaré",2019,NA
+"738","Sumaré",2020,NA
+"739","Valinhos",1980,22.62
+"740","Valinhos",1981,23.05
+"741","Valinhos",1982,24.44
+"742","Valinhos",1983,22.73
+"743","Valinhos",1984,21.73
+"744","Valinhos",1985,21.72
+"745","Valinhos",1986,21.44
+"746","Valinhos",1987,20.32
+"747","Valinhos",1988,20.26
+"748","Valinhos",1989,19.93
+"749","Valinhos",1990,18.4
+"750","Valinhos",1991,16.23
+"751","Valinhos",1992,16.63
+"752","Valinhos",1993,17.64
+"753","Valinhos",1994,16.33
+"754","Valinhos",1995,15.81
+"755","Valinhos",1996,16.59
+"756","Valinhos",1997,16.39
+"757","Valinhos",1998,16.26
+"758","Valinhos",1999,15.66
+"759","Valinhos",2000,15.25
+"760","Valinhos",2001,13.46
+"761","Valinhos",2002,13.8
+"762","Valinhos",2003,12.8
+"763","Valinhos",2004,14.18
+"764","Valinhos",2005,12.48
+"765","Valinhos",2006,13.28
+"766","Valinhos",2007,12.89
+"767","Valinhos",2008,12.68
+"768","Valinhos",2009,11.73
+"769","Valinhos",2010,12.25
+"770","Valinhos",2011,11.98
+"771","Valinhos",2012,12.05
+"772","Valinhos",2013,12
+"773","Valinhos",2014,12.14
+"774","Valinhos",2015,12.87
+"775","Valinhos",2016,11.48
+"776","Valinhos",2017,11.51
+"777","Valinhos",2018,11.78
+"778","Valinhos",2019,NA
+"779","Valinhos",2020,NA
+"780","Vinhedo",1980,25.64
+"781","Vinhedo",1981,29.56
+"782","Vinhedo",1982,29.66
+"783","Vinhedo",1983,29.06
+"784","Vinhedo",1984,25.02
+"785","Vinhedo",1985,24.95
+"786","Vinhedo",1986,22.73
+"787","Vinhedo",1987,23.49
+"788","Vinhedo",1988,21.17
+"789","Vinhedo",1989,20.74
+"790","Vinhedo",1990,20.1
+"791","Vinhedo",1991,18.92
+"792","Vinhedo",1992,18.78
+"793","Vinhedo",1993,20.21
+"794","Vinhedo",1994,19.03
+"795","Vinhedo",1995,17.81
+"796","Vinhedo",1996,17.11
+"797","Vinhedo",1997,17.76
+"798","Vinhedo",1998,18.01
+"799","Vinhedo",1999,18.63
+"800","Vinhedo",2000,17.27
+"801","Vinhedo",2001,16.27
+"802","Vinhedo",2002,15.01
+"803","Vinhedo",2003,14.3
+"804","Vinhedo",2004,14.26
+"805","Vinhedo",2005,14.19
+"806","Vinhedo",2006,14.59
+"807","Vinhedo",2007,14.17
+"808","Vinhedo",2008,14.12
+"809","Vinhedo",2009,14.5
+"810","Vinhedo",2010,14.18
+"811","Vinhedo",2011,13.85
+"812","Vinhedo",2012,14.05
+"813","Vinhedo",2013,14.12
+"814","Vinhedo",2014,13.52
+"815","Vinhedo",2015,13.02
+"816","Vinhedo",2016,12.44
+"817","Vinhedo",2017,12.81
+"818","Vinhedo",2018,12.09
+"819","Vinhedo",2019,NA
+"820","Vinhedo",2020,NA
