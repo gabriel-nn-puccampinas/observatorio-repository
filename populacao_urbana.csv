@@ -1,21 +1,21 @@
-"Divisões Territoriais";"Divisões 2010"; "Divisões 2000"
-"Americana";209654;182159
-"Artur Nogueira";39998;30464
-"Campinas";1061540;953030
-"Cosmópolis";54634;42468
-"Engenheiro Coelho";11498;7009
-"Holambra";8184;3938
-"Hortolândia";192692;152523
-"Indaiatuba";199592;144740
-"Itatiba";85666;65925
-"Jaguariúna";43033;25812
-"Monte Mor";45978;34173
-"Morungaba";10051;7786
-"Nova Odessa";50444;41110
-"Paulínia";82069;50762
-"Pedreira";41495;34132
-"Santa Bárbara d'Oeste";178596;167917
-"Santo Antônio de Posse";18834;14326
-"Sumaré";238470;193937
-"Valinhos";101626;78506
-"Vinhedo";61612;46174
+"cod_ibge";"Divisões Territoriais";"Divisões 2010"; "Divisões 2000"
+3501608;Americana;209654;182159
+3503802;Artur Nogueira;39998;30464
+3509502;Campinas;1061540;953030
+3512803;Cosmópolis;54634;42468
+3515152;Engenheiro Coelho;11498;7009
+3519055;Holambra;8184;3938
+3519071;Hortolândia;192692;152523
+3520509;Indaiatuba;199592;144740
+3523404;Itatiba;85666;65925
+3524709;Jaguariúna;43033;25812
+3531803;Monte Mor;45978;34173
+3532009;Morungaba;10051;7786
+3533403;Nova Odessa;50444;41110
+3536505;Paulínia;82069;50762
+3537107;Pedreira;41495;34132
+3545803;Santa Bárbara d'Oeste;178596;167917
+3548005;Santo Antônio de Posse;18834;14326
+3552403;Sumaré;238470;193937
+3556206;Valinhos;101626;78506
+3556701;Vinhedo;61612;46174
