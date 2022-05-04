@@ -1,21 +1,21 @@
-"Divisões Territoriais";"Taxa Urbanização 2010";"Taxa Urbanização 2000"
-"Americana";99,5;99,8
-"Artur Nogueira";90,5;92
-"Campinas";98,3;98,3
-"Cosmópolis";92,9;95,7
-"Engenheiro Coelho";73,1;69,9
-"Holambra";72,4;54,6
-"Hortolândia";100;100
-"Indaiatuba";99;98,4
-"Itatiba";84,4;81,2
-"Jaguariúna";97,1;87,2
-"Monte Mor";93,9;91,5
-"Morungaba";85,4;78,6
-"Nova Odessa";98,4;97,7
-"Paulínia";99,9;98,9
-"Pedreira";99,8;96,9
-"Santa Bárbara d'Oeste";99,2;98,7
-"Santo Antônio de Posse";91,2;79
-"Sumaré";98,8;98,6
-"Valinhos";95,2;94,6
-"Vinhedo";96,9;97,8
+"cod_ibge";Divisões Territoriais;"Taxa Urbanização 2010";"Taxa Urbanização 2000"	
+3501608;Americana;99,5;99,8	
+3503802;Artur Nogueira;90,5;92	
+3509502;Campinas;98,3;98,3	
+3512803;Cosmópolis;92,9;95,7	
+3515152;Engenheiro Coelho;73,1;69,9	
+3519055;Holambra;72,4;54,6	
+3519071;Hortolândia;100;100	
+3520509;Indaiatuba;99;98,4	
+3523404;Itatiba;84,4;81,2	
+3524709;Jaguariúna;97,1;87,2	
+3531803;Monte Mor;93,9;91,5	
+3532009;Morungaba;85,4;78,6	
+3533403;Nova Odessa;98,4;97,7	
+3536505;Paulínia;99,9;98,9	
+3537107;Pedreira;99,8;96,9	
+3545803;Santa Bárbara d'Oeste;99,2;98,7	
+3548005;Santo Antônio de Posse;91,2;79	
+3552403;Sumaré;98,8;98,6	
+3556206;Valinhos;95,2;94,6	
+3556701;Vinhedo;96,9;97,8	
