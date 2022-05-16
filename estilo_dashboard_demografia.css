@@ -1,0 +1,181 @@
+
+body {
+  backgroud-color: #f0f1f4;
+}
+.main-header .logo {
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-weight: bold;
+  font-size: 22px;
+}
+.box-body  {
+
+}
+.box .box-solid .bg-navy {
+  background-color: #3444a3!important;
+  
+}
+.col-sm-3 {
+  background-color: #f0f1f4;
+}
+.instrucoes {
+}
+.main-header {
+}
+.skin-blue .main-header .navbar {
+  background-color: #3444a3;
+}
+.skin-blue .main-header .logo {
+  background-color: #3444a3;
+}
+.skin-blue .main-header .logo:hover {
+  background-color: #5764b4;
+}
+.skin-blue .main-header .navbar .sidebar-toggle:hover {
+  background-color: #5764b4;
+}
+.skin-blue .left-side, .skin-blue .main-sidebar {
+  background-color: #1a2130;
+}
+.skin-blue .sidebar-menu>li.active>a, .skin-blue .sidebar-menu>li:hover>a {
+  background-color: #1a2130;
+}
+.piramide-etaria {
+  
+}
+.box-header {
+  font-color: #FFFFFF;
+  color: #FFFFFF;
+}
+.p-instrucoes {
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  font-style: normal;
+} 
+.box .box-header {
+  background-color: #3444a3!important;
+}
+.box-municipio {
+  background-color: #5764b4!important;
+}
+.box-instrucoes {
+  border-top-left-radius: 9px;
+  border-top-right-radius: 9px;
+}
+.box-municipio > h2,
+.h2-indicadores-gerais {
+  font-family: "Helvetica","Arial", sans-serif;
+  font-size: 24px;
+  font-weight: regular;
+  font-style: normal;
+  color: #FFFFFF!important;
+  line-height: 1.5;
+}
+.box-municipio > em {
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: regular;
+  color: #ffffff!important;
+  line-height: 1.0;
+  padding-left: 5%;
+}
+#p-titulo {
+  background-color: unset;
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-size: 36px;
+  font-weight: bold;
+  font-style: normal;
+  font-color: #ffffff!important;
+  padding-top: 3%;
+  background-color: #3444a3!important;
+
+} 
+.h3 > #p-titulo {
+  font-color: #ffffff;
+}
+.box-municipio > .input-municipio {  
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-size: 24px;
+  font-weight: 100;
+  font-style: normal;
+}
+.shiny-input-container {
+  font-size: 20px;
+  text-align: center;
+  line-height: unset;
+}
+.box-instrucoes > h3 {
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-size: 32px;
+  font-weight: regular;
+  font-style: normal;
+  line-height: 1.5
+}
+.box-instrucoes,
+.box-municipio, 
+.small-box{
+  border-radius: 9px;
+  border-top: 3px solid #d2d6de;
+  box-shadow: 0 1px 1px rgba(0,0,0,.1);
+}
+.box-municipio,
+.box-instrucoes {
+  border-top-left-radius: unset;
+  border-top-right-radius: unset;
+}
+.box-instrucoes > em {
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: regular;
+  color: #ffffff;
+  line-height: 1.0;
+}
+.selectize-control {
+  max-width: 25%;
+  padding-left: 5%;
+}
+.h2-box-municipio {
+
+}
+.texto-ajuda {
+  font-size: 20px;
+}
+.small-box{
+  border: 1px solid #cccccc;
+}
+.box-instrucoes > .selectize-control > .selectize-input {
+  position: absolute;
+}
+.box {
+  border-top: unset;
+  border-bottom: unset;
+  border-left: unset;
+  border-right: unset;
+  box-shadow: unset;
+}
+.box-instrucoes > .col-sm-3 {
+  background-color: unset;
+}
+
+.row-indicadores-gerais,
+.row-evolucao-indicadores {
+  padding: 15px;
+}
+.h2-indicadores-gerais,
+.h2-evolucao-indicadores {
+  border-radius: 9px;
+  box-shadow: 0 1px 1px rgba(0,0,0,.1);
+  background-color: #3444a3;
+  padding: 10px;
+  font-weight: bold;
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  color: #ffffff;
+}
+.input-ano > .selectize-control {
+    max-width: 50%;
+    padding-left: 10%;
+}
